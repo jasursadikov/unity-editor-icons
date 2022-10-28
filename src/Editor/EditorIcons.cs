@@ -2,6 +2,8 @@
 
 using System;
 using System.IO;
+using System.Linq;
+using System.Net.NetworkInformation;
 using UnityEditor;
 using UnityEngine;
 
@@ -10,7 +12,6 @@ public static class IconsReadmeGenerator
     const string README = "README.md";
     const string ICONS_DIR = "img";
     const string ICONS_LIST = "list.txt";
-    const int COLOUMS_COUNT = 2;
 
     [MenuItem("Tools/Print Icons to README.md")]
     public static void SaveAll()
@@ -22,62 +23,50 @@ public static class IconsReadmeGenerator
         if (File.Exists(readme))
             File.Delete(readme);
 
-        var writer = new StreamWriter(File.OpenWrite(readme));
+        using var writer = new StreamWriter(File.OpenWrite(readme));
         var icons = File.ReadAllLines(iconsList);
 
         if (!Directory.Exists(iconsDir))
             Directory.CreateDirectory(iconsDir);
 
         writer.WriteLine($"# Unity {Application.unityVersion} Editor Icons List");
-        writer.WriteLine("<table>");
-        writer.WriteLine("<tbody>");
 
-        bool trOpened = false;
-        for (int i = 0, n = 0; i < icons.Length; i++, n++)
+        var textures = new Texture2D[icons.Length];
+
+        for (int i = 0; i < icons.Length; i++)
         {
-            if (n == COLOUMS_COUNT && trOpened)
-            {
-                writer.WriteLine("</tr>");
-                trOpened = false;
-                n = 0;
-            }
-
-            if (n == 0 && !trOpened)
-            {
-                writer.WriteLine("<tr>");
-                trOpened = true;
-            }
-
             try
             {
-                var icon = EditorGUIUtility.IconContent(icons[i]).image as Texture2D;
-                
-                if (icon == null)
-                {
-                    Debug.LogError("Cannot save the icon: null texture error!");
-                    n--;
-                    continue;
-                }
+                textures[i] = EditorGUIUtility.IconContent(icons[i]).image as Texture2D;
+            }
+            catch (Exception exception)
+            {
+                Debug.LogError(exception);
+            }
+        }
 
-                var path = Path.Combine(iconsDir, $"{icons[i]}.png");
+        textures = textures.Where(x => x != null).Distinct().OrderBy(x => x.width * x.height).ToArray();
 
-                var texture = new Texture2D(icon.width, icon.height, icon.format, icon.mipmapCount, true);
-                Graphics.CopyTexture(icon, texture);
+        writer.WriteLine("| Icon | Size | Name |");
+        writer.WriteLine("| --- | --- | --- |");
+
+        for (int i = 0; i < textures.Length; i++)
+        {
+            try
+            {
+                var path = Path.Combine(iconsDir, $"{textures[i].name}.png");
+                var texture = new Texture2D(textures[i].width, textures[i].height, textures[i].format, textures[i].mipmapCount, true);
+
+                Graphics.CopyTexture(textures[i], texture);
                 File.WriteAllBytes(path, texture.EncodeToPNG());
-                writer.WriteLine($"<td width=20><img src=\"{ICONS_DIR}/{icons[i]}.png\" height=16 width=16></td><td width=24><code>{icon.width}x{icon.height}</code></td><td><code>{icons[i]}</code></td>");
+
+                writer.WriteLine($"| <img src=\"{ICONS_DIR}/{textures[i].name}.png\" alt=\"{textures[i].name}\" width=\"16\" height=\"16\"> | `{textures[i].width}x{textures[i].height}` | `{textures[i].name}` |");
             }
             catch (Exception exception)
             {
                 Debug.LogError($"Failed to save a file: {exception.Message}");
-                n--;
             }
         }
-
-        writer.WriteLine("</tr>");
-        writer.WriteLine("</tbody>");
-        writer.WriteLine("</table>");
-
-        writer.Dispose();
     }
 }
 
