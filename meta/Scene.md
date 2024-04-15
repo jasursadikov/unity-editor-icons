@@ -1,0 +1,9 @@
+# Scene `16x16`
+<img src="/img/Scene.png" width=16 height=16>
+
+``` CSharp
+EditorGUIUtility.IconContent("Scene")
+```
+```
+-5240557991193983209
+```
