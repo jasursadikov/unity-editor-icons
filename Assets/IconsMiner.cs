@@ -94,7 +94,7 @@ public static class IconsMiner
             }
 
             readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("Original script author [https://github.com/halak](@halak)");
+            readmeBuilder.AppendLine("Original script author [@halak](https://github.com/halak)");
             File.WriteAllText("README.md", readmeBuilder.ToString());
             
             Debug.Log($"'READMD.md' is generated.");
