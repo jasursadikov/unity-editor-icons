@@ -30,8 +30,7 @@ public static class IconsMiner
             var readmeBuilder = new StringBuilder();
 
             readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
-            readmeBuilder.AppendLine("==============================");
-            readmeBuilder.AppendLine($"Unity version: {Application.unityVersion}");
+            readmeBuilder.AppendLine($"*Unity version* {Application.unityVersion}");
             readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent()`");
             readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("File ID");
@@ -52,7 +51,7 @@ public static class IconsMiner
             if (!Directory.Exists(descriptionsDirectoryPath))
                 Directory.CreateDirectory(descriptionsDirectoryPath);
 
-            for (int i = 0, n = 0; i < assetNames.Length; i++, n++)
+            for (int i = 0, n = 0; i < assetNames.Length; i++)
             {
                 try
                 {
@@ -75,7 +74,7 @@ public static class IconsMiner
 
                     var fileId = GetFileId(guidMaterialId);
                     iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
-                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 16)} height={Mathf.Min(icon.height, 16)} title=\"{icon.name}\">]({WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon.name, fileId)}) ");
+                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 32)} height={Mathf.Min(icon.height, 32)} title=\"{icon.name}\">]({WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon.name, fileId)}) ");
 
                     if (n >= coloumns - 1)
                     {
@@ -83,16 +82,18 @@ public static class IconsMiner
                         readmeBuilder.AppendLine();
                         n = 0;
                     }
+                    else
+                        n++;
                 }
                 catch (Exception exception)
                 {
                     Debug.LogException(exception);
-                    n--;
                 }
             }
 
+            readmeBuilder.AppendLine("Original script author: https://github.com/halak");
             File.WriteAllText("README.md", readmeBuilder.ToString());
-
+            
             Debug.Log($"'READMD.md' is generated.");
         }
         finally
