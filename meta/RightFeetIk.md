@@ -1,5 +1,5 @@
 # RightFeetIk `180x378`
-<img src="/img/RightFeetIk.png" width=512 height=512>
+<img src="/img/RightFeetIk.png" width=180 height=378>
 
 ``` CSharp
 EditorGUIUtility.IconContent("RightFeetIk")

@@ -1,5 +1,5 @@
 # WaitSpin09 `16x16`
-<img src="/img/WaitSpin09.png" width=512 height=512>
+<img src="/img/WaitSpin09.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("WaitSpin09")

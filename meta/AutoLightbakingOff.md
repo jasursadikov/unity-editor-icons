@@ -1,5 +1,5 @@
 # AutoLightbakingOff `16x16`
-<img src="/img/AutoLightbakingOff.png" width=512 height=512>
+<img src="/img/AutoLightbakingOff.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AutoLightbakingOff")

@@ -1,5 +1,5 @@
 # d_animationnocurve `11x11`
-<img src="/img/d_animationnocurve.png" width=512 height=512>
+<img src="/img/d_animationnocurve.png" width=11 height=11>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_animationnocurve")

@@ -1,5 +1,5 @@
 # InspectorLock `16x14`
-<img src="/img/InspectorLock.png" width=512 height=512>
+<img src="/img/InspectorLock.png" width=16 height=14>
 
 ``` CSharp
 EditorGUIUtility.IconContent("InspectorLock")

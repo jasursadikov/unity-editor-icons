@@ -1,5 +1,5 @@
 # d_Collab.FolderDeleted `64x64`
-<img src="/img/d_Collab.FolderDeleted.png" width=512 height=512>
+<img src="/img/d_Collab.FolderDeleted.png" width=64 height=64>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FolderDeleted")

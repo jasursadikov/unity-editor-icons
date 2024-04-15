@@ -1,5 +1,5 @@
 # GEAR `120x7`
-<img src="/img/GEAR.png" width=512 height=512>
+<img src="/img/GEAR.png" width=120 height=7>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GEAR")

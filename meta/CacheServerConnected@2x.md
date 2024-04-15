@@ -1,5 +1,5 @@
 # CacheServerConnected@2x `32x32`
-<img src="/img/CacheServerConnected@2x.png" width=512 height=512>
+<img src="/img/CacheServerConnected@2x.png" width=32 height=32>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CacheServerConnected@2x")

@@ -1,5 +1,5 @@
 # BuildSettings.Standalone On `32x32`
-<img src="/img/BuildSettings.Standalone%20On.png" width=512 height=512>
+<img src="/img/BuildSettings.Standalone%20On.png" width=32 height=32>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Standalone On")

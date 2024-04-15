@@ -1,5 +1,5 @@
 # d_WelcomeScreen.AssetStoreLogo `58x58`
-<img src="/img/d_WelcomeScreen.AssetStoreLogo.png" width=512 height=512>
+<img src="/img/d_WelcomeScreen.AssetStoreLogo.png" width=58 height=58>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_WelcomeScreen.AssetStoreLogo")

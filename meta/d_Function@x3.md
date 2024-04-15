@@ -1,5 +1,5 @@
 # d_Function@x3 `64x64`
-<img src="/img/d_Function@x3.png" width=512 height=512>
+<img src="/img/d_Function@x3.png" width=64 height=64>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Function@x3")

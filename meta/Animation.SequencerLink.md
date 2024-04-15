@@ -1,5 +1,5 @@
 # Animation.SequencerLink `15x10`
-<img src="/img/Animation.SequencerLink.png" width=512 height=512>
+<img src="/img/Animation.SequencerLink.png" width=15 height=10>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Animation.SequencerLink")

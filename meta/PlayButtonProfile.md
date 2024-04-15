@@ -1,5 +1,5 @@
 # PlayButtonProfile `21x20`
-<img src="/img/PlayButtonProfile.png" width=512 height=512>
+<img src="/img/PlayButtonProfile.png" width=21 height=20>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PlayButtonProfile")

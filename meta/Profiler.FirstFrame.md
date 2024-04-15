@@ -1,5 +1,5 @@
 # Profiler.FirstFrame `16x14`
-<img src="/img/Profiler.FirstFrame.png" width=512 height=512>
+<img src="/img/Profiler.FirstFrame.png" width=16 height=14>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.FirstFrame")

@@ -1,5 +1,5 @@
 # Grip_VerticalContainer `32x20`
-<img src="/img/Grip_VerticalContainer.png" width=512 height=512>
+<img src="/img/Grip_VerticalContainer.png" width=32 height=20>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Grip_VerticalContainer")

@@ -1,5 +1,5 @@
 # CollabPush `12x12`
-<img src="/img/CollabPush.png" width=512 height=512>
+<img src="/img/CollabPush.png" width=12 height=12>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CollabPush")

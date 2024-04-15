@@ -1,5 +1,5 @@
 # SaveAs `16x16`
-<img src="/img/SaveAs.png" width=512 height=512>
+<img src="/img/SaveAs.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SaveAs")

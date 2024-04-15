@@ -1,5 +1,5 @@
 # TreeEditor.BranchTranslate On `19x18`
-<img src="/img/TreeEditor.BranchTranslate%20On.png" width=512 height=512>
+<img src="/img/TreeEditor.BranchTranslate%20On.png" width=19 height=18>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.BranchTranslate On")

@@ -1,5 +1,5 @@
 # Groove `4x7`
-<img src="/img/Groove.png" width=512 height=512>
+<img src="/img/Groove.png" width=4 height=7>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Groove")

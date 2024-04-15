@@ -1,5 +1,5 @@
 # d_BillboardRenderer Icon `64x64`
-<img src="/img/d_BillboardRenderer%20Icon.png" width=512 height=512>
+<img src="/img/d_BillboardRenderer%20Icon.png" width=64 height=64>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_BillboardRenderer Icon")

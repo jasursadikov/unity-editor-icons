@@ -1,5 +1,5 @@
 # d_align_horizontally_left `15x15`
-<img src="/img/d_align_horizontally_left.png" width=512 height=512>
+<img src="/img/d_align_horizontally_left.png" width=15 height=15>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_align_horizontally_left")

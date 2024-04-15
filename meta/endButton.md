@@ -1,5 +1,5 @@
 # endButton `21x20`
-<img src="/img/endButton.png" width=512 height=512>
+<img src="/img/endButton.png" width=21 height=20>
 
 ``` CSharp
 EditorGUIUtility.IconContent("endButton")

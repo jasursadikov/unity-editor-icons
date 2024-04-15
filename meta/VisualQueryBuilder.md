@@ -1,5 +1,5 @@
 # VisualQueryBuilder `16x16`
-<img src="/img/VisualQueryBuilder.png" width=512 height=512>
+<img src="/img/VisualQueryBuilder.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("VisualQueryBuilder")

@@ -1,5 +1,5 @@
 # ageialogo `120x43`
-<img src="/img/ageialogo.png" width=512 height=512>
+<img src="/img/ageialogo.png" width=120 height=43>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ageialogo")

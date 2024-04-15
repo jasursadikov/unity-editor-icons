@@ -1,5 +1,5 @@
 # Package Manager `16x16`
-<img src="/img/Package%20Manager.png" width=512 height=512>
+<img src="/img/Package%20Manager.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Package Manager")

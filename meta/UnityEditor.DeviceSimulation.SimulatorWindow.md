@@ -1,5 +1,5 @@
 # UnityEditor.DeviceSimulation.SimulatorWindow `16x16`
-<img src="/img/UnityEditor.DeviceSimulation.SimulatorWindow.png" width=512 height=512>
+<img src="/img/UnityEditor.DeviceSimulation.SimulatorWindow.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.DeviceSimulation.SimulatorWindow")

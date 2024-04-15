@@ -1,5 +1,5 @@
 # beginButton-On `21x20`
-<img src="/img/beginButton-On.png" width=512 height=512>
+<img src="/img/beginButton-On.png" width=21 height=20>
 
 ``` CSharp
 EditorGUIUtility.IconContent("beginButton-On")

@@ -1,5 +1,5 @@
 # d_tranp `2x2`
-<img src="/img/d_tranp.png" width=512 height=512>
+<img src="/img/d_tranp.png" width=2 height=2>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_tranp")

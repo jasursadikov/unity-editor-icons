@@ -1,5 +1,5 @@
 # animationvisibilitytoggleoff `16x16`
-<img src="/img/animationvisibilitytoggleoff.png" width=512 height=512>
+<img src="/img/animationvisibilitytoggleoff.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("animationvisibilitytoggleoff")

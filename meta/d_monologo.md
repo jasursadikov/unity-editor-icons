@@ -1,5 +1,5 @@
 # d_monologo `58x70`
-<img src="/img/d_monologo.png" width=512 height=512>
+<img src="/img/d_monologo.png" width=58 height=70>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_monologo")

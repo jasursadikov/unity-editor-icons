@@ -1,5 +1,5 @@
 # ToolsIcon `15x14`
-<img src="/img/ToolsIcon.png" width=512 height=512>
+<img src="/img/ToolsIcon.png" width=15 height=14>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ToolsIcon")

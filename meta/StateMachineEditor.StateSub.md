@@ -1,5 +1,5 @@
 # StateMachineEditor.StateSub `150x150`
-<img src="/img/StateMachineEditor.StateSub.png" width=512 height=512>
+<img src="/img/StateMachineEditor.StateSub.png" width=150 height=150>
 
 ``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.StateSub")

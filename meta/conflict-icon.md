@@ -1,5 +1,5 @@
 # conflict-icon `12x10`
-<img src="/img/conflict-icon.png" width=512 height=512>
+<img src="/img/conflict-icon.png" width=12 height=10>
 
 ``` CSharp
 EditorGUIUtility.IconContent("conflict-icon")

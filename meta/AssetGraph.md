@@ -1,5 +1,5 @@
 # AssetGraph `64x64`
-<img src="/img/AssetGraph.png" width=512 height=512>
+<img src="/img/AssetGraph.png" width=64 height=64>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AssetGraph")

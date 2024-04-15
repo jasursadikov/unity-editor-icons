@@ -1,5 +1,5 @@
 # ClothInspector.SettingsTool `19x18`
-<img src="/img/ClothInspector.SettingsTool.png" width=512 height=512>
+<img src="/img/ClothInspector.SettingsTool.png" width=19 height=18>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ClothInspector.SettingsTool")

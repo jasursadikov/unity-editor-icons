@@ -1,5 +1,5 @@
 # TabToFilter `84x19`
-<img src="/img/TabToFilter.png" width=512 height=512>
+<img src="/img/TabToFilter.png" width=84 height=19>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TabToFilter")

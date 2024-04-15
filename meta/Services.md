@@ -1,5 +1,5 @@
 # Services `16x16`
-<img src="/img/Services.png" width=512 height=512>
+<img src="/img/Services.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Services")

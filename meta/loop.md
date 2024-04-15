@@ -1,5 +1,5 @@
 # loop `32x21`
-<img src="/img/loop.png" width=512 height=512>
+<img src="/img/loop.png" width=32 height=21>
 
 ``` CSharp
 EditorGUIUtility.IconContent("loop")

@@ -110,7 +110,7 @@ public static class IconsMiner
     private static string WriteIconDescriptionFile(string path, string pathToIcon, Texture2D icon, string fileId)
     {
         iconDescriptionBuilder.AppendLine($"# {icon.name} `{icon.width}x{icon.height}`");
-        iconDescriptionBuilder.AppendLine($"<img src=\"/{pathToIcon}\" width=512 height=512>");
+        iconDescriptionBuilder.AppendLine($"<img src=\"/{pathToIcon}\" width={Mathf.Min(icon.width, 512)} height={Mathf.Min(icon.height, 512)}>");
         iconDescriptionBuilder.AppendLine();
         iconDescriptionBuilder.AppendLine("``` CSharp");
         iconDescriptionBuilder.AppendLine($"EditorGUIUtility.IconContent(\"{icon.name}\")");

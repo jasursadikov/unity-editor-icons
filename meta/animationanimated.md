@@ -1,5 +1,5 @@
 # animationanimated `12x11`
-<img src="/img/animationanimated.png" width=512 height=512>
+<img src="/img/animationanimated.png" width=12 height=11>
 
 ``` CSharp
 EditorGUIUtility.IconContent("animationanimated")

@@ -1,5 +1,5 @@
 # AvatarController.Layer `124x52`
-<img src="/img/AvatarController.Layer.png" width=512 height=512>
+<img src="/img/AvatarController.Layer.png" width=124 height=52>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarController.Layer")

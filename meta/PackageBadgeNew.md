@@ -1,5 +1,5 @@
 # PackageBadgeNew `31x15`
-<img src="/img/PackageBadgeNew.png" width=512 height=512>
+<img src="/img/PackageBadgeNew.png" width=31 height=15>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PackageBadgeNew")

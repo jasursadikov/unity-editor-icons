@@ -1,5 +1,5 @@
 # Collab.FileMoved `64x64`
-<img src="/img/Collab.FileMoved.png" width=512 height=512>
+<img src="/img/Collab.FileMoved.png" width=64 height=64>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Collab.FileMoved")

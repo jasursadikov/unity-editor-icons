@@ -1,5 +1,5 @@
 # Audio Mixer `16x16`
-<img src="/img/Audio%20Mixer.png" width=512 height=512>
+<img src="/img/Audio%20Mixer.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Audio Mixer")

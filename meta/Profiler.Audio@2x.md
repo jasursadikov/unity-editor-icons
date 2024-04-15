@@ -1,5 +1,5 @@
 # Profiler.Audio@2x `32x32`
-<img src="/img/Profiler.Audio@2x.png" width=512 height=512>
+<img src="/img/Profiler.Audio@2x.png" width=32 height=32>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Audio@2x")

@@ -1,5 +1,5 @@
 # TreeEditor.LeafFreeHand `19x18`
-<img src="/img/TreeEditor.LeafFreeHand.png" width=512 height=512>
+<img src="/img/TreeEditor.LeafFreeHand.png" width=19 height=18>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.LeafFreeHand")

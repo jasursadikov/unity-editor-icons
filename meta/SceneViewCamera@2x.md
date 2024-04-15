@@ -1,5 +1,5 @@
 # SceneViewCamera@2x `32x28`
-<img src="/img/SceneViewCamera@2x.png" width=512 height=512>
+<img src="/img/SceneViewCamera@2x.png" width=32 height=28>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewCamera@2x")

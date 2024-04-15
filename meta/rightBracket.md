@@ -1,5 +1,5 @@
 # rightBracket `7x18`
-<img src="/img/rightBracket.png" width=512 height=512>
+<img src="/img/rightBracket.png" width=7 height=18>
 
 ``` CSharp
 EditorGUIUtility.IconContent("rightBracket")

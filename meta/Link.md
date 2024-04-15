@@ -1,5 +1,5 @@
 # Link `16x17`
-<img src="/img/Link.png" width=512 height=512>
+<img src="/img/Link.png" width=16 height=17>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Link")

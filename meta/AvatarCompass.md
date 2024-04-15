@@ -1,5 +1,5 @@
 # AvatarCompass `15x15`
-<img src="/img/AvatarCompass.png" width=512 height=512>
+<img src="/img/AvatarCompass.png" width=15 height=15>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarCompass")

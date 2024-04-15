@@ -1,5 +1,5 @@
 # KnobCShape `40x40`
-<img src="/img/KnobCShape.png" width=512 height=512>
+<img src="/img/KnobCShape.png" width=40 height=40>
 
 ``` CSharp
 EditorGUIUtility.IconContent("KnobCShape")

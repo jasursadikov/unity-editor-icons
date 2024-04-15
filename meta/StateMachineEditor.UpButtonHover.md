@@ -1,5 +1,5 @@
 # StateMachineEditor.UpButtonHover `100x100`
-<img src="/img/StateMachineEditor.UpButtonHover.png" width=512 height=512>
+<img src="/img/StateMachineEditor.UpButtonHover.png" width=100 height=100>
 
 ``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.UpButtonHover")
