@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Record On")
 ```
-## GUID
 ```
 476737588137909023
 ```

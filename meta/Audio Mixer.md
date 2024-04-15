@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Audio Mixer")
 ```
-## GUID
 ```
 5436946869657106676
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PlayButtonProfile")
 ```
-## GUID
 ```
 -8046626215917028164
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("sv_icon_none")
 ```
-## GUID
 ```
 6747498294819732817
 ```

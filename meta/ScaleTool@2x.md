@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ScaleTool@2x")
 ```
-## GUID
 ```
 3847936436455699715
 ```

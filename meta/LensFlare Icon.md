@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LensFlare Icon")
 ```
-## GUID
 ```
 7794051059240042548
 ```

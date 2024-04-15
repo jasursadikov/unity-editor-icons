@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Scrollbar Icon")
 ```
-## GUID
 ```
 -423515050303474391
 ```

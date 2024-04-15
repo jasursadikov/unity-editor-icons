@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Save")
 ```
-## GUID
 ```
 4116182597388747766
 ```

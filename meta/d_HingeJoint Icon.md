@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_HingeJoint Icon")
 ```
-## GUID
 ```
 -7049302993581372179
 ```

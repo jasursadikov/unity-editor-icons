@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.PSM.Small")
 ```
-## GUID
 ```
 -715787968158446526
 ```

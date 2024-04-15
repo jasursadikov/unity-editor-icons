@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("icon dropdown")
 ```
-## GUID
 ```
 3330941069740306283
 ```

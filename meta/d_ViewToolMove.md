@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ViewToolMove")
 ```
-## GUID
 ```
 1675631543789428847
 ```

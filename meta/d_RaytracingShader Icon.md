@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RaytracingShader Icon")
 ```
-## GUID
 ```
 2918531395169107095
 ```

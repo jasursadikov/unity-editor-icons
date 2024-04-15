@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("CommentMark@2x")
 ```
-## GUID
 ```
 5818579263652824633
 ```

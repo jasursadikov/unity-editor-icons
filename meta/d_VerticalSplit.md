@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_VerticalSplit")
 ```
-## GUID
 ```
 5489641135604499956
 ```

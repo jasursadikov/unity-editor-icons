@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Animation.NextKey@2x")
 ```
-## GUID
 ```
 5596665190693250607
 ```

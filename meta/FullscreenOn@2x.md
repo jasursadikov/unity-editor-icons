@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("FullscreenOn@2x")
 ```
-## GUID
 ```
 8426446963475970389
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_FilterSelectedOnly@2x")
 ```
-## GUID
 ```
 1418106307674997700
 ```

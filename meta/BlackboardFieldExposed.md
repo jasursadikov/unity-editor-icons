@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BlackboardFieldExposed")
 ```
-## GUID
 ```
 -7490312060416960128
 ```

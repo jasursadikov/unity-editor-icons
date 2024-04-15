@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_VisibilityOn")
 ```
-## GUID
 ```
 -7094240123405023973
 ```

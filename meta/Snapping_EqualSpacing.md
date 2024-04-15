@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Snapping_EqualSpacing")
 ```
-## GUID
 ```
 3014020918718948291
 ```

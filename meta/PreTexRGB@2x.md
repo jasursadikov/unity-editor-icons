@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PreTexRGB@2x")
 ```
-## GUID
 ```
 -5380321908329270156
 ```

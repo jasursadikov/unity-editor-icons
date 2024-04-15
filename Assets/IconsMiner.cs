@@ -32,14 +32,15 @@ public static class IconsMiner
             readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
             readmeBuilder.AppendLine($"**Unity version** {Application.unityVersion}");
             readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent()`");
+            readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>)`");
             readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("File ID");
+            readmeBuilder.AppendLine("### File ID");
             readmeBuilder.AppendLine("You can change script icon by file id");
             readmeBuilder.AppendLine("1. Open meta file (ex. `*.cs.meta`) in Text Editor");
             readmeBuilder.AppendLine("2. Modify the line `icon: {instanceID: 0}` to `icon: {fileID: <FILE ID>, guid: 0000000000000000d000000000000000, type: 0}`");
             readmeBuilder.AppendLine("3. Save and focus Unity Editor");
             readmeBuilder.AppendLine();
+            readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
             readmeBuilder.AppendLine("| 1 | 2 | 3 | 4 | 5 | 6 | 7 |");
             readmeBuilder.AppendLine("| --- | --- | --- | --- | --- | --- | --- |");
 
@@ -75,7 +76,7 @@ public static class IconsMiner
 
                     var fileId = GetFileId(guidMaterialId);
                     iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
-                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 32)} height={Mathf.Min(icon.height, 32)} title=\"{icon.name}\">]({WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon.name, fileId)}) ");
+                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon.name, fileId)}) ");
 
                     if (n >= coloumns - 1)
                     {
@@ -93,7 +94,7 @@ public static class IconsMiner
             }
 
             readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("Original script author: https://github.com/halak");
+            readmeBuilder.AppendLine("Original script author @halak");
             File.WriteAllText("README.md", readmeBuilder.ToString());
             
             Debug.Log($"'READMD.md' is generated.");
@@ -113,7 +114,6 @@ public static class IconsMiner
         iconDescriptionBuilder.AppendLine("``` CSharp");
         iconDescriptionBuilder.AppendLine($"EditorGUIUtility.IconContent(\"{iconName}\")");
         iconDescriptionBuilder.AppendLine("```");
-        iconDescriptionBuilder.AppendLine($"## GUID");
         iconDescriptionBuilder.AppendLine("```");
         iconDescriptionBuilder.AppendLine(fileId);
         iconDescriptionBuilder.AppendLine("```");

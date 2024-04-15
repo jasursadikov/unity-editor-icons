@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FileDeleted")
 ```
-## GUID
 ```
 6049887228244754300
 ```

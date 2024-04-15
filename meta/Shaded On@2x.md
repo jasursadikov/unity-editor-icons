@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Shaded On@2x")
 ```
-## GUID
 ```
 -3703181929455899707
 ```

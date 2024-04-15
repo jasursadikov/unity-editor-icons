@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SearchJump Icon")
 ```
-## GUID
 ```
 -7171221174593750589
 ```

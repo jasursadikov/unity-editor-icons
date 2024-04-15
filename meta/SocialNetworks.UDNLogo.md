@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SocialNetworks.UDNLogo")
 ```
-## GUID
 ```
 7973869797197511313
 ```

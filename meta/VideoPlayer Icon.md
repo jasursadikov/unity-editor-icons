@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VideoPlayer Icon")
 ```
-## GUID
 ```
 8975972243180925910
 ```

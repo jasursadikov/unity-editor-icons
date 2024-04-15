@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VisibilityOff")
 ```
-## GUID
 ```
 7150048286184752995
 ```

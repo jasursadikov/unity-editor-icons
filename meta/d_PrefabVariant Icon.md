@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PrefabVariant Icon")
 ```
-## GUID
 ```
 8597360482269930223
 ```

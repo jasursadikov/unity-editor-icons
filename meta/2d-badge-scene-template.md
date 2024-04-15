@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("2d-badge-scene-template")
 ```
-## GUID
 ```
 -722986164535417528
 ```

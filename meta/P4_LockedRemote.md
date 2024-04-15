@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_LockedRemote")
 ```
-## GUID
 ```
 1354922076438937704
 ```

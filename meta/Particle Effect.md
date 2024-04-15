@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Particle Effect")
 ```
-## GUID
 ```
 -3708470382322310263
 ```

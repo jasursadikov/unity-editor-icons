@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ScriptableObject On Icon")
 ```
-## GUID
 ```
 -267956487659557890
 ```

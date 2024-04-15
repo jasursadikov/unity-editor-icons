@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Grid.PaintTool@2x")
 ```
-## GUID
 ```
 4681095314397999575
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TextAsset Icon")
 ```
-## GUID
 ```
 1831301468445745894
 ```

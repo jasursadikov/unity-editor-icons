@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_HorizontalLayoutGroup Icon")
 ```
-## GUID
 ```
 7334568976493443608
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_Offline")
 ```
-## GUID
 ```
 -2748705397403989189
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LightProbeGroup Icon")
 ```
-## GUID
 ```
 221059808270465561
 ```

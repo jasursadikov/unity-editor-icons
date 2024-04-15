@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RectTool")
 ```
-## GUID
 ```
 -4775378067382821976
 ```

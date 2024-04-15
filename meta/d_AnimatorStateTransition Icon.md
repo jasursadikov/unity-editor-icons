@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AnimatorStateTransition Icon")
 ```
-## GUID
 ```
 3920131678736184407
 ```

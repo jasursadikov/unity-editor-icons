@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SphereCollider Icon")
 ```
-## GUID
 ```
 -1388254251988990271
 ```

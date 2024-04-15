@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.FileAccess@2x")
 ```
-## GUID
 ```
 2042245285604579243
 ```

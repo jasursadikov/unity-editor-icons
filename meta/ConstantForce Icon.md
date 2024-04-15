@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ConstantForce Icon")
 ```
-## GUID
 ```
 -801216066870577310
 ```

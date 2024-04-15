@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("GUIText Icon")
 ```
-## GUID
 ```
 521260042654867974
 ```

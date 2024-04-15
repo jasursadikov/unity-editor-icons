@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("GameObject Icon")
 ```
-## GUID
 ```
 5203165878028906046
 ```

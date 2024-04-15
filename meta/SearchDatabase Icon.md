@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SearchDatabase Icon")
 ```
-## GUID
 ```
 3089770856460897455
 ```

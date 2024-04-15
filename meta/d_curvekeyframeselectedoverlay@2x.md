@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_curvekeyframeselectedoverlay@2x")
 ```
-## GUID
 ```
 3968257128542437649
 ```

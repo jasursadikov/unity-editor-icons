@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_DebuggerDisabled")
 ```
-## GUID
 ```
 -5458696979244044411
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_HierarchyLock@2x")
 ```
-## GUID
 ```
 -3598376119244046132
 ```

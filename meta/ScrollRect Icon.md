@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ScrollRect Icon")
 ```
-## GUID
 ```
 -2272557510330483260
 ```

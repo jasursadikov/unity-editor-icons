@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("CameraPreview@2x")
 ```
-## GUID
 ```
 8526432084837784107
 ```

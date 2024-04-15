@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GridAxisX On")
 ```
-## GUID
 ```
 8173462382329874327
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.FlashPlayer.Small")
 ```
-## GUID
 ```
 4366120842335875659
 ```

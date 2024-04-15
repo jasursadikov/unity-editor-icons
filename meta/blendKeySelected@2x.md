@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("blendKeySelected@2x")
 ```
-## GUID
 ```
 -5330284743984316167
 ```

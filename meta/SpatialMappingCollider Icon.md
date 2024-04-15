@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SpatialMappingCollider Icon")
 ```
-## GUID
 ```
 -2746038756767647376
 ```

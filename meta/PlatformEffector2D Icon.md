@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PlatformEffector2D Icon")
 ```
-## GUID
 ```
 201999883758500202
 ```

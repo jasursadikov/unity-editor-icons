@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_FreeformLayoutGroup Icon")
 ```
-## GUID
 ```
 -2660986596006838811
 ```

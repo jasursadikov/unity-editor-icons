@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("scenepicking_pickable-mixed@2x")
 ```
-## GUID
 ```
 -6875611401495199692
 ```

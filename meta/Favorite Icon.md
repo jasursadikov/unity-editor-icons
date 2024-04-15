@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Favorite Icon")
 ```
-## GUID
 ```
 -7038881719495870386
 ```

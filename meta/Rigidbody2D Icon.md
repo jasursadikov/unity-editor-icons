@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Rigidbody2D Icon")
 ```
-## GUID
 ```
 8380556064904572528
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreTexA")
 ```
-## GUID
 ```
 7632835222734365967
 ```

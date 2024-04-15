@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AutoLightbakingOff@2x")
 ```
-## GUID
 ```
 7639127569424470396
 ```

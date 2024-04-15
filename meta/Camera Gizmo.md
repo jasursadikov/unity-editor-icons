@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Camera Gizmo")
 ```
-## GUID
 ```
 -9002153236391373477
 ```

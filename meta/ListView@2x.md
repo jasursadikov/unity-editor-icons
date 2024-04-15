@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ListView@2x")
 ```
-## GUID
 ```
 1916951299319821333
 ```

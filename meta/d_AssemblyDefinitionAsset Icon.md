@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AssemblyDefinitionAsset Icon")
 ```
-## GUID
 ```
 -2043537854490963205
 ```

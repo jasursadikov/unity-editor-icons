@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("FrameCapture On")
 ```
-## GUID
 ```
 7685827182630506593
 ```

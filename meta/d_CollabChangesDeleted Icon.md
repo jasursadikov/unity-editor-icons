@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CollabChangesDeleted Icon")
 ```
-## GUID
 ```
 -403734839009078261
 ```

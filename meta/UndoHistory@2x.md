@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UndoHistory@2x")
 ```
-## GUID
 ```
 -2685236767990123400
 ```

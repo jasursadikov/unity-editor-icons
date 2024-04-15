@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AnimatorOverrideController On Icon")
 ```
-## GUID
 ```
 -4007062626885469974
 ```

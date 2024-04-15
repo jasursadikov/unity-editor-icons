@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Installed-Selected-Focused@2x")
 ```
-## GUID
 ```
 1261936946955062664
 ```

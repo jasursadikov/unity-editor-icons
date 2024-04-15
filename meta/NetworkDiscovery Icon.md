@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NetworkDiscovery Icon")
 ```
-## GUID
 ```
 -5816082511156025716
 ```

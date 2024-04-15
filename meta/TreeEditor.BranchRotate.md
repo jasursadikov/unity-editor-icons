@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.BranchRotate")
 ```
-## GUID
 ```
 -3333845361408702179
 ```

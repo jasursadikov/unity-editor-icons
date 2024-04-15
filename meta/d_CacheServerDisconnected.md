@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CacheServerDisconnected")
 ```
-## GUID
 ```
 462771044136129715
 ```

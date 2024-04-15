@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CanvasRenderer Icon")
 ```
-## GUID
 ```
 -3593279590788295529
 ```

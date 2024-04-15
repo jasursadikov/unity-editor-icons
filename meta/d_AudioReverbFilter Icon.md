@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioReverbFilter Icon")
 ```
-## GUID
 ```
 -7400320414999350075
 ```

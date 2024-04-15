@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Standalone On@2x")
 ```
-## GUID
 ```
 4576219794024598259
 ```

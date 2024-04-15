@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Outline Icon")
 ```
-## GUID
 ```
 -8876579548772443697
 ```

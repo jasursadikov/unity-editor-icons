@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SpeedTreeModel Icon")
 ```
-## GUID
 ```
 -8238028006302236665
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_WheelCollider Icon")
 ```
-## GUID
 ```
 -6885338036142599965
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Search Icon")
 ```
-## GUID
 ```
 -4275338088796684673
 ```

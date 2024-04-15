@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RectMask2D Icon")
 ```
-## GUID
 ```
 5601005728230766229
 ```

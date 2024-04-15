@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CreateNew")
 ```
-## GUID
 ```
 4212760987699253807
 ```

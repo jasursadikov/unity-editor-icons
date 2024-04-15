@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AssetStore Icon")
 ```
-## GUID
 ```
 6635635470466451846
 ```

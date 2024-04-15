@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.PSP2")
 ```
-## GUID
 ```
 9006858688270511880
 ```

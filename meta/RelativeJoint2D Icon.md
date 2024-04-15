@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("RelativeJoint2D Icon")
 ```
-## GUID
 ```
 -9163754048066453853
 ```

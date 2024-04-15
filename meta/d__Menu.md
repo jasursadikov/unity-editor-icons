@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d__Menu")
 ```
-## GUID
 ```
 255284738923976659
 ```

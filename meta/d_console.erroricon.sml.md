@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_console.erroricon.sml")
 ```
-## GUID
 ```
 8521385900707336378
 ```

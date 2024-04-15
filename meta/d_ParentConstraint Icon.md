@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ParentConstraint Icon")
 ```
-## GUID
 ```
 581906182735090199
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PauseButton@2x")
 ```
-## GUID
 ```
 -1070116189790665407
 ```

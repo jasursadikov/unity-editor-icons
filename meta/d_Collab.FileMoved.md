@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FileMoved")
 ```
-## GUID
 ```
 8389502801107628237
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ProbeVolume Icon")
 ```
-## GUID
 ```
 2543878096146203405
 ```

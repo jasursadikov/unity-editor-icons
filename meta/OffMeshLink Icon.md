@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("OffMeshLink Icon")
 ```
-## GUID
 ```
 8983077705596183227
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Font Icon")
 ```
-## GUID
 ```
 700968415227373761
 ```

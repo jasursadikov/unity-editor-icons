@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_editconstraints_16")
 ```
-## GUID
 ```
 -3693818722149281418
 ```

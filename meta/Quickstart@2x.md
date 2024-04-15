@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Quickstart@2x")
 ```
-## GUID
 ```
 2238250649249875563
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TerrainInspector.TerrainToolLower On")
 ```
-## GUID
 ```
 -6373790185862407523
 ```

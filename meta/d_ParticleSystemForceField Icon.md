@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ParticleSystemForceField Icon")
 ```
-## GUID
 ```
 -1815927437859194943
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ViewToolOrbit@2x")
 ```
-## GUID
 ```
 -4832323505033991861
 ```

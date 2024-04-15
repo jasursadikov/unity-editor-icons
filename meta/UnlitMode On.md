@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnlitMode On")
 ```
-## GUID
 ```
 1314282404720571864
 ```

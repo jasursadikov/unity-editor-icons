@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("HoverBar_LeftRight")
 ```
-## GUID
 ```
 -1153194198751683936
 ```

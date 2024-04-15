@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SyncSearch On")
 ```
-## GUID
 ```
 -8445512585859030121
 ```

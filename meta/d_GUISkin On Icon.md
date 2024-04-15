@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GUISkin On Icon")
 ```
-## GUID
 ```
 -7147959027845547391
 ```

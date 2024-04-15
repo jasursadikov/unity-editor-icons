@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PhysicalResolution Icon")
 ```
-## GUID
 ```
 -7120965505878067182
 ```

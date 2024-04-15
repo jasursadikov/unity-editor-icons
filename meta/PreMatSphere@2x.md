@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PreMatSphere@2x")
 ```
-## GUID
 ```
 8968407494066740625
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.NextFrame")
 ```
-## GUID
 ```
 -7433698056413564813
 ```

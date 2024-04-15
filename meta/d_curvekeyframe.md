@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_curvekeyframe")
 ```
-## GUID
 ```
 5342509488035076654
 ```

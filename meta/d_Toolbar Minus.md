@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Toolbar Minus")
 ```
-## GUID
 ```
 -8887860103969893004
 ```

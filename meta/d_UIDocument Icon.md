@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_UIDocument Icon")
 ```
-## GUID
 ```
 261565190497387942
 ```

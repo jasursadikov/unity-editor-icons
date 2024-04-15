@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("animationkeyframe@2x")
 ```
-## GUID
 ```
 54921030647317439
 ```

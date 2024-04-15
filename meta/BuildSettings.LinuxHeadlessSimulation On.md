@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.LinuxHeadlessSimulation On")
 ```
-## GUID
 ```
 -7513381595562638541
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Stop")
 ```
-## GUID
 ```
 -4719932466619129553
 ```

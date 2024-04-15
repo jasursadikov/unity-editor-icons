@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.VirtualTexturing")
 ```
-## GUID
 ```
 3317883283363178034
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Main Light Gizmo")
 ```
-## GUID
 ```
 -8968581649184562224
 ```

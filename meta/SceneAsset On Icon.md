@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneAsset On Icon")
 ```
-## GUID
 ```
 4633537267211664313
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RectTransform Icon")
 ```
-## GUID
 ```
 -1575620288787673585
 ```

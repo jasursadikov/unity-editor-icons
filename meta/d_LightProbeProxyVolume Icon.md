@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_LightProbeProxyVolume Icon")
 ```
-## GUID
 ```
 2525626458380159087
 ```

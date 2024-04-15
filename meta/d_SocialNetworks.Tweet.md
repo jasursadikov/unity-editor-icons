@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SocialNetworks.Tweet")
 ```
-## GUID
 ```
 2360951554312685488
 ```

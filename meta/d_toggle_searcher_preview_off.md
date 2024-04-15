@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_toggle_searcher_preview_off")
 ```
-## GUID
 ```
 7595168004074721385
 ```

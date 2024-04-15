@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Unity-AssetStore-Originals-Logo-White@2x")
 ```
-## GUID
 ```
 5141202327592148685
 ```

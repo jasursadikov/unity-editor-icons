@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PositionConstraint Icon")
 ```
-## GUID
 ```
 -7343420614739014117
 ```

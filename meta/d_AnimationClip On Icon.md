@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AnimationClip On Icon")
 ```
-## GUID
 ```
 4861009683584775453
 ```

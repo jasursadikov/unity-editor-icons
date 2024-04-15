@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Xbox360")
 ```
-## GUID
 ```
 -3037193308305438414
 ```

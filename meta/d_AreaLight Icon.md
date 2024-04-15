@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AreaLight Icon")
 ```
-## GUID
 ```
 -2462194805134264945
 ```

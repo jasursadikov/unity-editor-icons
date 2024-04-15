@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Play@2x")
 ```
-## GUID
 ```
 7097392774114191295
 ```

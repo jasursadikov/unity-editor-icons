@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("RawImage Icon")
 ```
-## GUID
 ```
 -6507938474708602768
 ```

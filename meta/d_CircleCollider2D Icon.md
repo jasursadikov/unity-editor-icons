@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CircleCollider2D Icon")
 ```
-## GUID
 ```
 7882515739285264159
 ```

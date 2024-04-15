@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Flare On Icon")
 ```
-## GUID
 ```
 -6033664526919130708
 ```

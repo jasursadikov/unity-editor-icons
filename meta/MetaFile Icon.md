@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MetaFile Icon")
 ```
-## GUID
 ```
 4439639508505168805
 ```

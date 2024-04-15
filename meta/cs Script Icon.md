@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("cs Script Icon")
 ```
-## GUID
 ```
 8647890191352912404
 ```

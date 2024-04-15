@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Dependency@2x")
 ```
-## GUID
 ```
 -1733431017835079431
 ```

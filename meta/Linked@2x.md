@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Linked@2x")
 ```
-## GUID
 ```
 1818164797828020291
 ```

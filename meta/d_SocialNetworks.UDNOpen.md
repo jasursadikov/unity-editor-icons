@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SocialNetworks.UDNOpen")
 ```
-## GUID
 ```
 6139137094072441570
 ```

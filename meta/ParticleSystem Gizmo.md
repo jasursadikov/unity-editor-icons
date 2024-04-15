@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ParticleSystem Gizmo")
 ```
-## GUID
 ```
 7081114796348156166
 ```

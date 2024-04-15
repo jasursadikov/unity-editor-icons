@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Add-Available")
 ```
-## GUID
 ```
 -3266479738145358097
 ```

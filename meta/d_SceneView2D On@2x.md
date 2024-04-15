@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SceneView2D On@2x")
 ```
-## GUID
 ```
 -8639581246078304990
 ```

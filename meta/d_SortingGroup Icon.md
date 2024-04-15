@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SortingGroup Icon")
 ```
-## GUID
 ```
 943103792077196548
 ```

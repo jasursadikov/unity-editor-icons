@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreMatCube@2x")
 ```
-## GUID
 ```
 -75972919704443941
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RectTransformBlueprint")
 ```
-## GUID
 ```
 -7092392679310191003
 ```

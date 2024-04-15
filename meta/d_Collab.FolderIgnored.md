@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FolderIgnored")
 ```
-## GUID
 ```
 4476748674792936110
 ```

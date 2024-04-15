@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GraphicRaycaster Icon")
 ```
-## GUID
 ```
 9024548081079956670
 ```

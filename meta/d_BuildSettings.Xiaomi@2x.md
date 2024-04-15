@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.Xiaomi@2x")
 ```
-## GUID
 ```
 3805764193246990354
 ```

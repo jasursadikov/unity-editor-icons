@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AspectRatioFitter Icon")
 ```
-## GUID
 ```
 7654256260859955071
 ```

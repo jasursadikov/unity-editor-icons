@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Sprite Icon")
 ```
-## GUID
 ```
 -7488892736546010119
 ```

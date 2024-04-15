@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("WindZone Icon")
 ```
-## GUID
 ```
 4978307288704543194
 ```

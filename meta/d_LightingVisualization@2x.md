@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_LightingVisualization@2x")
 ```
-## GUID
 ```
 1448681916655844433
 ```

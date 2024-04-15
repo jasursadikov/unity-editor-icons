@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewLighting On@2x")
 ```
-## GUID
 ```
 4621051629831616670
 ```

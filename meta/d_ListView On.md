@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ListView On")
 ```
-## GUID
 ```
 -350584302363878524
 ```

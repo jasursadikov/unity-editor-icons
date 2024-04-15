@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AnimatorStateMachine Icon")
 ```
-## GUID
 ```
 -7997457369567893724
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Grid.EraserTool")
 ```
-## GUID
 ```
 -3906651192056200450
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewVisibility On")
 ```
-## GUID
 ```
 -3817573173973801965
 ```

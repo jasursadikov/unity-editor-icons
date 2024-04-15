@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioEchoFilter Icon")
 ```
-## GUID
 ```
 3210512224881905367
 ```

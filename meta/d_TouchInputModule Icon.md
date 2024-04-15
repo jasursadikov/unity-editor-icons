@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TouchInputModule Icon")
 ```
-## GUID
 ```
 3692903559170857379
 ```

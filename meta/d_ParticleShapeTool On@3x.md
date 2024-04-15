@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ParticleShapeTool On@3x")
 ```
-## GUID
 ```
 6072499746921704317
 ```

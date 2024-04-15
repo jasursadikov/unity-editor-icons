@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("FrictionJoint2D Icon")
 ```
-## GUID
 ```
 2132736810685111631
 ```

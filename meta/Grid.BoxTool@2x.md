@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Grid.BoxTool@2x")
 ```
-## GUID
 ```
 6450220969105345974
 ```

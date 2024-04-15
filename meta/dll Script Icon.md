@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("dll Script Icon")
 ```
-## GUID
 ```
 -7543127908959577191
 ```

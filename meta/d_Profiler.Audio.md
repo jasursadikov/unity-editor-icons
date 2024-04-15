@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.Audio")
 ```
-## GUID
 ```
 -562467101068280041
 ```

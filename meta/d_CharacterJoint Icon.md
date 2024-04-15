@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CharacterJoint Icon")
 ```
-## GUID
 ```
 1875044191613582765
 ```

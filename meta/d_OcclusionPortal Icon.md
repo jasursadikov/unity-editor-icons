@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_OcclusionPortal Icon")
 ```
-## GUID
 ```
 3019109544264522428
 ```

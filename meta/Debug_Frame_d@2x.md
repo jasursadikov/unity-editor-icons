@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Debug_Frame_d@2x")
 ```
-## GUID
 ```
 3988132551175365234
 ```

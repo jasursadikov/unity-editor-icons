@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Web")
 ```
-## GUID
 ```
 -8073681927563260479
 ```

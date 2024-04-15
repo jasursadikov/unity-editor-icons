@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SelectionWindow.Remove")
 ```
-## GUID
 ```
 -5417098906094637033
 ```

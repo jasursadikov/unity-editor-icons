@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Blackboard")
 ```
-## GUID
 ```
 -2767223874717158575
 ```

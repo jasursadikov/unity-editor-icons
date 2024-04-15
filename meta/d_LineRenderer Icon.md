@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_LineRenderer Icon")
 ```
-## GUID
 ```
 -503134899462992896
 ```

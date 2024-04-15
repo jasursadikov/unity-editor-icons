@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SceneViewCamera@2x")
 ```
-## GUID
 ```
 -3029137089513132433
 ```

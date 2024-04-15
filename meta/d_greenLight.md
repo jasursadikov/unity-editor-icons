@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_greenLight")
 ```
-## GUID
 ```
 2158857582549356844
 ```

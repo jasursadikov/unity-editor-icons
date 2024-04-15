@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreMatTorus")
 ```
-## GUID
 ```
 4683423234777854641
 ```

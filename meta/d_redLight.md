@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_redLight")
 ```
-## GUID
 ```
 -3646618881647911098
 ```

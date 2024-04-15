@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ArticulationBody Icon")
 ```
-## GUID
 ```
 -6379934706875125041
 ```

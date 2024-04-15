@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AlphabeticalSorting")
 ```
-## GUID
 ```
 4704375340429805257
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.GPU")
 ```
-## GUID
 ```
 -4630950965082138234
 ```

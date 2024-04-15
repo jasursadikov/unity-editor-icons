@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RenderPipelineAsset Icon")
 ```
-## GUID
 ```
 -8549972529105633023
 ```

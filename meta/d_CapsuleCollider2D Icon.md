@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CapsuleCollider2D Icon")
 ```
-## GUID
 ```
 -2692084220489661059
 ```

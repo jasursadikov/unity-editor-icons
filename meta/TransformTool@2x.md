@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TransformTool@2x")
 ```
-## GUID
 ```
 2496772458845887343
 ```

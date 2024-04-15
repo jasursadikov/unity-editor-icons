@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioClip On Icon")
 ```
-## GUID
 ```
 2788870070341080359
 ```

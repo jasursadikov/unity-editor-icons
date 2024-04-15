@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioRandomContainer On Icon")
 ```
-## GUID
 ```
 8008375702177522890
 ```

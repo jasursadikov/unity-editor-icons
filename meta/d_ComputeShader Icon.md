@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ComputeShader Icon")
 ```
-## GUID
 ```
 7292308944435659976
 ```

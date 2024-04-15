@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_KeyboardShortcutsDisabled")
 ```
-## GUID
 ```
 2977766409931321681
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PreMatCylinder@2x")
 ```
-## GUID
 ```
 -7496678325399726006
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AvatarBlendRight")
 ```
-## GUID
 ```
 -437346551407802260
 ```

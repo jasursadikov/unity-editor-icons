@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ReflectionProbe Icon")
 ```
-## GUID
 ```
 -3076085332970660798
 ```

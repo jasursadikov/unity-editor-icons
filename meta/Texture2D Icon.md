@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Texture2D Icon")
 ```
-## GUID
 ```
 2964569609108149060
 ```

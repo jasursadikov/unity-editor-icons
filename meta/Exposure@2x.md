@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Exposure@2x")
 ```
-## GUID
 ```
 -3790738517592712546
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ToolHandleGlobal@2x")
 ```
-## GUID
 ```
 3151905959017096996
 ```

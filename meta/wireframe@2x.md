@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("wireframe@2x")
 ```
-## GUID
 ```
 -3645303498653477971
 ```

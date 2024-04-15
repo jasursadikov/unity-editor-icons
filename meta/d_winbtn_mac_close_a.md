@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_winbtn_mac_close_a")
 ```
-## GUID
 ```
 -3419918338035193121
 ```

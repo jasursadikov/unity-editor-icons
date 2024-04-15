@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_Conflicted@2x")
 ```
-## GUID
 ```
 3662103105791407576
 ```

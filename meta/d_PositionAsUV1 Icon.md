@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PositionAsUV1 Icon")
 ```
-## GUID
 ```
 8460860396361312155
 ```

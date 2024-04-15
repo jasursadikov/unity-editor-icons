@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_IHVImageFormatImporter Icon")
 ```
-## GUID
 ```
 2932872421347966843
 ```

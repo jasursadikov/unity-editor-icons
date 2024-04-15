@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("RenderTexture Icon")
 ```
-## GUID
 ```
 5653909352214903723
 ```

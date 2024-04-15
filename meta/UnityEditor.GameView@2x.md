@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.GameView@2x")
 ```
-## GUID
 ```
 257045534191678443
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.N3DS On@2x")
 ```
-## GUID
 ```
 8791219912215951517
 ```

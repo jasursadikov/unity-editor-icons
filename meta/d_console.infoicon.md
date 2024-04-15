@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_console.infoicon")
 ```
-## GUID
 ```
 -8466309453026419660
 ```

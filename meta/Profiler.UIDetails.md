@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.UIDetails")
 ```
-## GUID
 ```
 -7135300958361011667
 ```

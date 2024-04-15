@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.ConsoleWindow@2x")
 ```
-## GUID
 ```
 -3303252850963283158
 ```

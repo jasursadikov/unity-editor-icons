@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AvatarMask Icon")
 ```
-## GUID
 ```
 -1971303579780900023
 ```

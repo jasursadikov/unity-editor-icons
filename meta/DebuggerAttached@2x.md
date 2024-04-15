@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("DebuggerAttached@2x")
 ```
-## GUID
 ```
 -5504019084107374268
 ```

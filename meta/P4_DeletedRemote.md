@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_DeletedRemote")
 ```
-## GUID
 ```
 -5312117956536942440
 ```

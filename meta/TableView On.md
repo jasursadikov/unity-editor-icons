@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TableView On")
 ```
-## GUID
 ```
 -8657283666015989543
 ```

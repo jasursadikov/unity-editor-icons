@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("winbtn_win_min_a")
 ```
-## GUID
 ```
 -7301325722770485025
 ```

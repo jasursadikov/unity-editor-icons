@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ProceduralMaterial Icon")
 ```
-## GUID
 ```
 5262252122280761226
 ```

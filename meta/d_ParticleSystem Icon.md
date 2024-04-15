@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ParticleSystem Icon")
 ```
-## GUID
 ```
 5776347336122012858
 ```

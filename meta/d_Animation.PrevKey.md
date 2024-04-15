@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Animation.PrevKey")
 ```
-## GUID
 ```
 7684763639276239761
 ```

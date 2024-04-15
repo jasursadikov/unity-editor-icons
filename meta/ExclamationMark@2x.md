@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ExclamationMark@2x")
 ```
-## GUID
 ```
 -8856767333973551602
 ```

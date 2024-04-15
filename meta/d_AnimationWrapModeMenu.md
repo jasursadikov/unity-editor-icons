@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AnimationWrapModeMenu")
 ```
-## GUID
 ```
 5158551771503169309
 ```

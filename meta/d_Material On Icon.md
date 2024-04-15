@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Material On Icon")
 ```
-## GUID
 ```
 8419841339899887785
 ```

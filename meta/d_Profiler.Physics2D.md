@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.Physics2D")
 ```
-## GUID
 ```
 2210237403609355899
 ```

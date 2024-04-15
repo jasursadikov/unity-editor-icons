@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_monologo")
 ```
-## GUID
 ```
 2024370742291596448
 ```

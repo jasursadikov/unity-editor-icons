@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_model large")
 ```
-## GUID
 ```
 -4151579237291548445
 ```

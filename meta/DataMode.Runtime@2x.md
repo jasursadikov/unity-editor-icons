@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("DataMode.Runtime@2x")
 ```
-## GUID
 ```
 -1528998263592436864
 ```

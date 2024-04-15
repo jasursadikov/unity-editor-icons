@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MainStageView@2x")
 ```
-## GUID
 ```
 -1712647720307149611
 ```

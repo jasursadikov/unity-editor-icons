@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.Wind On")
 ```
-## GUID
 ```
 -5948080704082544443
 ```

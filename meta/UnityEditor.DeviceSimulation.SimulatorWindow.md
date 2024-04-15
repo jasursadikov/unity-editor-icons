@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.DeviceSimulation.SimulatorWindow")
 ```
-## GUID
 ```
 50727941134254362
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildAll")
 ```
-## GUID
 ```
 -5891026859245086962
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolSmoothHeight")
 ```
-## GUID
 ```
 -6913608102063742031
 ```

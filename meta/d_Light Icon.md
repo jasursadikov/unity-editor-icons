@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Light Icon")
 ```
-## GUID
 ```
 1992151432481503067
 ```

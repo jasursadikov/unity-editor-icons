@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_animationvisibilitytoggleoff@2x")
 ```
-## GUID
 ```
 -1080093472756764387
 ```

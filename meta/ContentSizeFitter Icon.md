@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ContentSizeFitter Icon")
 ```
-## GUID
 ```
 -385548011631775140
 ```

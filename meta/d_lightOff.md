@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_lightOff")
 ```
-## GUID
 ```
 -8764360548624135429
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("GUITexture Icon")
 ```
-## GUID
 ```
 2087722127769867499
 ```

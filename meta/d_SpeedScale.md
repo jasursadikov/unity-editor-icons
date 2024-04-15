@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SpeedScale")
 ```
-## GUID
 ```
 4653327244346953892
 ```

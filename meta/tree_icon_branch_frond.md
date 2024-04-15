@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("tree_icon_branch_frond")
 ```
-## GUID
 ```
 -706583213579529426
 ```

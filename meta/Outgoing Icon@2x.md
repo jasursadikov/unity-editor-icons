@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Outgoing Icon@2x")
 ```
-## GUID
 ```
 -4807562648786450917
 ```

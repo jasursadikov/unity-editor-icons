@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NetworkManagerHUD Icon")
 ```
-## GUID
 ```
 -5781802289224155397
 ```

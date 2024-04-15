@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Unlocked@2x")
 ```
-## GUID
 ```
 8715723167080169131
 ```

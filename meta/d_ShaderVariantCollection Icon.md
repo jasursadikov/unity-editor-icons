@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ShaderVariantCollection Icon")
 ```
-## GUID
 ```
 803127877848589045
 ```

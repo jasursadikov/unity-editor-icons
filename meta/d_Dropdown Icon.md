@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Dropdown Icon")
 ```
-## GUID
 ```
 -6461178775694354662
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_StandaloneInputModule Icon")
 ```
-## GUID
 ```
 8653171293167480952
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.LeafRotate On")
 ```
-## GUID
 ```
 -6419064971963233203
 ```

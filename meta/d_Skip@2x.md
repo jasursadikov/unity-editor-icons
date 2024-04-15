@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Skip@2x")
 ```
-## GUID
 ```
 -116362692607643271
 ```

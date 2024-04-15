@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TextureImporter Icon")
 ```
-## GUID
 ```
 1135788996153965270
 ```

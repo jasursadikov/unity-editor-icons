@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Deprecated@2x")
 ```
-## GUID
 ```
 -7798569807253987794
 ```

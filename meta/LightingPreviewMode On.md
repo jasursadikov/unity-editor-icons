@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LightingPreviewMode On")
 ```
-## GUID
 ```
 -8209855524116146962
 ```

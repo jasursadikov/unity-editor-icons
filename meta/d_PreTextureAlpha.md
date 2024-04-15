@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreTextureAlpha")
 ```
-## GUID
 ```
 -3157848010053115858
 ```

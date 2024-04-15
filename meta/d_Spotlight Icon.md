@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Spotlight Icon")
 ```
-## GUID
 ```
 -2733580587900965755
 ```

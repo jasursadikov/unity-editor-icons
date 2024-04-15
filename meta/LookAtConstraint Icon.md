@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LookAtConstraint Icon")
 ```
-## GUID
 ```
 7593723892036308658
 ```

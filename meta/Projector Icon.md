@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Projector Icon")
 ```
-## GUID
 ```
 4510377810129717186
 ```

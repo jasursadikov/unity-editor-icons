@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LightingDataAssetParent Icon")
 ```
-## GUID
 ```
 -7437585863220954093
 ```

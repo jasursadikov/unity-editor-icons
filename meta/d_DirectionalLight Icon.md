@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_DirectionalLight Icon")
 ```
-## GUID
 ```
 -2268488020772222307
 ```

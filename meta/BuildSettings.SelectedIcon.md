@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.SelectedIcon")
 ```
-## GUID
 ```
 -3237302683924646227
 ```

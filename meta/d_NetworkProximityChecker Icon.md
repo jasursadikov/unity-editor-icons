@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_NetworkProximityChecker Icon")
 ```
-## GUID
 ```
 6568253325333265056
 ```

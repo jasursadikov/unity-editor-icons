@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.tvOS")
 ```
-## GUID
 ```
 3261360856959884992
 ```

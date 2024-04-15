@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.SceneHierarchyWindow")
 ```
-## GUID
 ```
 -590624980919486359
 ```

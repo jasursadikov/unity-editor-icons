@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Project")
 ```
-## GUID
 ```
 -5467254957812901981
 ```

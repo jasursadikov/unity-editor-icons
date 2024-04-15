@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CharacterController Icon")
 ```
-## GUID
 ```
 1265989506976873869
 ```

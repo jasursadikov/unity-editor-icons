@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("winbtn_graph_close_h")
 ```
-## GUID
 ```
 -6137511187296634793
 ```

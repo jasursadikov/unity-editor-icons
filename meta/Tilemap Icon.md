@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Tilemap Icon")
 ```
-## GUID
 ```
 8939985285943990618
 ```

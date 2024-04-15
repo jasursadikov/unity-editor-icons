@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("aboutwindow.mainheader@2x")
 ```
-## GUID
 ```
 -6891246526051333256
 ```

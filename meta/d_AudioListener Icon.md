@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioListener Icon")
 ```
-## GUID
 ```
 -3250772413011610475
 ```

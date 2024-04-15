@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SpriteAtlasAsset Icon")
 ```
-## GUID
 ```
 -6416366940944881821
 ```

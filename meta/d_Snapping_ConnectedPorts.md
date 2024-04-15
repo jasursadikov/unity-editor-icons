@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Snapping_ConnectedPorts")
 ```
-## GUID
 ```
 -8920504714403875376
 ```

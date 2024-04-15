@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TimelineAsset On Icon")
 ```
-## GUID
 ```
 -208610388790907306
 ```

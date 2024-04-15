@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_MoreOptions")
 ```
-## GUID
 ```
 229314162830439344
 ```

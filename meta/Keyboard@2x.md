@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Keyboard@2x")
 ```
-## GUID
 ```
 6171955102914893739
 ```

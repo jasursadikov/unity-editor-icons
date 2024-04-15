@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SignalAsset Icon")
 ```
-## GUID
 ```
 381380967448882263
 ```

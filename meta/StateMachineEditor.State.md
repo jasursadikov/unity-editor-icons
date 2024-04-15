@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.State")
 ```
-## GUID
 ```
 -2498257422076009537
 ```

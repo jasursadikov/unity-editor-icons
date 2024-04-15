@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_DragArrow@2x")
 ```
-## GUID
 ```
 1646394057496694136
 ```

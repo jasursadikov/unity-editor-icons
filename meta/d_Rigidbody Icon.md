@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Rigidbody Icon")
 ```
-## GUID
 ```
 -614948363165286231
 ```

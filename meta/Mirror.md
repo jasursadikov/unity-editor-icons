@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Mirror")
 ```
-## GUID
 ```
 -1939442913395969536
 ```

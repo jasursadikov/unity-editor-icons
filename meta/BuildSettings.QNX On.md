@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.QNX On")
 ```
-## GUID
 ```
 8649443330007599567
 ```

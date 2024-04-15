@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.VersionControl")
 ```
-## GUID
 ```
 897598055310200762
 ```

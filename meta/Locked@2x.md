@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Locked@2x")
 ```
-## GUID
 ```
 771862435094109860
 ```

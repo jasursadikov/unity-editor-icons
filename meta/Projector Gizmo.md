@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Projector Gizmo")
 ```
-## GUID
 ```
 6930349229683914701
 ```

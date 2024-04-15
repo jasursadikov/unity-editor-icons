@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("CanvasScaler Icon")
 ```
-## GUID
 ```
 1430608953724808672
 ```

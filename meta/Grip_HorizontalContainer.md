@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Grip_HorizontalContainer")
 ```
-## GUID
 ```
 1324884463102540922
 ```

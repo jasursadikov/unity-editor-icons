@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_AddedRemote@2x")
 ```
-## GUID
 ```
 1460004667823469469
 ```

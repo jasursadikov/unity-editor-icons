@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Grid.Default@2x")
 ```
-## GUID
 ```
 4249954606966202676
 ```

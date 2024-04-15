@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.FindDependencies")
 ```
-## GUID
 ```
 -982621810526125377
 ```

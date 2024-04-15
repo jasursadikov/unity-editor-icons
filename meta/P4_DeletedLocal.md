@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_DeletedLocal")
 ```
-## GUID
 ```
 4924442353259380349
 ```

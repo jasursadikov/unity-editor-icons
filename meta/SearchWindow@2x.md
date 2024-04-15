@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SearchWindow@2x")
 ```
-## GUID
 ```
 6707060085778304275
 ```

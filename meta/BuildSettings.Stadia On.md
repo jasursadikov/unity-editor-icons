@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Stadia On")
 ```
-## GUID
 ```
 -583410931937435233
 ```

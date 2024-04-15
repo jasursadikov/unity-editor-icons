@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TextScriptImporter Icon")
 ```
-## GUID
 ```
 5554711927370159895
 ```

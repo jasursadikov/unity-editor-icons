@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_DistanceJoint2D Icon")
 ```
-## GUID
 ```
 6664071900287422854
 ```

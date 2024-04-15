@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Light Icon")
 ```
-## GUID
 ```
 -6398683131212242302
 ```

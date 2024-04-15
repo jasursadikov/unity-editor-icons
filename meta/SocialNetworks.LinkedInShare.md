@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SocialNetworks.LinkedInShare")
 ```
-## GUID
 ```
 -4302222837364986894
 ```

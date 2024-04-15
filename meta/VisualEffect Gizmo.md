@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VisualEffect Gizmo")
 ```
-## GUID
 ```
 2220025264489876575
 ```

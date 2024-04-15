@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NavMeshAgent Icon")
 ```
-## GUID
 ```
 -129792923033476268
 ```

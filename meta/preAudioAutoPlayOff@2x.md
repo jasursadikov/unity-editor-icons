@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("preAudioAutoPlayOff@2x")
 ```
-## GUID
 ```
 4327669099792540201
 ```

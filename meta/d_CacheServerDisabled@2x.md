@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CacheServerDisabled@2x")
 ```
-## GUID
 ```
 -1894744329818022854
 ```

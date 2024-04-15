@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Facebook On@2x")
 ```
-## GUID
 ```
 -1283358686002970987
 ```

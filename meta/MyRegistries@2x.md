@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MyRegistries@2x")
 ```
-## GUID
 ```
 -7548035919507005741
 ```

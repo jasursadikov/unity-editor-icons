@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarPivot@2x")
 ```
-## GUID
 ```
 -4221608646632983637
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_P4_Updating")
 ```
-## GUID
 ```
 8580184149102180753
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AvatarCompass")
 ```
-## GUID
 ```
 9167206752844903456
 ```

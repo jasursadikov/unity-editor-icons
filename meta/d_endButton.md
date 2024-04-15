@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_endButton")
 ```
-## GUID
 ```
 -6462869565880638227
 ```

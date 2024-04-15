@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BlendTree Icon")
 ```
-## GUID
 ```
 160919518743690994
 ```

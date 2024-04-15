@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TerrainCollider Icon")
 ```
-## GUID
 ```
 8812993143395379715
 ```

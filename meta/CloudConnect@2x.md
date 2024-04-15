@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("CloudConnect@2x")
 ```
-## GUID
 ```
 -2753773498841969441
 ```

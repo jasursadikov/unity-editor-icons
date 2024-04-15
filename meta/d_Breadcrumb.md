@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Breadcrumb")
 ```
-## GUID
 ```
 7960457386049267646
 ```

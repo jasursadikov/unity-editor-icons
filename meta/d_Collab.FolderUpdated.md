@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FolderUpdated")
 ```
-## GUID
 ```
 2222360239620688078
 ```

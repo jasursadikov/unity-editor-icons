@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioDistortionFilter Icon")
 ```
-## GUID
 ```
 6187360391509861248
 ```

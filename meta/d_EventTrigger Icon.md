@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_EventTrigger Icon")
 ```
-## GUID
 ```
 4845907150990230842
 ```

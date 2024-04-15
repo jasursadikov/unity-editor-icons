@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("sv_label_1")
 ```
-## GUID
 ```
 -964228994112308473
 ```

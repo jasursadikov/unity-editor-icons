@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Motion Icon")
 ```
-## GUID
 ```
 -7525120611300304164
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Mouse3@2x")
 ```
-## GUID
 ```
 -9168993979087485428
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewVisibility On@2x")
 ```
-## GUID
 ```
 2805868763339442127
 ```

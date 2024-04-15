@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_HoloLensInputModule Icon")
 ```
-## GUID
 ```
 3304865507257195212
 ```

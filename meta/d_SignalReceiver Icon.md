@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SignalReceiver Icon")
 ```
-## GUID
 ```
 -7098612008054524421
 ```

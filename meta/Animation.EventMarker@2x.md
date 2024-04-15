@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Animation.EventMarker@2x")
 ```
-## GUID
 ```
 363374367590188809
 ```

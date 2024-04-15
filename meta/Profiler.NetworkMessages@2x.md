@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.NetworkMessages@2x")
 ```
-## GUID
 ```
 7981104561883728060
 ```

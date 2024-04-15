@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SoftlockProjectBrowser Icon")
 ```
-## GUID
 ```
 -8060569002003055703
 ```

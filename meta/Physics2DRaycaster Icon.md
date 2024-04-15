@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Physics2DRaycaster Icon")
 ```
-## GUID
 ```
 -2741236321553841809
 ```

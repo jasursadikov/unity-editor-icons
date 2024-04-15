@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SliderJoint2D Icon")
 ```
-## GUID
 ```
 -6545432660917278511
 ```

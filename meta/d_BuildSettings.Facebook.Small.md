@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.Facebook.Small")
 ```
-## GUID
 ```
 -1773235622925870077
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_MeshCollider Icon")
 ```
-## GUID
 ```
 8799233773559208360
 ```

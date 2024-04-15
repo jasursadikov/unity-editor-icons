@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneSet Icon")
 ```
-## GUID
 ```
 5498606499726036565
 ```

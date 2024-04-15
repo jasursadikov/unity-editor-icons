@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("RotateTool@2x")
 ```
-## GUID
 ```
 -5891326485836018977
 ```

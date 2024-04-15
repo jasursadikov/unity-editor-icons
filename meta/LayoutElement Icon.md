@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LayoutElement Icon")
 ```
-## GUID
 ```
 7518471575754125003
 ```

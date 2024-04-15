@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GameViewAudio On@2x")
 ```
-## GUID
 ```
 -7801400447708130948
 ```

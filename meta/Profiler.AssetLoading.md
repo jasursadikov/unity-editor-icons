@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.AssetLoading")
 ```
-## GUID
 ```
 -1074093493599853803
 ```

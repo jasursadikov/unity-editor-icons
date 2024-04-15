@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SpriteRenderer Icon")
 ```
-## GUID
 ```
 5134774851033864187
 ```

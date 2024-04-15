@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Memory")
 ```
-## GUID
 ```
 4619991025431214223
 ```

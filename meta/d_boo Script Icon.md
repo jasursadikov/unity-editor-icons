@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_boo Script Icon")
 ```
-## GUID
 ```
 -8211497569017520131
 ```

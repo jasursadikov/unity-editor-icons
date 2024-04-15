@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.WebGL")
 ```
-## GUID
 ```
 -4805328497058567814
 ```

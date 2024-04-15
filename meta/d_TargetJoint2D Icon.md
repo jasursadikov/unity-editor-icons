@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TargetJoint2D Icon")
 ```
-## GUID
 ```
 4215790347392998379
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GridAndSnap@2x")
 ```
-## GUID
 ```
 -3162080030483174924
 ```

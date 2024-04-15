@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PanelSettings On Icon")
 ```
-## GUID
 ```
 5485310683545462255
 ```

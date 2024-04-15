@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PointLight Gizmo")
 ```
-## GUID
 ```
 5814078034323187814
 ```

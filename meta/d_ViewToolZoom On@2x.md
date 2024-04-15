@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ViewToolZoom On@2x")
 ```
-## GUID
 ```
 6789617363726658630
 ```

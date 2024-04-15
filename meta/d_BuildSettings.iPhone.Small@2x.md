@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.iPhone.Small@2x")
 ```
-## GUID
 ```
 4152198871333242844
 ```

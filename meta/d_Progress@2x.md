@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Progress@2x")
 ```
-## GUID
 ```
 6636489078914771903
 ```

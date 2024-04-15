@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_InspectorLock")
 ```
-## GUID
 ```
 -2287267532218988703
 ```

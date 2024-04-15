@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MultiSelectFeature")
 ```
-## GUID
 ```
 -7423167965397083479
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_winbtn_win_rest")
 ```
-## GUID
 ```
 8432667383545876044
 ```

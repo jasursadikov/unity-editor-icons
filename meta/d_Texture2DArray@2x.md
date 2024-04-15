@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Texture2DArray@2x")
 ```
-## GUID
 ```
 566485410785891431
 ```

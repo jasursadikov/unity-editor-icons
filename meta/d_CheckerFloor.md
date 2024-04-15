@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CheckerFloor")
 ```
-## GUID
 ```
 3488054696338013110
 ```

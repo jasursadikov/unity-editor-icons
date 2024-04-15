@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_RotationConstraint Icon")
 ```
-## GUID
 ```
 -7485488908267385562
 ```

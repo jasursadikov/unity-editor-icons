@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ThemeStyleSheet Icon")
 ```
-## GUID
 ```
 8155389506043278651
 ```

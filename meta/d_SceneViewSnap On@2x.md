@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SceneViewSnap On@2x")
 ```
-## GUID
 ```
 -5954500525399504335
 ```

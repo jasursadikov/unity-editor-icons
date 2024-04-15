@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NodeChevronLeft@2x")
 ```
-## GUID
 ```
 4277129017554316939
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_StreamingController Icon")
 ```
-## GUID
 ```
 415356531041165513
 ```

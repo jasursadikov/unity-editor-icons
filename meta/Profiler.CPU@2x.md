@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.CPU@2x")
 ```
-## GUID
 ```
 -106814588353482428
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_VUMeterTextureHorizontal")
 ```
-## GUID
 ```
 -5604046849013387335
 ```

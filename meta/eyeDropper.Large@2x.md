@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("eyeDropper.Large@2x")
 ```
-## GUID
 ```
 -4219858151163914732
 ```

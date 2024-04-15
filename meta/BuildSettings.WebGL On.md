@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.WebGL On")
 ```
-## GUID
 ```
 4781758196249721453
 ```

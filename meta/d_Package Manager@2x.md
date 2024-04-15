@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Package Manager@2x")
 ```
-## GUID
 ```
 5076950121296946556
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_CheckOutLocal")
 ```
-## GUID
 ```
 -7000818116428710010
 ```

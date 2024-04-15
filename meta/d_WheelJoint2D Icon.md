@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_WheelJoint2D Icon")
 ```
-## GUID
 ```
 6192141092834927191
 ```

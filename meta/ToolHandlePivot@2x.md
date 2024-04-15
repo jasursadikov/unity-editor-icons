@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ToolHandlePivot@2x")
 ```
-## GUID
 ```
 1469241111287952846
 ```

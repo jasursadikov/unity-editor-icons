@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioImporter Icon")
 ```
-## GUID
 ```
 -7676848457520724502
 ```

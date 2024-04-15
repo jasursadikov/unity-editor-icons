@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.HierarchyWindow@2x")
 ```
-## GUID
 ```
 6799206942100270434
 ```

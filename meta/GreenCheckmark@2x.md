@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("GreenCheckmark@2x")
 ```
-## GUID
 ```
 -7647730755192563584
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Filter Icon")
 ```
-## GUID
 ```
 -6292024651731497822
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Android On@2x")
 ```
-## GUID
 ```
 16334440819132706
 ```

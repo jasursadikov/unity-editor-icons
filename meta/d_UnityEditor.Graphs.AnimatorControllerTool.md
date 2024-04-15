@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.Graphs.AnimatorControllerTool")
 ```
-## GUID
 ```
 -1673928668082335149
 ```

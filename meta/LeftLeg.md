@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LeftLeg")
 ```
-## GUID
 ```
 4921818627043158325
 ```

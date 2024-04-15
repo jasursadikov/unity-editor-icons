@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VideoClipImporter Icon")
 ```
-## GUID
 ```
 -6567075461705774110
 ```

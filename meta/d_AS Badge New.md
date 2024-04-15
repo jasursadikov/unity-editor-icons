@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AS Badge New")
 ```
-## GUID
 ```
 -7220028169341326075
 ```

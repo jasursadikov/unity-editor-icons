@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_StepLeftButton-On")
 ```
-## GUID
 ```
 -3932087793021272969
 ```

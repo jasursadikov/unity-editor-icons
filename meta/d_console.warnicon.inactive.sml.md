@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_console.warnicon.inactive.sml")
 ```
-## GUID
 ```
 8751020510356332213
 ```

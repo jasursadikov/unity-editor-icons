@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.GameCoreScarlett.Small")
 ```
-## GUID
 ```
 -6652521207947470784
 ```

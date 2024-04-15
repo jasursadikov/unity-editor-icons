@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Video@2x")
 ```
-## GUID
 ```
 2229296686351444486
 ```

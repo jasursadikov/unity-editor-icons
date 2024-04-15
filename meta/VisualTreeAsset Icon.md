@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VisualTreeAsset Icon")
 ```
-## GUID
 ```
 -1113042662600692791
 ```

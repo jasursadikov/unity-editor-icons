@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.UpButton")
 ```
-## GUID
 ```
 7594305862489939688
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.HistoryWindow@2x")
 ```
-## GUID
 ```
 -7109777279418080712
 ```

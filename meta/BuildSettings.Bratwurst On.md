@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Bratwurst On")
 ```
-## GUID
 ```
 9124571375880852433
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PrefabOverlayRemoved On Icon")
 ```
-## GUID
 ```
 -2843823844187603545
 ```

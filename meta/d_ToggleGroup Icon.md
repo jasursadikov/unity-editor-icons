@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ToggleGroup Icon")
 ```
-## GUID
 ```
 -785950009248020962
 ```

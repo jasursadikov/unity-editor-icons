@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GridLayoutGroup Icon")
 ```
-## GUID
 ```
 485006632639120110
 ```

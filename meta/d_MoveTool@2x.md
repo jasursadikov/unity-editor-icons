@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_MoveTool@2x")
 ```
-## GUID
 ```
 -4497096070357054744
 ```

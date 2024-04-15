@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Warning@2x")
 ```
-## GUID
 ```
 -6093991948104476032
 ```

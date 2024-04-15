@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Halo Icon")
 ```
-## GUID
 ```
 -7825213776457033889
 ```

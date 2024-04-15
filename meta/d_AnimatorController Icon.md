@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AnimatorController Icon")
 ```
-## GUID
 ```
 -5540264361198448834
 ```

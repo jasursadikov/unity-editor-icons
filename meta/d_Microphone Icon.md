@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Microphone Icon")
 ```
-## GUID
 ```
 985111829274883151
 ```

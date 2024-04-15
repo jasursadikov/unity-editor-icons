@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ViewToolMove On@2x")
 ```
-## GUID
 ```
 -5122163773695881357
 ```

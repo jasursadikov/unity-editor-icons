@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SocialNetworks.FacebookShare")
 ```
-## GUID
 ```
 2049154809568945525
 ```

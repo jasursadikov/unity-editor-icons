@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreMatQuad@2x")
 ```
-## GUID
 ```
 3343070717676370588
 ```

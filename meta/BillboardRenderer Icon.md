@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BillboardRenderer Icon")
 ```
-## GUID
 ```
 4178672035153780976
 ```

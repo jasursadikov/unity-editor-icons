@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_ModelImporter Icon")
 ```
-## GUID
 ```
 -6573054015446215400
 ```

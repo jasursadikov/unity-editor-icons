@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PhysicsMaterial2D Icon")
 ```
-## GUID
 ```
 2086867310453074094
 ```

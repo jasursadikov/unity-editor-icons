@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_UnityLogo")
 ```
-## GUID
 ```
 7123690520299862052
 ```

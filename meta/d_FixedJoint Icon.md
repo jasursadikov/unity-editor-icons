@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_FixedJoint Icon")
 ```
-## GUID
 ```
 -7056137702951936110
 ```

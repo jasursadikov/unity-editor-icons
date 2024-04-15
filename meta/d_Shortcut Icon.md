@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Shortcut Icon")
 ```
-## GUID
 ```
 -1083641351377831587
 ```

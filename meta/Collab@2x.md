@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Collab@2x")
 ```
-## GUID
 ```
 -204901687004141392
 ```

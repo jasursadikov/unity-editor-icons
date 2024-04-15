@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewTools On")
 ```
-## GUID
 ```
 3841085240681098494
 ```

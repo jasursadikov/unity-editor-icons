@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ClothInspector.PaintValue")
 ```
-## GUID
 ```
 2134799571607069742
 ```

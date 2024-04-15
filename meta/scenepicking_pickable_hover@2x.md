@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("scenepicking_pickable_hover@2x")
 ```
-## GUID
 ```
 -6319514019899584481
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("DefaultAsset Icon")
 ```
-## GUID
 ```
 8719354022047557850
 ```

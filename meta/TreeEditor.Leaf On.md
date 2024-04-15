@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Leaf On")
 ```
-## GUID
 ```
 -1642286057984732138
 ```

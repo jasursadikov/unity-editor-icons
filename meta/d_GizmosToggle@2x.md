@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_GizmosToggle@2x")
 ```
-## GUID
 ```
 -7250623444466721990
 ```

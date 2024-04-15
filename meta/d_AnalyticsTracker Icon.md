@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AnalyticsTracker Icon")
 ```
-## GUID
 ```
 8222942760083641148
 ```

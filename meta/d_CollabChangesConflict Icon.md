@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_CollabChangesConflict Icon")
 ```
-## GUID
 ```
 6115135379033539657
 ```

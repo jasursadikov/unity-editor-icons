@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_LockedLocal@2x")
 ```
-## GUID
 ```
 8214538453251941691
 ```

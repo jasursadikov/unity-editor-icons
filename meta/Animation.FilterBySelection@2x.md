@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Animation.FilterBySelection@2x")
 ```
-## GUID
 ```
 5496628722178675830
 ```

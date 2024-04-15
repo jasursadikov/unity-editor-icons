@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SpriteAtlasImporter Icon")
 ```
-## GUID
 ```
 -7646251099529493452
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Occlusion@2x")
 ```
-## GUID
 ```
 -85077433961444196
 ```

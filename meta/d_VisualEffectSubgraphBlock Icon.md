@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_VisualEffectSubgraphBlock Icon")
 ```
-## GUID
 ```
 -2262833497286184379
 ```

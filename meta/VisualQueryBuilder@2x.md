@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VisualQueryBuilder@2x")
 ```
-## GUID
 ```
 408265299344307379
 ```

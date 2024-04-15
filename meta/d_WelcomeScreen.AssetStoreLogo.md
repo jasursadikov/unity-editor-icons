@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_WelcomeScreen.AssetStoreLogo")
 ```
-## GUID
 ```
 -1267765922707722170
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ScrollShadow")
 ```
-## GUID
 ```
 4429385992787889437
 ```

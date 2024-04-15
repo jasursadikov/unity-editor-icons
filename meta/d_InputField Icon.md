@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_InputField Icon")
 ```
-## GUID
 ```
 3200498630532453672
 ```

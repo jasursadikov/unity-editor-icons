@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("RightHandZoomSilhouette")
 ```
-## GUID
 ```
 4529296075431145259
 ```

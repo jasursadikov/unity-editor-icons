@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Git@2x")
 ```
-## GUID
 ```
 -1223207897777109905
 ```

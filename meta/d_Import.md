@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Import")
 ```
-## GUID
 ```
 -6062748997451094969
 ```

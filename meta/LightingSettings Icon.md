@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LightingSettings Icon")
 ```
-## GUID
 ```
 2754498295270904143
 ```

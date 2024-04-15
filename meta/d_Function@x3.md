@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Function@x3")
 ```
-## GUID
 ```
 -2247064259788189919
 ```

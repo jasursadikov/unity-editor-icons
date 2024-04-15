@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AimConstraint Icon")
 ```
-## GUID
 ```
 -6936120004838481029
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.Material")
 ```
-## GUID
 ```
 7462113005024948280
 ```

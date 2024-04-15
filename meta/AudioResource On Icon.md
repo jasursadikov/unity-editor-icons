@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioResource On Icon")
 ```
-## GUID
 ```
 -3334688450513209252
 ```

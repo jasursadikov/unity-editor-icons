@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Metro On@2x")
 ```
-## GUID
 ```
 6720285510691535691
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_MiniMap")
 ```
-## GUID
 ```
 444923064935785805
 ```

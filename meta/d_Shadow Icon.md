@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Shadow Icon")
 ```
-## GUID
 ```
 -3014997550705089454
 ```

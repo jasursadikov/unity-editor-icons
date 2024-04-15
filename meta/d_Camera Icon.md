@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Camera Icon")
 ```
-## GUID
 ```
 7226769568068977144
 ```

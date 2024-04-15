@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioMixerController Icon")
 ```
-## GUID
 ```
 3189075063946049329
 ```

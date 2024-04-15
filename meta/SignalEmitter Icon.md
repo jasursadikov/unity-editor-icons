@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SignalEmitter Icon")
 ```
-## GUID
 ```
 -7208649984540925430
 ```

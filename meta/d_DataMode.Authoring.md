@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_DataMode.Authoring")
 ```
-## GUID
 ```
 -3314814539223616720
 ```

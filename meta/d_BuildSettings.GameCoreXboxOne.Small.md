@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.GameCoreXboxOne.Small")
 ```
-## GUID
 ```
 1014862496525268134
 ```

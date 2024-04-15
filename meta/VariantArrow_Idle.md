@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VariantArrow_Idle")
 ```
-## GUID
 ```
 -790404344760642557
 ```

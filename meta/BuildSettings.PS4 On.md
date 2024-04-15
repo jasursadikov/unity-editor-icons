@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.PS4 On")
 ```
-## GUID
 ```
 -2446513153997903262
 ```

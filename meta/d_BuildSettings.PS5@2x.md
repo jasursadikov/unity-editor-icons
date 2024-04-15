@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.PS5@2x")
 ```
-## GUID
 ```
 -4374360490385192044
 ```

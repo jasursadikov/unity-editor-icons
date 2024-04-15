@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AnchorTransformTool@2x")
 ```
-## GUID
 ```
 -1760597073280235803
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Animation.FirstKey")
 ```
-## GUID
 ```
 3960224646933354229
 ```

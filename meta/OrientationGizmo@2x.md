@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("OrientationGizmo@2x")
 ```
-## GUID
 ```
 6250355048641800988
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewAudio On@2x")
 ```
-## GUID
 ```
 5298482500624334904
 ```

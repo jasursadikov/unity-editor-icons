@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("winbtn_mac_inact")
 ```
-## GUID
 ```
 7621731839674880053
 ```

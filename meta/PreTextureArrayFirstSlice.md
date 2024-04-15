@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PreTextureArrayFirstSlice")
 ```
-## GUID
 ```
 7396426441817864781
 ```

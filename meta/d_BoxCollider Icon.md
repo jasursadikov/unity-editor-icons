@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BoxCollider Icon")
 ```
-## GUID
 ```
 5725305819640465133
 ```

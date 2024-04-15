@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SnapIncrement@2x")
 ```
-## GUID
 ```
 -9149772773056149092
 ```

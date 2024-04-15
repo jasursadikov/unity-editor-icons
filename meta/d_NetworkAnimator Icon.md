@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_NetworkAnimator Icon")
 ```
-## GUID
 ```
 -7774420183299114337
 ```

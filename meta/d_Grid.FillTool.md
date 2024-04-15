@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Grid.FillTool")
 ```
-## GUID
 ```
 -3052415461247654607
 ```

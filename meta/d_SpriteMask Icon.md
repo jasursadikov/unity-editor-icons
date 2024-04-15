@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SpriteMask Icon")
 ```
-## GUID
 ```
 8245622534036519826
 ```

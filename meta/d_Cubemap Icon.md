@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Cubemap Icon")
 ```
-## GUID
 ```
 1713685931136977409
 ```

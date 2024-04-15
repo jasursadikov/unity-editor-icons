@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MyAssets@2x")
 ```
-## GUID
 ```
 -1435431733880529886
 ```

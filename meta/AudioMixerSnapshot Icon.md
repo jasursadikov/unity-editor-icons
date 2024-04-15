@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioMixerSnapshot Icon")
 ```
-## GUID
 ```
 6371941889199318621
 ```

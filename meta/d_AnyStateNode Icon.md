@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AnyStateNode Icon")
 ```
-## GUID
 ```
 -2730717010093432685
 ```

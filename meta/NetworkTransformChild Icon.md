@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NetworkTransformChild Icon")
 ```
-## GUID
 ```
 -6141017820154370073
 ```

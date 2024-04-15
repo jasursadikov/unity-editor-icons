@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.GlobalIllumination@2x")
 ```
-## GUID
 ```
 1407345384548418524
 ```

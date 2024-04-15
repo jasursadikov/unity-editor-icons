@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_LODGroup Icon")
 ```
-## GUID
 ```
 1135309718888394834
 ```

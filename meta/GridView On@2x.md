@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("GridView On@2x")
 ```
-## GUID
 ```
 -3015362411406793397
 ```

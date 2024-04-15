@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuoyancyEffector2D Icon")
 ```
-## GUID
 ```
 3491322054811378011
 ```

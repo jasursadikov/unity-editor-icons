@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioSource Gizmo")
 ```
-## GUID
 ```
 -6468954903327631397
 ```

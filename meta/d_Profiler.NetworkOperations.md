@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.NetworkOperations")
 ```
-## GUID
 ```
 3346445059416804343
 ```

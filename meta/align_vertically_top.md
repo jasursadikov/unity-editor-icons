@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("align_vertically_top")
 ```
-## GUID
 ```
 -8550469583405674909
 ```

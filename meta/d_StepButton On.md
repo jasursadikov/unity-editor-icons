@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_StepButton On")
 ```
-## GUID
 ```
 4014904564705991832
 ```

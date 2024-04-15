@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PointEffector2D Icon")
 ```
-## GUID
 ```
 589648768491136598
 ```

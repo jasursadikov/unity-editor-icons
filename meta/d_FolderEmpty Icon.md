@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_FolderEmpty Icon")
 ```
-## GUID
 ```
 4387052765368226613
 ```

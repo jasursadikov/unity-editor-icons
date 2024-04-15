@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Preset.Context")
 ```
-## GUID
 ```
 -7987359591204857063
 ```

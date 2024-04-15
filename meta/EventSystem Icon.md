@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("EventSystem Icon")
 ```
-## GUID
 ```
 8243625018350272124
 ```

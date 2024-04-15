@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NetworkView Icon")
 ```
-## GUID
 ```
 4848012447929653673
 ```

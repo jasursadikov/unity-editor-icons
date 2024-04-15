@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_FlareLayer Icon")
 ```
-## GUID
 ```
 553123917656048335
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MovieTexture Icon")
 ```
-## GUID
 ```
 -9214130649181184212
 ```

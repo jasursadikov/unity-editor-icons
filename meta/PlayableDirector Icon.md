@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("PlayableDirector Icon")
 ```
-## GUID
 ```
 -7419989374102571955
 ```

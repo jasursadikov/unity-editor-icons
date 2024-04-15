@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_tab_next")
 ```
-## GUID
 ```
 -6574784532474579880
 ```

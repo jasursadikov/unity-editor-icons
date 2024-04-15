@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_OutOfSync@2x")
 ```
-## GUID
 ```
 -6110013737644561542
 ```

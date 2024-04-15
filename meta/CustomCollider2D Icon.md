@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("CustomCollider2D Icon")
 ```
-## GUID
 ```
 839877395022437811
 ```

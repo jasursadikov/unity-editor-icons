@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_editcollision_32")
 ```
-## GUID
 ```
 -8231814896589588898
 ```

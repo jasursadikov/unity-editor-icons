@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("scenevis_hidden-mixed_hover")
 ```
-## GUID
 ```
 -1933348898012526175
 ```

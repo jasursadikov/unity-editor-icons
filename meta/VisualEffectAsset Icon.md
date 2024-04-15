@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("VisualEffectAsset Icon")
 ```
-## GUID
 ```
 3374781034239659328
 ```

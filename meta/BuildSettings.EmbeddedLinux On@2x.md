@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.EmbeddedLinux On@2x")
 ```
-## GUID
 ```
 1354193150461728072
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("NavMeshObstacle Icon")
 ```
-## GUID
 ```
 5909026947298629088
 ```

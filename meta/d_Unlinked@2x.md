@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Unlinked@2x")
 ```
-## GUID
 ```
 -235294023168959309
 ```

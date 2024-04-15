@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Terrain Icon")
 ```
-## GUID
 ```
 -4247661333715606840
 ```

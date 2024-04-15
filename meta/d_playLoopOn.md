@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_playLoopOn")
 ```
-## GUID
 ```
 6659501543657729554
 ```

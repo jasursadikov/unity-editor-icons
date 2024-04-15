@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("_Popup")
 ```
-## GUID
 ```
 -1238941053918525804
 ```

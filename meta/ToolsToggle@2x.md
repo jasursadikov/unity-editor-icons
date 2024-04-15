@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ToolsToggle@2x")
 ```
-## GUID
 ```
 6693242737727472969
 ```

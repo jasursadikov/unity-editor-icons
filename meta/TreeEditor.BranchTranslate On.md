@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.BranchTranslate On")
 ```
-## GUID
 ```
 -8506420838141003975
 ```

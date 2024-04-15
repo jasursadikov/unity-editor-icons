@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("CacheServerConnected@2x")
 ```
-## GUID
 ```
 5286386693594080902
 ```

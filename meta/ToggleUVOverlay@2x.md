@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ToggleUVOverlay@2x")
 ```
-## GUID
 ```
 3579602582377262670
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioHighPassFilter Icon")
 ```
-## GUID
 ```
 3593955179366978122
 ```

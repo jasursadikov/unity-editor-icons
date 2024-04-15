@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("TextMesh Icon")
 ```
-## GUID
 ```
 5246181342486455390
 ```

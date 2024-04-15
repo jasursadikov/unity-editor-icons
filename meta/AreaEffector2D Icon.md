@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AreaEffector2D Icon")
 ```
-## GUID
 ```
 3769282528709171822
 ```

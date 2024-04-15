@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("Feature-Selected")
 ```
-## GUID
 ```
 -9191798353000785765
 ```

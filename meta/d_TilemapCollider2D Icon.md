@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_TilemapCollider2D Icon")
 ```
-## GUID
 ```
 2301944674211680541
 ```

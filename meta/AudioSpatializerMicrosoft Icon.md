@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioSpatializerMicrosoft Icon")
 ```
-## GUID
 ```
 -1329997003893270728
 ```

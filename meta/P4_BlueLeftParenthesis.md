@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("P4_BlueLeftParenthesis")
 ```
-## GUID
 ```
 3671266808051621922
 ```

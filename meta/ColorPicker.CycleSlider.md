@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("ColorPicker.CycleSlider")
 ```
-## GUID
 ```
 -3513833679861578334
 ```

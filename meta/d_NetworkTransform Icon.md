@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_NetworkTransform Icon")
 ```
-## GUID
 ```
 4972336257229102636
 ```

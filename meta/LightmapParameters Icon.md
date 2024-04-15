@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("LightmapParameters Icon")
 ```
-## GUID
 ```
 4013884910206294973
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("WaitSpin00")
 ```
-## GUID
 ```
 -3702066783001481460
 ```

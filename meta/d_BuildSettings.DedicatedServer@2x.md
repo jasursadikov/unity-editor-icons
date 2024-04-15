@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.DedicatedServer@2x")
 ```
-## GUID
 ```
 5944582379227412270
 ```

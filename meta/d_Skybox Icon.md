@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Skybox Icon")
 ```
-## GUID
 ```
 3993571464490012678
 ```

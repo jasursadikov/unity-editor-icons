@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_SelectionListTemplate Icon")
 ```
-## GUID
 ```
 1305597026415055149
 ```

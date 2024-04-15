@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("MeshFilter Icon")
 ```
-## GUID
 ```
 6874961550238867527
 ```

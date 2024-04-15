@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_rightBracket")
 ```
-## GUID
 ```
 -4916741683038362039
 ```

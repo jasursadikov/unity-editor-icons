@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.ProfilerWindow")
 ```
-## GUID
 ```
 248956144125838126
 ```

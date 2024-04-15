@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Favorite_hover")
 ```
-## GUID
 ```
 253441256580398070
 ```

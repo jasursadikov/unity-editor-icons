@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_Favorite_colored@2x")
 ```
-## GUID
 ```
 -6919406274150041774
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("SpringJoint2D Icon")
 ```
-## GUID
 ```
 -7564017252030128846
 ```

@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("AudioChorusFilter Icon")
 ```
-## GUID
 ```
 -8645521606511801614
 ```

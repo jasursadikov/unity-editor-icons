@@ -4,7 +4,6 @@
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreMatLight1")
 ```
-## GUID
 ```
 -380625847890886982
 ```
