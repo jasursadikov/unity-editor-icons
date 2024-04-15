@@ -1,6 +1,10 @@
 # Quickstart
 ![](/img/Quickstart.png)
-GUID: `-4527450301414172766`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Quickstart")
+```
+## GUID
+```
+-4527450301414172766
 ```

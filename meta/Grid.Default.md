@@ -1,6 +1,10 @@
 # Grid.Default
 ![](/img/Grid.Default.png)
-GUID: `-7036483092075925500`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Grid.Default")
+```
+## GUID
+```
+-7036483092075925500
 ```

@@ -1,6 +1,10 @@
 # Grid.BoxTool
 ![](/img/Grid.BoxTool.png)
-GUID: `-5470262736211965078`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Grid.BoxTool")
+```
+## GUID
+```
+-5470262736211965078
 ```

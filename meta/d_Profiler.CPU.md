@@ -1,6 +1,10 @@
 # d_Profiler.CPU
 ![](/img/d_Profiler.CPU.png)
-GUID: `6318610627759634659`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.CPU")
+```
+## GUID
+```
+6318610627759634659
 ```

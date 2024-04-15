@@ -1,6 +1,10 @@
 # LockIcon-On
 ![](/img/LockIcon-On.png)
-GUID: `-6794972709259673207`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LockIcon-On")
+```
+## GUID
+```
+-6794972709259673207
 ```

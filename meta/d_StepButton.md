@@ -1,6 +1,10 @@
 # d_StepButton
 ![](/img/d_StepButton.png)
-GUID: `7606677459205826508`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_StepButton")
+```
+## GUID
+```
+7606677459205826508
 ```

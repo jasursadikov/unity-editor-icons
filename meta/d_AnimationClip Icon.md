@@ -1,6 +1,10 @@
 # d_AnimationClip Icon
 ![](/img/d_AnimationClip%20Icon.png)
-GUID: `-3945805152363740611`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_AnimationClip Icon")
+```
+## GUID
+```
+-3945805152363740611
 ```

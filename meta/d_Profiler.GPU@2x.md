@@ -1,6 +1,10 @@
 # d_Profiler.GPU@2x
 ![](/img/d_Profiler.GPU@2x.png)
-GUID: `-3627773931424168081`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.GPU@2x")
+```
+## GUID
+```
+-3627773931424168081
 ```

@@ -1,6 +1,10 @@
 # d_Mouse1@2x
 ![](/img/d_Mouse1@2x.png)
-GUID: `-2515816659118229632`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Mouse1@2x")
+```
+## GUID
+```
+-2515816659118229632
 ```

@@ -1,6 +1,10 @@
 # SceneSaveGrey
 ![](/img/SceneSaveGrey.png)
-GUID: `7933853465265390049`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneSaveGrey")
+```
+## GUID
+```
+7933853465265390049
 ```

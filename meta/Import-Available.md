@@ -1,6 +1,10 @@
 # Import-Available
 ![](/img/Import-Available.png)
-GUID: `-7288747722630960557`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Import-Available")
+```
+## GUID
+```
+-7288747722630960557
 ```

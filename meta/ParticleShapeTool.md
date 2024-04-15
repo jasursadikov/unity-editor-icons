@@ -1,6 +1,10 @@
 # ParticleShapeTool
 ![](/img/ParticleShapeTool.png)
-GUID: `-5440957207209922157`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ParticleShapeTool")
+```
+## GUID
+```
+-5440957207209922157
 ```

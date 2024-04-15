@@ -1,6 +1,10 @@
 # Font On Icon
 ![](/img/Font%20On%20Icon.png)
-GUID: `-2491310405513395194`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Font On Icon")
+```
+## GUID
+```
+-2491310405513395194
 ```

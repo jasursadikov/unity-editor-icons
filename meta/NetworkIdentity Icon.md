@@ -1,6 +1,10 @@
 # NetworkIdentity Icon
 ![](/img/NetworkIdentity%20Icon.png)
-GUID: `-6712587550163671158`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("NetworkIdentity Icon")
+```
+## GUID
+```
+-6712587550163671158
 ```

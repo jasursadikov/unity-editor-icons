@@ -1,6 +1,10 @@
 # Slider Icon
 ![](/img/Slider%20Icon.png)
-GUID: `-632671796230222846`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Slider Icon")
+```
+## GUID
+```
+-632671796230222846
 ```

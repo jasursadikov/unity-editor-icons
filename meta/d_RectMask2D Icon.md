@@ -1,6 +1,10 @@
 # d_RectMask2D Icon
 ![](/img/d_RectMask2D%20Icon.png)
-GUID: `5601005728230766229`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_RectMask2D Icon")
+```
+## GUID
+```
+5601005728230766229
 ```

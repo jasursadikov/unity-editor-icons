@@ -1,6 +1,10 @@
 # BuildSettings.WebGL On
 ![](/img/BuildSettings.WebGL%20On.png)
-GUID: `4781758196249721453`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.WebGL On")
+```
+## GUID
+```
+4781758196249721453
 ```

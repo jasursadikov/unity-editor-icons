@@ -1,6 +1,10 @@
 # d_Snapping_ConnectedPorts
 ![](/img/d_Snapping_ConnectedPorts.png)
-GUID: `-8920504714403875376`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Snapping_ConnectedPorts")
+```
+## GUID
+```
+-8920504714403875376
 ```

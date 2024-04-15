@@ -1,5 +1,6 @@
 # Unity Editor Built-in Icons
-*Unity version* 2023.2.3f1
+**Unity version** 2023.2.3f1
+
 Load icons using `EditorGUIUtility.IconContent()`
 
 File ID
@@ -429,4 +430,5 @@ You can change script icon by file id
 | [<img src="img/WaitSpin08.png" width=16 height=16 title="WaitSpin08">](meta/WaitSpin08.md) | [<img src="img/WaitSpin09.png" width=16 height=16 title="WaitSpin09">](meta/WaitSpin09.md) | [<img src="img/WaitSpin10.png" width=16 height=16 title="WaitSpin10">](meta/WaitSpin10.md) | [<img src="img/WaitSpin11.png" width=16 height=16 title="WaitSpin11">](meta/WaitSpin11.md) | [<img src="img/WelcomeScreen.AssetStoreLogo.png" width=32 height=32 title="WelcomeScreen.AssetStoreLogo">](meta/WelcomeScreen.AssetStoreLogo.md) | [<img src="img/winbtn_graph.png" width=13 height=13 title="winbtn_graph">](meta/winbtn_graph.md) | [<img src="img/winbtn_graph_close_h.png" width=13 height=13 title="winbtn_graph_close_h">](meta/winbtn_graph_close_h.md) |
 | [<img src="img/winbtn_graph_max_h.png" width=13 height=13 title="winbtn_graph_max_h">](meta/winbtn_graph_max_h.md) | [<img src="img/winbtn_graph_min_h.png" width=13 height=13 title="winbtn_graph_min_h">](meta/winbtn_graph_min_h.md) | [<img src="img/winbtn_mac_close_a.png" width=16 height=16 title="winbtn_mac_close_a">](meta/winbtn_mac_close_a.md) | [<img src="img/winbtn_mac_close_a@2x.png" width=32 height=32 title="winbtn_mac_close_a@2x">](meta/winbtn_mac_close_a@2x.md) | [<img src="img/winbtn_mac_inact.png" width=16 height=16 title="winbtn_mac_inact">](meta/winbtn_mac_inact.md) | [<img src="img/winbtn_mac_inact@2x.png" width=32 height=32 title="winbtn_mac_inact@2x">](meta/winbtn_mac_inact@2x.md) | [<img src="img/winbtn_mac_min_a.png" width=16 height=16 title="winbtn_mac_min_a">](meta/winbtn_mac_min_a.md) |
 | [<img src="img/winbtn_mac_min_a@2x.png" width=32 height=32 title="winbtn_mac_min_a@2x">](meta/winbtn_mac_min_a@2x.md) | [<img src="img/winbtn_win_min.png" width=13 height=13 title="winbtn_win_min">](meta/winbtn_win_min.md) | [<img src="img/winbtn_win_min_a.png" width=13 height=13 title="winbtn_win_min_a">](meta/winbtn_win_min_a.md) | [<img src="img/winbtn_win_min_h.png" width=13 height=13 title="winbtn_win_min_h">](meta/winbtn_win_min_h.md) | [<img src="img/winbtn_win_rest.png" width=13 height=13 title="winbtn_win_rest">](meta/winbtn_win_rest.md) | [<img src="img/winbtn_win_rest_a.png" width=13 height=13 title="winbtn_win_rest_a">](meta/winbtn_win_rest_a.md) | [<img src="img/winbtn_win_rest_h.png" width=13 height=13 title="winbtn_win_rest_h">](meta/winbtn_win_rest_h.md) |
+
 Original script author: https://github.com/halak

@@ -1,6 +1,10 @@
 # ClothInspector.SettingsTool
 ![](/img/ClothInspector.SettingsTool.png)
-GUID: `-5509047954332065865`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ClothInspector.SettingsTool")
+```
+## GUID
+```
+-5509047954332065865
 ```

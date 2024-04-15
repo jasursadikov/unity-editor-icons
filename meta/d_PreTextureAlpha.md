@@ -1,6 +1,10 @@
 # d_PreTextureAlpha
 ![](/img/d_PreTextureAlpha.png)
-GUID: `-3157848010053115858`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PreTextureAlpha")
+```
+## GUID
+```
+-3157848010053115858
 ```

@@ -1,6 +1,10 @@
 # monologo
 ![](/img/monologo.png)
-GUID: `7143736379703623404`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("monologo")
+```
+## GUID
+```
+7143736379703623404
 ```

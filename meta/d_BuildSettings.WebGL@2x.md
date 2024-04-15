@@ -1,6 +1,10 @@
 # d_BuildSettings.WebGL@2x
 ![](/img/d_BuildSettings.WebGL@2x.png)
-GUID: `-6900537904881935172`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.WebGL@2x")
+```
+## GUID
+```
+-6900537904881935172
 ```

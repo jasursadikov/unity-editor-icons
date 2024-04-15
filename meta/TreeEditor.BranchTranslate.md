@@ -1,6 +1,10 @@
 # TreeEditor.BranchTranslate
 ![](/img/TreeEditor.BranchTranslate.png)
-GUID: `-825382362089134608`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.BranchTranslate")
+```
+## GUID
+```
+-825382362089134608
 ```

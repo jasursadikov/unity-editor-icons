@@ -1,6 +1,10 @@
 # FilterSelectedOnly
 ![](/img/FilterSelectedOnly.png)
-GUID: `-1326304706695572111`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("FilterSelectedOnly")
+```
+## GUID
+```
+-1326304706695572111
 ```

@@ -1,6 +1,10 @@
 # icon dropdown@2x
 ![](/img/icon%20dropdown@2x.png)
-GUID: `-2422836270288356527`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("icon dropdown@2x")
+```
+## GUID
+```
+-2422836270288356527
 ```

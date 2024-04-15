@@ -1,6 +1,10 @@
 # MainStageView@2x
 ![](/img/MainStageView@2x.png)
-GUID: `-1712647720307149611`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MainStageView@2x")
+```
+## GUID
+```
+-1712647720307149611
 ```

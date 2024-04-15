@@ -1,6 +1,10 @@
 # animationvisibilitytoggleoff@2x
 ![](/img/animationvisibilitytoggleoff@2x.png)
-GUID: `2084219579258176148`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("animationvisibilitytoggleoff@2x")
+```
+## GUID
+```
+2084219579258176148
 ```

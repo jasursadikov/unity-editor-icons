@@ -1,6 +1,10 @@
 # d_ToolHandlePivot@2x
 ![](/img/d_ToolHandlePivot@2x.png)
-GUID: `2969558182079956279`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ToolHandlePivot@2x")
+```
+## GUID
+```
+2969558182079956279
 ```

@@ -1,6 +1,10 @@
 # ConstantForce Icon
 ![](/img/ConstantForce%20Icon.png)
-GUID: `-801216066870577310`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ConstantForce Icon")
+```
+## GUID
+```
+-801216066870577310
 ```

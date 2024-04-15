@@ -1,6 +1,10 @@
 # d_ToolSettings@2x
 ![](/img/d_ToolSettings@2x.png)
-GUID: `-7492443965407369068`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ToolSettings@2x")
+```
+## GUID
+```
+-7492443965407369068
 ```

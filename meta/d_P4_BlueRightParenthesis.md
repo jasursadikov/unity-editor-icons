@@ -1,6 +1,10 @@
 # d_P4_BlueRightParenthesis
 ![](/img/d_P4_BlueRightParenthesis.png)
-GUID: `3788557283674318552`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_P4_BlueRightParenthesis")
+```
+## GUID
+```
+3788557283674318552
 ```

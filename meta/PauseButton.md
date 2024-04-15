@@ -1,6 +1,10 @@
 # PauseButton
 ![](/img/PauseButton.png)
-GUID: `461084198665957024`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PauseButton")
+```
+## GUID
+```
+461084198665957024
 ```

@@ -1,6 +1,10 @@
 # ClothInspector.ViewValue
 ![](/img/ClothInspector.ViewValue.png)
-GUID: `-8688548480094122452`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ClothInspector.ViewValue")
+```
+## GUID
+```
+-8688548480094122452
 ```

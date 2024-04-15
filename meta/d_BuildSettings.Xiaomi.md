@@ -1,6 +1,10 @@
 # d_BuildSettings.Xiaomi
 ![](/img/d_BuildSettings.Xiaomi.png)
-GUID: `-6144129136269295938`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.Xiaomi")
+```
+## GUID
+```
+-6144129136269295938
 ```

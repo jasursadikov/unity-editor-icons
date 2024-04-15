@@ -1,6 +1,10 @@
 # SignalEmitter Icon
 ![](/img/SignalEmitter%20Icon.png)
-GUID: `-7208649984540925430`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SignalEmitter Icon")
+```
+## GUID
+```
+-7208649984540925430
 ```

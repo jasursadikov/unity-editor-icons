@@ -1,6 +1,10 @@
 # HumanTemplate Icon
 ![](/img/HumanTemplate%20Icon.png)
-GUID: `2078995878536835517`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("HumanTemplate Icon")
+```
+## GUID
+```
+2078995878536835517
 ```

@@ -1,6 +1,10 @@
 # Folder@2x
 ![](/img/Folder@2x.png)
-GUID: `-8177638703615854856`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Folder@2x")
+```
+## GUID
+```
+-8177638703615854856
 ```

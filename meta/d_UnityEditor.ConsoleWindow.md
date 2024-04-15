@@ -1,6 +1,10 @@
 # d_UnityEditor.ConsoleWindow
 ![](/img/d_UnityEditor.ConsoleWindow.png)
-GUID: `-4327648978806127646`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.ConsoleWindow")
+```
+## GUID
+```
+-4327648978806127646
 ```

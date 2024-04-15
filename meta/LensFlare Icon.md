@@ -1,6 +1,10 @@
 # LensFlare Icon
 ![](/img/LensFlare%20Icon.png)
-GUID: `7794051059240042548`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LensFlare Icon")
+```
+## GUID
+```
+7794051059240042548
 ```

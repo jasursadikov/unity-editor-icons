@@ -1,6 +1,10 @@
 # StateMachineEditor.StateHover
 ![](/img/StateMachineEditor.StateHover.png)
-GUID: `6651725969123511595`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.StateHover")
+```
+## GUID
+```
+6651725969123511595
 ```

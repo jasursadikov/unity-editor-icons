@@ -1,6 +1,10 @@
 # Shader Icon
 ![](/img/Shader%20Icon.png)
-GUID: `8236649756644403728`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Shader Icon")
+```
+## GUID
+```
+8236649756644403728
 ```

@@ -1,6 +1,10 @@
 # d_Profiler.LastFrame
 ![](/img/d_Profiler.LastFrame.png)
-GUID: `1156741976402795997`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.LastFrame")
+```
+## GUID
+```
+1156741976402795997
 ```

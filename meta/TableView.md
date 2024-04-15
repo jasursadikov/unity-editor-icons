@@ -1,6 +1,10 @@
 # TableView
 ![](/img/TableView.png)
-GUID: `-2198604310576556772`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TableView")
+```
+## GUID
+```
+-2198604310576556772
 ```

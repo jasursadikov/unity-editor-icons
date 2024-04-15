@@ -1,6 +1,10 @@
 # MoveTool@2x
 ![](/img/MoveTool@2x.png)
-GUID: `6772457180101594644`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MoveTool@2x")
+```
+## GUID
+```
+6772457180101594644
 ```

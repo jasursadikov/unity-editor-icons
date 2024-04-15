@@ -1,6 +1,10 @@
 # d_BuildSettings.Stadia.Small@2x
 ![](/img/d_BuildSettings.Stadia.Small@2x.png)
-GUID: `-2916328454764905165`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.Stadia.Small@2x")
+```
+## GUID
+```
+-2916328454764905165
 ```

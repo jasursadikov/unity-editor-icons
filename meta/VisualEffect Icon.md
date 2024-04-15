@@ -1,6 +1,10 @@
 # VisualEffect Icon
 ![](/img/VisualEffect%20Icon.png)
-GUID: `5167932683419749228`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VisualEffect Icon")
+```
+## GUID
+```
+5167932683419749228
 ```

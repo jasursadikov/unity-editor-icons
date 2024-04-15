@@ -1,6 +1,10 @@
 # HeadIk
 ![](/img/HeadIk.png)
-GUID: `-1140323874079327623`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("HeadIk")
+```
+## GUID
+```
+-1140323874079327623
 ```

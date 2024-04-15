@@ -1,6 +1,10 @@
 # pinned
 ![](/img/pinned.png)
-GUID: `526548446981368317`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("pinned")
+```
+## GUID
+```
+526548446981368317
 ```

@@ -1,6 +1,10 @@
 # d_greenLight
 ![](/img/d_greenLight.png)
-GUID: `2158857582549356844`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_greenLight")
+```
+## GUID
+```
+2158857582549356844
 ```

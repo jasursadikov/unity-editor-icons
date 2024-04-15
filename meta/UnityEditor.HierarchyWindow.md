@@ -1,6 +1,10 @@
 # UnityEditor.HierarchyWindow
 ![](/img/UnityEditor.HierarchyWindow.png)
-GUID: `-3367076638639332536`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.HierarchyWindow")
+```
+## GUID
+```
+-3367076638639332536
 ```

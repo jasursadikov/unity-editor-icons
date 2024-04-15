@@ -1,6 +1,10 @@
 # BuildSettings.LinuxHeadlessSimulation.Small@2x
 ![](/img/BuildSettings.LinuxHeadlessSimulation.Small@2x.png)
-GUID: `6676424620479421655`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.LinuxHeadlessSimulation.Small@2x")
+```
+## GUID
+```
+6676424620479421655
 ```

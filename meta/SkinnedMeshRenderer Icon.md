@@ -1,6 +1,10 @@
 # SkinnedMeshRenderer Icon
 ![](/img/SkinnedMeshRenderer%20Icon.png)
-GUID: `-4497036205118453748`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SkinnedMeshRenderer Icon")
+```
+## GUID
+```
+-4497036205118453748
 ```

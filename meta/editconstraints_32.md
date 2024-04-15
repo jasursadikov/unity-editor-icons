@@ -1,6 +1,10 @@
 # editconstraints_32
 ![](/img/editconstraints_32.png)
-GUID: `-6653826369513442129`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("editconstraints_32")
+```
+## GUID
+```
+-6653826369513442129
 ```

@@ -1,6 +1,10 @@
 # HierarchyLock@2x
 ![](/img/HierarchyLock@2x.png)
-GUID: `-7377466467976893219`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("HierarchyLock@2x")
+```
+## GUID
+```
+-7377466467976893219
 ```

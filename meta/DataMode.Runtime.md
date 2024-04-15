@@ -1,6 +1,10 @@
 # DataMode.Runtime
 ![](/img/DataMode.Runtime.png)
-GUID: `2918817017716212263`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DataMode.Runtime")
+```
+## GUID
+```
+2918817017716212263
 ```

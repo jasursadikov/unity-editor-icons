@@ -1,6 +1,10 @@
 # d_scenepicking_pickable@2x
 ![](/img/d_scenepicking_pickable@2x.png)
-GUID: `-6244006619687045507`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_scenepicking_pickable@2x")
+```
+## GUID
+```
+-6244006619687045507
 ```

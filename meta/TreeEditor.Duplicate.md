@@ -1,6 +1,10 @@
 # TreeEditor.Duplicate
 ![](/img/TreeEditor.Duplicate.png)
-GUID: `1888757724751404861`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Duplicate")
+```
+## GUID
+```
+1888757724751404861
 ```

@@ -1,6 +1,10 @@
 # AudioLowPassFilter Icon
 ![](/img/AudioLowPassFilter%20Icon.png)
-GUID: `7044192529978410414`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioLowPassFilter Icon")
+```
+## GUID
+```
+7044192529978410414
 ```

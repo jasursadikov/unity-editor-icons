@@ -1,6 +1,10 @@
 # BuildSettings.Lumin.small
 ![](/img/BuildSettings.Lumin.small.png)
-GUID: `8979687790990599924`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Lumin.small")
+```
+## GUID
+```
+8979687790990599924
 ```

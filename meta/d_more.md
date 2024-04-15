@@ -1,6 +1,10 @@
 # d_more
 ![](/img/d_more.png)
-GUID: `5916302036801745291`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_more")
+```
+## GUID
+```
+5916302036801745291
 ```

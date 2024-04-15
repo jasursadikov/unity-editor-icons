@@ -1,6 +1,10 @@
 # Mirror
 ![](/img/Mirror.png)
-GUID: `-1939442913395969536`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Mirror")
+```
+## GUID
+```
+-1939442913395969536
 ```

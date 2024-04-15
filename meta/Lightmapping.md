@@ -1,6 +1,10 @@
 # Lightmapping
 ![](/img/Lightmapping.png)
-GUID: `-3351127871323511696`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Lightmapping")
+```
+## GUID
+```
+-3351127871323511696
 ```

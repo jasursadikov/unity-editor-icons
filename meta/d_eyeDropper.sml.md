@@ -1,6 +1,10 @@
 # d_eyeDropper.sml
 ![](/img/d_eyeDropper.sml.png)
-GUID: `5535293865780846947`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_eyeDropper.sml")
+```
+## GUID
+```
+5535293865780846947
 ```

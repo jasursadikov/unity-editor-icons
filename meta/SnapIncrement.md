@@ -1,6 +1,10 @@
 # SnapIncrement
 ![](/img/SnapIncrement.png)
-GUID: `6159598401094336691`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SnapIncrement")
+```
+## GUID
+```
+6159598401094336691
 ```

@@ -1,6 +1,10 @@
 # AssetStore Icon
 ![](/img/AssetStore%20Icon.png)
-GUID: `6635635470466451846`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AssetStore Icon")
+```
+## GUID
+```
+6635635470466451846
 ```

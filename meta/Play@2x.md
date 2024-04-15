@@ -1,6 +1,10 @@
 # Play@2x
 ![](/img/Play@2x.png)
-GUID: `6100206489309594354`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Play@2x")
+```
+## GUID
+```
+6100206489309594354
 ```

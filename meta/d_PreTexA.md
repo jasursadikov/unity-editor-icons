@@ -1,6 +1,10 @@
 # d_PreTexA
 ![](/img/d_PreTexA.png)
-GUID: `7632835222734365967`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PreTexA")
+```
+## GUID
+```
+7632835222734365967
 ```

@@ -1,6 +1,10 @@
 # loop
 ![](/img/loop.png)
-GUID: `-2200085055269470160`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("loop")
+```
+## GUID
+```
+-2200085055269470160
 ```

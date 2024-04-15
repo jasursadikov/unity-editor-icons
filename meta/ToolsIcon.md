@@ -1,6 +1,10 @@
 # ToolsIcon
 ![](/img/ToolsIcon.png)
-GUID: `7288249624215659050`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ToolsIcon")
+```
+## GUID
+```
+7288249624215659050
 ```

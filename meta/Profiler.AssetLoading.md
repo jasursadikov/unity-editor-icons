@@ -1,6 +1,10 @@
 # Profiler.AssetLoading
 ![](/img/Profiler.AssetLoading.png)
-GUID: `-1074093493599853803`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.AssetLoading")
+```
+## GUID
+```
+-1074093493599853803
 ```

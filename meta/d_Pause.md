@@ -1,6 +1,10 @@
 # d_Pause
 ![](/img/d_Pause.png)
-GUID: `-176319008291689145`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Pause")
+```
+## GUID
+```
+-176319008291689145
 ```

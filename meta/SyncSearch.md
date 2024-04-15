@@ -1,6 +1,10 @@
 # SyncSearch
 ![](/img/SyncSearch.png)
-GUID: `3092139438960069621`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SyncSearch")
+```
+## GUID
+```
+3092139438960069621
 ```

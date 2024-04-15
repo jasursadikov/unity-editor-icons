@@ -1,6 +1,10 @@
 # Mask Icon
 ![](/img/Mask%20Icon.png)
-GUID: `-5557649324293814156`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Mask Icon")
+```
+## GUID
+```
+-5557649324293814156
 ```

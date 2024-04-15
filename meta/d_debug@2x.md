@@ -1,6 +1,10 @@
 # d_debug@2x
 ![](/img/d_debug@2x.png)
-GUID: `2130249966799336080`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_debug@2x")
+```
+## GUID
+```
+2130249966799336080
 ```

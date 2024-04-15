@@ -1,6 +1,10 @@
 # scenepicking_pickable_hover
 ![](/img/scenepicking_pickable_hover.png)
-GUID: `9014272083852881945`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("scenepicking_pickable_hover")
+```
+## GUID
+```
+9014272083852881945
 ```

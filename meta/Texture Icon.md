@@ -1,6 +1,10 @@
 # Texture Icon
 ![](/img/Texture%20Icon.png)
-GUID: `4663949997957880924`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Texture Icon")
+```
+## GUID
+```
+4663949997957880924
 ```

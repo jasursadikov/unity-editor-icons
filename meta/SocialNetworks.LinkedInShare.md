@@ -1,6 +1,10 @@
 # SocialNetworks.LinkedInShare
 ![](/img/SocialNetworks.LinkedInShare.png)
-GUID: `-4302222837364986894`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SocialNetworks.LinkedInShare")
+```
+## GUID
+```
+-4302222837364986894
 ```

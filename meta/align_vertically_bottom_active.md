@@ -1,6 +1,10 @@
 # align_vertically_bottom_active
 ![](/img/align_vertically_bottom_active.png)
-GUID: `6407092635398360469`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("align_vertically_bottom_active")
+```
+## GUID
+```
+6407092635398360469
 ```

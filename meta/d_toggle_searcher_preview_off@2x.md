@@ -1,6 +1,10 @@
 # d_toggle_searcher_preview_off@2x
 ![](/img/d_toggle_searcher_preview_off@2x.png)
-GUID: `-8032179987610191258`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_toggle_searcher_preview_off@2x")
+```
+## GUID
+```
+-8032179987610191258
 ```

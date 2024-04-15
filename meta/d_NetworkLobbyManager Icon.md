@@ -1,6 +1,10 @@
 # d_NetworkLobbyManager Icon
 ![](/img/d_NetworkLobbyManager%20Icon.png)
-GUID: `-319621844504274724`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_NetworkLobbyManager Icon")
+```
+## GUID
+```
+-319621844504274724
 ```

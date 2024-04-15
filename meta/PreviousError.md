@@ -1,6 +1,10 @@
 # PreviousError
 ![](/img/PreviousError.png)
-GUID: `8289987039715617981`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PreviousError")
+```
+## GUID
+```
+8289987039715617981
 ```

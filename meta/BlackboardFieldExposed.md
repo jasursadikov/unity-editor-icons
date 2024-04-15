@@ -1,6 +1,10 @@
 # BlackboardFieldExposed
 ![](/img/BlackboardFieldExposed.png)
-GUID: `-7490312060416960128`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BlackboardFieldExposed")
+```
+## GUID
+```
+-7490312060416960128
 ```

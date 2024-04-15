@@ -1,6 +1,10 @@
 # d_PreMatCube
 ![](/img/d_PreMatCube.png)
-GUID: `4963668328950458727`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PreMatCube")
+```
+## GUID
+```
+4963668328950458727
 ```

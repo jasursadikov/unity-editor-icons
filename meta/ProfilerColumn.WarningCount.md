@@ -1,6 +1,10 @@
 # ProfilerColumn.WarningCount
 ![](/img/ProfilerColumn.WarningCount.png)
-GUID: `-8021192726745117861`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ProfilerColumn.WarningCount")
+```
+## GUID
+```
+-8021192726745117861
 ```

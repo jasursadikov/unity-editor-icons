@@ -1,6 +1,10 @@
 # GridView
 ![](/img/GridView.png)
-GUID: `-3611339562729042634`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GridView")
+```
+## GUID
+```
+-3611339562729042634
 ```

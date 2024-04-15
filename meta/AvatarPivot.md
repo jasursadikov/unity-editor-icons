@@ -1,6 +1,10 @@
 # AvatarPivot
 ![](/img/AvatarPivot.png)
-GUID: `-4773557929347618964`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AvatarPivot")
+```
+## GUID
+```
+-4773557929347618964
 ```

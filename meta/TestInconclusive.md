@@ -1,6 +1,10 @@
 # TestInconclusive
 ![](/img/TestInconclusive.png)
-GUID: `6568026431948285535`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TestInconclusive")
+```
+## GUID
+```
+6568026431948285535
 ```

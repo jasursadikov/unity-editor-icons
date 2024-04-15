@@ -1,6 +1,10 @@
 # VerticalLayoutGroup Icon
 ![](/img/VerticalLayoutGroup%20Icon.png)
-GUID: `-6257839366180883323`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VerticalLayoutGroup Icon")
+```
+## GUID
+```
+-6257839366180883323
 ```

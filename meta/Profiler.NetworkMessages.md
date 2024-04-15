@@ -1,6 +1,10 @@
 # Profiler.NetworkMessages
 ![](/img/Profiler.NetworkMessages.png)
-GUID: `3816689439724054780`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.NetworkMessages")
+```
+## GUID
+```
+3816689439724054780
 ```

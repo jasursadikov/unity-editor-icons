@@ -1,6 +1,10 @@
 # P4_Local
 ![](/img/P4_Local.png)
-GUID: `-9156365771431448045`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("P4_Local")
+```
+## GUID
+```
+-9156365771431448045
 ```

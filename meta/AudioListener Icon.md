@@ -1,6 +1,10 @@
 # AudioListener Icon
 ![](/img/AudioListener%20Icon.png)
-GUID: `-5004290452012795762`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioListener Icon")
+```
+## GUID
+```
+-5004290452012795762
 ```

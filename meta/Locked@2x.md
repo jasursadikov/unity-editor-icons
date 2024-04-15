@@ -1,6 +1,10 @@
 # Locked@2x
 ![](/img/Locked@2x.png)
-GUID: `771862435094109860`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Locked@2x")
+```
+## GUID
+```
+771862435094109860
 ```

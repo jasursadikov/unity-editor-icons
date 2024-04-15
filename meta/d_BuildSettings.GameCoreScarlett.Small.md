@@ -1,6 +1,10 @@
 # d_BuildSettings.GameCoreScarlett.Small
 ![](/img/d_BuildSettings.GameCoreScarlett.Small.png)
-GUID: `-6652521207947470784`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.GameCoreScarlett.Small")
+```
+## GUID
+```
+-6652521207947470784
 ```

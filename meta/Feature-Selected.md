@@ -1,6 +1,10 @@
 # Feature-Selected
 ![](/img/Feature-Selected.png)
-GUID: `-9191798353000785765`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Feature-Selected")
+```
+## GUID
+```
+-9191798353000785765
 ```

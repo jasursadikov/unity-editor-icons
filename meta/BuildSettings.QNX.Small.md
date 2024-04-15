@@ -1,6 +1,10 @@
 # BuildSettings.QNX.Small
 ![](/img/BuildSettings.QNX.Small.png)
-GUID: `-989840311337000591`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.QNX.Small")
+```
+## GUID
+```
+-989840311337000591
 ```

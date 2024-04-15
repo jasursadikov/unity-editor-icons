@@ -1,6 +1,10 @@
 # editcollision_16
 ![](/img/editcollision_16.png)
-GUID: `5799996980918471266`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("editcollision_16")
+```
+## GUID
+```
+5799996980918471266
 ```

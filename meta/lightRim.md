@@ -1,6 +1,10 @@
 # lightRim
 ![](/img/lightRim.png)
-GUID: `2228402035362692230`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("lightRim")
+```
+## GUID
+```
+2228402035362692230
 ```

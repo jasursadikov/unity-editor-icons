@@ -1,6 +1,10 @@
 # UnityRegistry
 ![](/img/UnityRegistry.png)
-GUID: `8981374611699157215`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityRegistry")
+```
+## GUID
+```
+8981374611699157215
 ```

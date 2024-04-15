@@ -1,6 +1,10 @@
 # AudioSource Icon
 ![](/img/AudioSource%20Icon.png)
-GUID: `-8414379710084360250`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioSource Icon")
+```
+## GUID
+```
+-8414379710084360250
 ```

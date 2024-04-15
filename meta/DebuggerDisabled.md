@@ -1,6 +1,10 @@
 # DebuggerDisabled
 ![](/img/DebuggerDisabled.png)
-GUID: `-6752520531078645004`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DebuggerDisabled")
+```
+## GUID
+```
+-6752520531078645004
 ```

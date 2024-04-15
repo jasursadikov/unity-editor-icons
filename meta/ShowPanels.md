@@ -1,6 +1,10 @@
 # ShowPanels
 ![](/img/ShowPanels.png)
-GUID: `-5588570970787893127`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ShowPanels")
+```
+## GUID
+```
+-5588570970787893127
 ```

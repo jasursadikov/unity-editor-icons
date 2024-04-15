@@ -1,6 +1,10 @@
 # TerrainInspector.TerrainToolPlants
 ![](/img/TerrainInspector.TerrainToolPlants.png)
-GUID: `-541423827089468693`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TerrainInspector.TerrainToolPlants")
+```
+## GUID
+```
+-541423827089468693
 ```

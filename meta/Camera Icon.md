@@ -1,6 +1,10 @@
 # Camera Icon
 ![](/img/Camera%20Icon.png)
-GUID: `6338563257489195420`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Camera Icon")
+```
+## GUID
+```
+6338563257489195420
 ```

@@ -1,6 +1,10 @@
 # eyeDropper.sml
 ![](/img/eyeDropper.sml.png)
-GUID: `-5323962665676680884`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("eyeDropper.sml")
+```
+## GUID
+```
+-5323962665676680884
 ```

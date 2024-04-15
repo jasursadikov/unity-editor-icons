@@ -1,6 +1,10 @@
 # blendKey
 ![](/img/blendKey.png)
-GUID: `6036928476410329760`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("blendKey")
+```
+## GUID
+```
+6036928476410329760
 ```

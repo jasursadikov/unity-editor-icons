@@ -1,6 +1,10 @@
 # AudioImporter Icon
 ![](/img/AudioImporter%20Icon.png)
-GUID: `-7676848457520724502`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioImporter Icon")
+```
+## GUID
+```
+-7676848457520724502
 ```

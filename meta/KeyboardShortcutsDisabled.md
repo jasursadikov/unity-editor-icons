@@ -1,6 +1,10 @@
 # KeyboardShortcutsDisabled
 ![](/img/KeyboardShortcutsDisabled.png)
-GUID: `-6479211325059601187`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("KeyboardShortcutsDisabled")
+```
+## GUID
+```
+-6479211325059601187
 ```

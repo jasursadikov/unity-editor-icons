@@ -1,6 +1,10 @@
 # Profiler.VirtualTexturing
 ![](/img/Profiler.VirtualTexturing.png)
-GUID: `3317883283363178034`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.VirtualTexturing")
+```
+## GUID
+```
+3317883283363178034
 ```

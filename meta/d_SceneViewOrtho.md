@@ -1,6 +1,10 @@
 # d_SceneViewOrtho
 ![](/img/d_SceneViewOrtho.png)
-GUID: `5153128777763766899`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SceneViewOrtho")
+```
+## GUID
+```
+5153128777763766899
 ```

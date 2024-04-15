@@ -1,6 +1,10 @@
 # winbtn_graph
 ![](/img/winbtn_graph.png)
-GUID: `-6181712325412664997`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("winbtn_graph")
+```
+## GUID
+```
+-6181712325412664997
 ```

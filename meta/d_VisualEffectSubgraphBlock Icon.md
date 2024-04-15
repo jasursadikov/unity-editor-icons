@@ -1,6 +1,10 @@
 # d_VisualEffectSubgraphBlock Icon
 ![](/img/d_VisualEffectSubgraphBlock%20Icon.png)
-GUID: `-2262833497286184379`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_VisualEffectSubgraphBlock Icon")
+```
+## GUID
+```
+-2262833497286184379
 ```

@@ -1,6 +1,10 @@
 # d_RotateTool On@2x
 ![](/img/d_RotateTool%20On@2x.png)
-GUID: `-3781600029101913557`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_RotateTool On@2x")
+```
+## GUID
+```
+-3781600029101913557
 ```

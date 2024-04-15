@@ -1,6 +1,10 @@
 # PackageBadgeOverride
 ![](/img/PackageBadgeOverride.png)
-GUID: `5807634774830249104`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PackageBadgeOverride")
+```
+## GUID
+```
+5807634774830249104
 ```

@@ -1,6 +1,10 @@
 # d_Navigation
 ![](/img/d_Navigation.png)
-GUID: `1087843850482249999`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Navigation")
+```
+## GUID
+```
+1087843850482249999
 ```

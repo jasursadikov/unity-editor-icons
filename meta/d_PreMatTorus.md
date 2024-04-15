@@ -1,6 +1,10 @@
 # d_PreMatTorus
 ![](/img/d_PreMatTorus.png)
-GUID: `4683423234777854641`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PreMatTorus")
+```
+## GUID
+```
+4683423234777854641
 ```

@@ -1,6 +1,10 @@
 # DebuggerAttached
 ![](/img/DebuggerAttached.png)
-GUID: `-7170190017073639716`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DebuggerAttached")
+```
+## GUID
+```
+-7170190017073639716
 ```

@@ -1,6 +1,10 @@
 # d_BuildSettings.PS4@2x
 ![](/img/d_BuildSettings.PS4@2x.png)
-GUID: `4572901898994548769`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.PS4@2x")
+```
+## GUID
+```
+4572901898994548769
 ```

@@ -1,6 +1,10 @@
 # sv_icon_none
 ![](/img/sv_icon_none.png)
-GUID: `6747498294819732817`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("sv_icon_none")
+```
+## GUID
+```
+6747498294819732817
 ```

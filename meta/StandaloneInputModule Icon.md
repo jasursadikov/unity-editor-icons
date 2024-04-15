@@ -1,6 +1,10 @@
 # StandaloneInputModule Icon
 ![](/img/StandaloneInputModule%20Icon.png)
-GUID: `-542281249927820872`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StandaloneInputModule Icon")
+```
+## GUID
+```
+-542281249927820872
 ```

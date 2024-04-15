@@ -1,6 +1,10 @@
 # DefaultSorting
 ![](/img/DefaultSorting.png)
-GUID: `6248398737729433369`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DefaultSorting")
+```
+## GUID
+```
+6248398737729433369
 ```

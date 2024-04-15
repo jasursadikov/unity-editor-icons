@@ -1,6 +1,10 @@
 # animationdopesheetkeyframe
 ![](/img/animationdopesheetkeyframe.png)
-GUID: `-726526387389776670`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("animationdopesheetkeyframe")
+```
+## GUID
+```
+-726526387389776670
 ```

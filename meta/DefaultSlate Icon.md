@@ -1,6 +1,10 @@
 # DefaultSlate Icon
 ![](/img/DefaultSlate%20Icon.png)
-GUID: `5517444954225309242`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DefaultSlate Icon")
+```
+## GUID
+```
+5517444954225309242
 ```

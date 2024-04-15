@@ -1,6 +1,10 @@
 # NavMeshAgent Icon
 ![](/img/NavMeshAgent%20Icon.png)
-GUID: `-129792923033476268`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("NavMeshAgent Icon")
+```
+## GUID
+```
+-129792923033476268
 ```

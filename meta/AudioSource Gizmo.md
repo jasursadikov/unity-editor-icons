@@ -1,6 +1,10 @@
 # AudioSource Gizmo
 ![](/img/AudioSource%20Gizmo.png)
-GUID: `-6468954903327631397`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioSource Gizmo")
+```
+## GUID
+```
+-6468954903327631397
 ```

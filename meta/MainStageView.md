@@ -1,6 +1,10 @@
 # MainStageView
 ![](/img/MainStageView.png)
-GUID: `3941239396516042914`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MainStageView")
+```
+## GUID
+```
+3941239396516042914
 ```

@@ -1,6 +1,10 @@
 # GridLayoutGroup Icon
 ![](/img/GridLayoutGroup%20Icon.png)
-GUID: `-4744454673356923046`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GridLayoutGroup Icon")
+```
+## GUID
+```
+-4744454673356923046
 ```

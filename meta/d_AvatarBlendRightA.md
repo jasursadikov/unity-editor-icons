@@ -1,6 +1,10 @@
 # d_AvatarBlendRightA
 ![](/img/d_AvatarBlendRightA.png)
-GUID: `-6342677975472070947`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_AvatarBlendRightA")
+```
+## GUID
+```
+-6342677975472070947
 ```

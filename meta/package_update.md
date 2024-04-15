@@ -1,6 +1,10 @@
 # package_update
 ![](/img/package_update.png)
-GUID: `-2037856988749769631`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("package_update")
+```
+## GUID
+```
+-2037856988749769631
 ```

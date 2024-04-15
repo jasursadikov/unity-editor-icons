@@ -1,6 +1,10 @@
 # d_MoveTool
 ![](/img/d_MoveTool.png)
-GUID: `887304518092530642`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_MoveTool")
+```
+## GUID
+```
+887304518092530642
 ```

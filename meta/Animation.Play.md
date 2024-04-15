@@ -1,6 +1,10 @@
 # Animation.Play
 ![](/img/Animation.Play.png)
-GUID: `-5044339833078438672`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Animation.Play")
+```
+## GUID
+```
+-5044339833078438672
 ```

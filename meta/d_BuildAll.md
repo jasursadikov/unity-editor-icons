@@ -1,6 +1,10 @@
 # d_BuildAll
 ![](/img/d_BuildAll.png)
-GUID: `-5891026859245086962`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildAll")
+```
+## GUID
+```
+-5891026859245086962
 ```

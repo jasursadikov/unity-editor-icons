@@ -1,6 +1,10 @@
 # AspectRatioFitter Icon
 ![](/img/AspectRatioFitter%20Icon.png)
-GUID: `-2149385086842617983`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AspectRatioFitter Icon")
+```
+## GUID
+```
+-2149385086842617983
 ```

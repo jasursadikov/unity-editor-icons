@@ -1,6 +1,10 @@
 # d_CacheServerDisconnected
 ![](/img/d_CacheServerDisconnected.png)
-GUID: `462771044136129715`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_CacheServerDisconnected")
+```
+## GUID
+```
+462771044136129715
 ```

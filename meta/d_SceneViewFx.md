@@ -1,6 +1,10 @@
 # d_SceneViewFx
 ![](/img/d_SceneViewFx.png)
-GUID: `2109362922743127443`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SceneViewFx")
+```
+## GUID
+```
+2109362922743127443
 ```

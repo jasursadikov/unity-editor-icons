@@ -1,6 +1,10 @@
 # curvekeyframesemiselectedoverlay
 ![](/img/curvekeyframesemiselectedoverlay.png)
-GUID: `-752352312952114710`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("curvekeyframesemiselectedoverlay")
+```
+## GUID
+```
+-752352312952114710
 ```

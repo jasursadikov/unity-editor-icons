@@ -1,6 +1,10 @@
 # TreeEditor.Geometry
 ![](/img/TreeEditor.Geometry.png)
-GUID: `-6692219426523639854`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Geometry")
+```
+## GUID
+```
+-6692219426523639854
 ```

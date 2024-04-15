@@ -1,6 +1,10 @@
 # d_Folder Icon
 ![](/img/d_Folder%20Icon.png)
-GUID: `3764734208316478041`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Folder Icon")
+```
+## GUID
+```
+3764734208316478041
 ```

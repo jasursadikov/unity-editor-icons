@@ -1,6 +1,10 @@
 # AreaLight Gizmo
 ![](/img/AreaLight%20Gizmo.png)
-GUID: `-2573216478758362733`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AreaLight Gizmo")
+```
+## GUID
+```
+-2573216478758362733
 ```

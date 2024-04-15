@@ -1,6 +1,10 @@
 # Halo Icon
 ![](/img/Halo%20Icon.png)
-GUID: `-7825213776457033889`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Halo Icon")
+```
+## GUID
+```
+-7825213776457033889
 ```

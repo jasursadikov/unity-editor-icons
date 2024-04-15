@@ -1,6 +1,10 @@
 # CommentTip
 ![](/img/CommentTip.png)
-GUID: `1026875105941793795`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CommentTip")
+```
+## GUID
+```
+1026875105941793795
 ```

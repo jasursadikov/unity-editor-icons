@@ -1,6 +1,10 @@
 # Collab.FolderDeleted
 ![](/img/Collab.FolderDeleted.png)
-GUID: `735796692002808257`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Collab.FolderDeleted")
+```
+## GUID
+```
+735796692002808257
 ```

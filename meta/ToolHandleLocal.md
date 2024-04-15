@@ -1,6 +1,10 @@
 # ToolHandleLocal
 ![](/img/ToolHandleLocal.png)
-GUID: `129492653445761205`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ToolHandleLocal")
+```
+## GUID
+```
+129492653445761205
 ```

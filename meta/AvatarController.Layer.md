@@ -1,6 +1,10 @@
 # AvatarController.Layer
 ![](/img/AvatarController.Layer.png)
-GUID: `-7416910222760410010`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AvatarController.Layer")
+```
+## GUID
+```
+-7416910222760410010
 ```

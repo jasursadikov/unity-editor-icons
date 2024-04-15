@@ -1,6 +1,10 @@
 # LightingSettings Icon
 ![](/img/LightingSettings%20Icon.png)
-GUID: `2754498295270904143`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LightingSettings Icon")
+```
+## GUID
+```
+2754498295270904143
 ```

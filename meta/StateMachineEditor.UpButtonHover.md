@@ -1,6 +1,10 @@
 # StateMachineEditor.UpButtonHover
 ![](/img/StateMachineEditor.UpButtonHover.png)
-GUID: `1580295123302876717`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.UpButtonHover")
+```
+## GUID
+```
+1580295123302876717
 ```

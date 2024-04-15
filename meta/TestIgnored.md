@@ -1,6 +1,10 @@
 # TestIgnored
 ![](/img/TestIgnored.png)
-GUID: `-3941378333303756677`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TestIgnored")
+```
+## GUID
+```
+-3941378333303756677
 ```

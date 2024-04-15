@@ -1,6 +1,10 @@
 # d_GridAxisX On
 ![](/img/d_GridAxisX%20On.png)
-GUID: `8173462382329874327`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_GridAxisX On")
+```
+## GUID
+```
+8173462382329874327
 ```

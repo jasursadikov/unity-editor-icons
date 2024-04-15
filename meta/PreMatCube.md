@@ -1,6 +1,10 @@
 # PreMatCube
 ![](/img/PreMatCube.png)
-GUID: `-4176855899218501181`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PreMatCube")
+```
+## GUID
+```
+-4176855899218501181
 ```

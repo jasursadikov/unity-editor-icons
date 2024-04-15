@@ -1,6 +1,10 @@
 # d_RectTool@2x
 ![](/img/d_RectTool@2x.png)
-GUID: `-9130624343394379811`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_RectTool@2x")
+```
+## GUID
+```
+-9130624343394379811
 ```

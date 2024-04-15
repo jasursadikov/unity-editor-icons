@@ -1,6 +1,10 @@
 # d_AutoLightbakingOn
 ![](/img/d_AutoLightbakingOn.png)
-GUID: `-7351569177776282220`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_AutoLightbakingOn")
+```
+## GUID
+```
+-7351569177776282220
 ```

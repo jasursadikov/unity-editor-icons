@@ -1,6 +1,10 @@
 # Projector Icon
 ![](/img/Projector%20Icon.png)
-GUID: `4510377810129717186`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Projector Icon")
+```
+## GUID
+```
+4510377810129717186
 ```

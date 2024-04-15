@@ -1,6 +1,10 @@
 # d_Profiler.Network
 ![](/img/d_Profiler.Network.png)
-GUID: `5938926803166097124`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.Network")
+```
+## GUID
+```
+5938926803166097124
 ```

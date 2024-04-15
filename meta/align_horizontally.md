@@ -1,6 +1,10 @@
 # align_horizontally
 ![](/img/align_horizontally.png)
-GUID: `-8205893325853371123`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("align_horizontally")
+```
+## GUID
+```
+-8205893325853371123
 ```

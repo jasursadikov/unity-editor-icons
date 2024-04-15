@@ -1,6 +1,10 @@
 # d_Animation.Record
 ![](/img/d_Animation.Record.png)
-GUID: `6569083827624595240`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Animation.Record")
+```
+## GUID
+```
+6569083827624595240
 ```

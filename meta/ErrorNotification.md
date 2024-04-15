@@ -1,6 +1,10 @@
 # ErrorNotification
 ![](/img/ErrorNotification.png)
-GUID: `-1905185130513343379`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ErrorNotification")
+```
+## GUID
+```
+-1905185130513343379
 ```

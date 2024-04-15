@@ -1,6 +1,10 @@
 # TreeEditor.Trash
 ![](/img/TreeEditor.Trash.png)
-GUID: `338905440603424887`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Trash")
+```
+## GUID
+```
+338905440603424887
 ```

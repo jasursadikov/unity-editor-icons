@@ -1,6 +1,10 @@
 # tranp
 ![](/img/tranp.png)
-GUID: `-4811691087537865639`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("tranp")
+```
+## GUID
+```
+-4811691087537865639
 ```

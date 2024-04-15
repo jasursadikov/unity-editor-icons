@@ -1,6 +1,10 @@
 # VariantArrow_Idle
 ![](/img/VariantArrow_Idle.png)
-GUID: `-790404344760642557`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VariantArrow_Idle")
+```
+## GUID
+```
+-790404344760642557
 ```

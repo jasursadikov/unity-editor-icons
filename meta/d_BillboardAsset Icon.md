@@ -1,6 +1,10 @@
 # d_BillboardAsset Icon
 ![](/img/d_BillboardAsset%20Icon.png)
-GUID: `5075870892678296141`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BillboardAsset Icon")
+```
+## GUID
+```
+5075870892678296141
 ```

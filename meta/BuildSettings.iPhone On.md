@@ -1,6 +1,10 @@
 # BuildSettings.iPhone On
 ![](/img/BuildSettings.iPhone%20On.png)
-GUID: `5315025538136271434`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.iPhone On")
+```
+## GUID
+```
+5315025538136271434
 ```

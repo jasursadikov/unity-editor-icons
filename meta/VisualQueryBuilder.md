@@ -1,6 +1,10 @@
 # VisualQueryBuilder
 ![](/img/VisualQueryBuilder.png)
-GUID: `-126486421761578516`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VisualQueryBuilder")
+```
+## GUID
+```
+-126486421761578516
 ```

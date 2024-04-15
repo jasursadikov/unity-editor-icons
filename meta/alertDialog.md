@@ -1,6 +1,10 @@
 # alertDialog
 ![](/img/alertDialog.png)
-GUID: `8881787222340032348`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("alertDialog")
+```
+## GUID
+```
+8881787222340032348
 ```

@@ -1,6 +1,10 @@
 # VerticalSplit
 ![](/img/VerticalSplit.png)
-GUID: `-7136896110875638734`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VerticalSplit")
+```
+## GUID
+```
+-7136896110875638734
 ```

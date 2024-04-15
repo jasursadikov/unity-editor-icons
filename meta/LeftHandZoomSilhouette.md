@@ -1,6 +1,10 @@
 # LeftHandZoomSilhouette
 ![](/img/LeftHandZoomSilhouette.png)
-GUID: `8384039629936793124`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LeftHandZoomSilhouette")
+```
+## GUID
+```
+8384039629936793124
 ```

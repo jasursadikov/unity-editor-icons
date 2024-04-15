@@ -1,6 +1,10 @@
 # d_ParticleSystem Icon
 ![](/img/d_ParticleSystem%20Icon.png)
-GUID: `5776347336122012858`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ParticleSystem Icon")
+```
+## GUID
+```
+5776347336122012858
 ```

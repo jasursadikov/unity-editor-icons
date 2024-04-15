@@ -1,6 +1,10 @@
 # Stop
 ![](/img/Stop.png)
-GUID: `-6549760428460166285`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Stop")
+```
+## GUID
+```
+-6549760428460166285
 ```

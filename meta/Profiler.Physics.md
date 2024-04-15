@@ -1,6 +1,10 @@
 # Profiler.Physics
 ![](/img/Profiler.Physics.png)
-GUID: `-7480568322180981302`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.Physics")
+```
+## GUID
+```
+-7480568322180981302
 ```

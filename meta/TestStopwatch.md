@@ -1,6 +1,10 @@
 # TestStopwatch
 ![](/img/TestStopwatch.png)
-GUID: `-128826586439827436`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TestStopwatch")
+```
+## GUID
+```
+-128826586439827436
 ```

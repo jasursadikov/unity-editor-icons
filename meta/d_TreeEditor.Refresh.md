@@ -1,6 +1,10 @@
 # d_TreeEditor.Refresh
 ![](/img/d_TreeEditor.Refresh.png)
-GUID: `-8645155574314553585`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.Refresh")
+```
+## GUID
+```
+-8645155574314553585
 ```

@@ -1,6 +1,10 @@
 # d_Preset.Current
 ![](/img/d_Preset.Current.png)
-GUID: `338154204812158674`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Preset.Current")
+```
+## GUID
+```
+338154204812158674
 ```

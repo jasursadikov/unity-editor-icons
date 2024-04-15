@@ -1,6 +1,10 @@
 # AssemblyDefinitionAsset Icon
 ![](/img/AssemblyDefinitionAsset%20Icon.png)
-GUID: `-5767812303953593571`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AssemblyDefinitionAsset Icon")
+```
+## GUID
+```
+-5767812303953593571
 ```

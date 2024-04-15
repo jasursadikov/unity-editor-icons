@@ -1,6 +1,10 @@
 # d_Grid.BoxTool
 ![](/img/d_Grid.BoxTool.png)
-GUID: `-344943740643441785`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Grid.BoxTool")
+```
+## GUID
+```
+-344943740643441785
 ```

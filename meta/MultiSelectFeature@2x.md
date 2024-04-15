@@ -1,6 +1,10 @@
 # MultiSelectFeature@2x
 ![](/img/MultiSelectFeature@2x.png)
-GUID: `691206200206644999`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MultiSelectFeature@2x")
+```
+## GUID
+```
+691206200206644999
 ```

@@ -1,6 +1,10 @@
 # Unlocked
 ![](/img/Unlocked.png)
-GUID: `7393907806995991002`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Unlocked")
+```
+## GUID
+```
+7393907806995991002
 ```

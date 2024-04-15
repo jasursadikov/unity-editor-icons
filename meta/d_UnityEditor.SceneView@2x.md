@@ -1,6 +1,10 @@
 # d_UnityEditor.SceneView@2x
 ![](/img/d_UnityEditor.SceneView@2x.png)
-GUID: `8634526014445323508`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.SceneView@2x")
+```
+## GUID
+```
+8634526014445323508
 ```

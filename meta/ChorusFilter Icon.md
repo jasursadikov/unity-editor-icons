@@ -1,6 +1,10 @@
 # ChorusFilter Icon
 ![](/img/ChorusFilter%20Icon.png)
-GUID: `3893684679439407891`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ChorusFilter Icon")
+```
+## GUID
+```
+3893684679439407891
 ```

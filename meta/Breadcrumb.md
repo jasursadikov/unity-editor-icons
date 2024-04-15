@@ -1,6 +1,10 @@
 # Breadcrumb
 ![](/img/Breadcrumb.png)
-GUID: `-2206008129471416809`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Breadcrumb")
+```
+## GUID
+```
+-2206008129471416809
 ```

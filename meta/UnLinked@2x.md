@@ -1,6 +1,10 @@
 # UnLinked@2x
 ![](/img/UnLinked@2x.png)
-GUID: `-4349621476256454588`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnLinked@2x")
+```
+## GUID
+```
+-4349621476256454588
 ```

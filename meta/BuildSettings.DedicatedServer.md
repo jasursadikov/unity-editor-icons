@@ -1,6 +1,10 @@
 # BuildSettings.DedicatedServer
 ![](/img/BuildSettings.DedicatedServer.png)
-GUID: `3815258833528828467`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.DedicatedServer")
+```
+## GUID
+```
+3815258833528828467
 ```

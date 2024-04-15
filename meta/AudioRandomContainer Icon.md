@@ -1,6 +1,10 @@
 # AudioRandomContainer Icon
 ![](/img/AudioRandomContainer%20Icon.png)
-GUID: `-5119258380142732693`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioRandomContainer Icon")
+```
+## GUID
+```
+-5119258380142732693
 ```

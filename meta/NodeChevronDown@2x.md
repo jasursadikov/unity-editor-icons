@@ -1,6 +1,10 @@
 # NodeChevronDown@2x
 ![](/img/NodeChevronDown@2x.png)
-GUID: `2120111531326275967`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("NodeChevronDown@2x")
+```
+## GUID
+```
+2120111531326275967
 ```

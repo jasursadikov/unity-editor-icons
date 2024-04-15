@@ -1,6 +1,10 @@
 # Shaded@2x
 ![](/img/Shaded@2x.png)
-GUID: `1429300702107172597`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Shaded@2x")
+```
+## GUID
+```
+1429300702107172597
 ```

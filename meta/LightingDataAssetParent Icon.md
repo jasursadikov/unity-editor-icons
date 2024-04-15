@@ -1,6 +1,10 @@
 # LightingDataAssetParent Icon
 ![](/img/LightingDataAssetParent%20Icon.png)
-GUID: `-7437585863220954093`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LightingDataAssetParent Icon")
+```
+## GUID
+```
+-7437585863220954093
 ```

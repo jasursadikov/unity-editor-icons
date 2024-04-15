@@ -1,6 +1,10 @@
 # BuildSettings.XboxOne.Small@2x
 ![](/img/BuildSettings.XboxOne.Small@2x.png)
-GUID: `389319431642934349`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.XboxOne.Small@2x")
+```
+## GUID
+```
+389319431642934349
 ```

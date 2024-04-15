@@ -1,6 +1,10 @@
 # leftBracket
 ![](/img/leftBracket.png)
-GUID: `-175689630301374587`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("leftBracket")
+```
+## GUID
+```
+-175689630301374587
 ```

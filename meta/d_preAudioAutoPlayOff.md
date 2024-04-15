@@ -1,6 +1,10 @@
 # d_preAudioAutoPlayOff
 ![](/img/d_preAudioAutoPlayOff.png)
-GUID: `-789892869308303679`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_preAudioAutoPlayOff")
+```
+## GUID
+```
+-789892869308303679
 ```

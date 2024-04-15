@@ -1,6 +1,10 @@
 # RectTool
 ![](/img/RectTool.png)
-GUID: `8039183111592521945`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("RectTool")
+```
+## GUID
+```
+8039183111592521945
 ```

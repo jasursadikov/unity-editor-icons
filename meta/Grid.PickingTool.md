@@ -1,6 +1,10 @@
 # Grid.PickingTool
 ![](/img/Grid.PickingTool.png)
-GUID: `-2181022926894969760`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Grid.PickingTool")
+```
+## GUID
+```
+-2181022926894969760
 ```

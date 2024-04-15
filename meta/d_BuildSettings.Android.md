@@ -1,6 +1,10 @@
 # d_BuildSettings.Android
 ![](/img/d_BuildSettings.Android.png)
-GUID: `-3446736307351038430`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.Android")
+```
+## GUID
+```
+-3446736307351038430
 ```

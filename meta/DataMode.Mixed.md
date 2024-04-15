@@ -1,6 +1,10 @@
 # DataMode.Mixed
 ![](/img/DataMode.Mixed.png)
-GUID: `-3253408090618762416`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DataMode.Mixed")
+```
+## GUID
+```
+-3253408090618762416
 ```

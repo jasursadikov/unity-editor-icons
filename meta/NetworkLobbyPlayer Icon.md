@@ -1,6 +1,10 @@
 # NetworkLobbyPlayer Icon
 ![](/img/NetworkLobbyPlayer%20Icon.png)
-GUID: `8470211802447199141`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("NetworkLobbyPlayer Icon")
+```
+## GUID
+```
+8470211802447199141
 ```

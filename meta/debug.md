@@ -1,6 +1,10 @@
 # debug
 ![](/img/debug.png)
-GUID: `5004067745930573347`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("debug")
+```
+## GUID
+```
+5004067745930573347
 ```

@@ -1,6 +1,10 @@
 # d_SpriteRenderer Icon
 ![](/img/d_SpriteRenderer%20Icon.png)
-GUID: `5134774851033864187`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SpriteRenderer Icon")
+```
+## GUID
+```
+5134774851033864187
 ```

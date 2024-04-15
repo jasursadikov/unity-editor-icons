@@ -1,6 +1,10 @@
 # SpriteAtlasAsset Icon
 ![](/img/SpriteAtlasAsset%20Icon.png)
-GUID: `5880570601193067351`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SpriteAtlasAsset Icon")
+```
+## GUID
+```
+5880570601193067351
 ```

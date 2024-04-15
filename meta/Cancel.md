@@ -1,6 +1,10 @@
 # Cancel
 ![](/img/Cancel.png)
-GUID: `-6048058823402128159`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Cancel")
+```
+## GUID
+```
+-6048058823402128159
 ```

@@ -1,6 +1,10 @@
 # AudioReverbZone Icon
 ![](/img/AudioReverbZone%20Icon.png)
-GUID: `-3084292971091638358`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioReverbZone Icon")
+```
+## GUID
+```
+-3084292971091638358
 ```

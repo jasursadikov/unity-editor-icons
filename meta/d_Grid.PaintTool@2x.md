@@ -1,6 +1,10 @@
 # d_Grid.PaintTool@2x
 ![](/img/d_Grid.PaintTool@2x.png)
-GUID: `6390878959879609722`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Grid.PaintTool@2x")
+```
+## GUID
+```
+6390878959879609722
 ```

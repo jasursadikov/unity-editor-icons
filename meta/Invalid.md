@@ -1,6 +1,10 @@
 # Invalid
 ![](/img/Invalid.png)
-GUID: `-2837632134304592923`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Invalid")
+```
+## GUID
+```
+-2837632134304592923
 ```

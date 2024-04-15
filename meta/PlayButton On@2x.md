@@ -1,6 +1,10 @@
 # PlayButton On@2x
 ![](/img/PlayButton%20On@2x.png)
-GUID: `-7582931478423895185`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PlayButton On@2x")
+```
+## GUID
+```
+-7582931478423895185
 ```

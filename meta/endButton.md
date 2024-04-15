@@ -1,6 +1,10 @@
 # endButton
 ![](/img/endButton.png)
-GUID: `-3723338368306162341`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("endButton")
+```
+## GUID
+```
+-3723338368306162341
 ```

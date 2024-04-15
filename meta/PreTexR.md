@@ -1,6 +1,10 @@
 # PreTexR
 ![](/img/PreTexR.png)
-GUID: `-3257346081796659712`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PreTexR")
+```
+## GUID
+```
+-3257346081796659712
 ```

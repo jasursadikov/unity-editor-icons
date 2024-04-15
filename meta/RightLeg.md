@@ -1,6 +1,10 @@
 # RightLeg
 ![](/img/RightLeg.png)
-GUID: `-1476864603792500380`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("RightLeg")
+```
+## GUID
+```
+-1476864603792500380
 ```

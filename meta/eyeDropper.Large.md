@@ -1,6 +1,10 @@
 # eyeDropper.Large
 ![](/img/eyeDropper.Large.png)
-GUID: `-8510552059963263117`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("eyeDropper.Large")
+```
+## GUID
+```
+-8510552059963263117
 ```

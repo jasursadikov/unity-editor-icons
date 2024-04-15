@@ -1,6 +1,10 @@
 # Tree Icon
 ![](/img/Tree%20Icon.png)
-GUID: `349475642118232294`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Tree Icon")
+```
+## GUID
+```
+349475642118232294
 ```

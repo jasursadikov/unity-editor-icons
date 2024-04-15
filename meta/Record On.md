@@ -1,6 +1,10 @@
 # Record On
 ![](/img/Record%20On.png)
-GUID: `476737588137909023`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Record On")
+```
+## GUID
+```
+476737588137909023
 ```

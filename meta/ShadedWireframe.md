@@ -1,6 +1,10 @@
 # ShadedWireframe
 ![](/img/ShadedWireframe.png)
-GUID: `3902512150274825982`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ShadedWireframe")
+```
+## GUID
+```
+3902512150274825982
 ```

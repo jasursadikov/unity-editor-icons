@@ -1,6 +1,10 @@
 # d_Play
 ![](/img/d_Play.png)
-GUID: `2840300199887526447`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Play")
+```
+## GUID
+```
+2840300199887526447
 ```

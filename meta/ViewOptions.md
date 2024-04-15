@@ -1,6 +1,10 @@
 # ViewOptions
 ![](/img/ViewOptions.png)
-GUID: `5632879930038042197`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ViewOptions")
+```
+## GUID
+```
+5632879930038042197
 ```

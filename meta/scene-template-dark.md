@@ -1,6 +1,10 @@
 # scene-template-dark
 ![](/img/scene-template-dark.png)
-GUID: `534737069514820371`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("scene-template-dark")
+```
+## GUID
+```
+534737069514820371
 ```

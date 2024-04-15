@@ -1,6 +1,10 @@
 # BuildSettings.EmbeddedLinux On@2x
 ![](/img/BuildSettings.EmbeddedLinux%20On@2x.png)
-GUID: `1354193150461728072`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.EmbeddedLinux On@2x")
+```
+## GUID
+```
+1354193150461728072
 ```

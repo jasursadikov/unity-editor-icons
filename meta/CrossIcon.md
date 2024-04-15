@@ -1,6 +1,10 @@
 # CrossIcon
 ![](/img/CrossIcon.png)
-GUID: `-7991997088291664513`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CrossIcon")
+```
+## GUID
+```
+-7991997088291664513
 ```

@@ -1,6 +1,10 @@
 # ArticulationBody Icon
 ![](/img/ArticulationBody%20Icon.png)
-GUID: `-6379934706875125041`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ArticulationBody Icon")
+```
+## GUID
+```
+-6379934706875125041
 ```

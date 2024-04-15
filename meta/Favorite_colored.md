@@ -1,6 +1,10 @@
 # Favorite_colored
 ![](/img/Favorite_colored.png)
-GUID: `2133446851367768681`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Favorite_colored")
+```
+## GUID
+```
+2133446851367768681
 ```

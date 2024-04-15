@@ -1,6 +1,10 @@
 # SpriteCollider Icon
 ![](/img/SpriteCollider%20Icon.png)
-GUID: `-9198082872582506341`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SpriteCollider Icon")
+```
+## GUID
+```
+-9198082872582506341
 ```

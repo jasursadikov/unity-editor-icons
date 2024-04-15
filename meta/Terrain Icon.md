@@ -1,6 +1,10 @@
 # Terrain Icon
 ![](/img/Terrain%20Icon.png)
-GUID: `3099466108739435423`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Terrain Icon")
+```
+## GUID
+```
+3099466108739435423
 ```

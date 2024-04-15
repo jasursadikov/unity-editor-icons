@@ -1,6 +1,10 @@
 # PrefabOverlayRemoved Icon
 ![](/img/PrefabOverlayRemoved%20Icon.png)
-GUID: `-3867367055818222277`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PrefabOverlayRemoved Icon")
+```
+## GUID
+```
+-3867367055818222277
 ```

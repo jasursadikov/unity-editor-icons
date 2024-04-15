@@ -1,6 +1,10 @@
 # AnimatorStateMachine Icon
 ![](/img/AnimatorStateMachine%20Icon.png)
-GUID: `-7997457369567893724`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AnimatorStateMachine Icon")
+```
+## GUID
+```
+-7997457369567893724
 ```

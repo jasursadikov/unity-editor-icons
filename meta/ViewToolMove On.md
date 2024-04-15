@@ -1,6 +1,10 @@
 # ViewToolMove On
 ![](/img/ViewToolMove%20On.png)
-GUID: `-7374773410288620344`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ViewToolMove On")
+```
+## GUID
+```
+-7374773410288620344
 ```

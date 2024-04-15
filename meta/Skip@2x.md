@@ -1,6 +1,10 @@
 # Skip@2x
 ![](/img/Skip@2x.png)
-GUID: `3369782718960177557`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Skip@2x")
+```
+## GUID
+```
+3369782718960177557
 ```

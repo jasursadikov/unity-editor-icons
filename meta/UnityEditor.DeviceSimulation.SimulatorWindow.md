@@ -1,6 +1,10 @@
 # UnityEditor.DeviceSimulation.SimulatorWindow
 ![](/img/UnityEditor.DeviceSimulation.SimulatorWindow.png)
-GUID: `50727941134254362`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.DeviceSimulation.SimulatorWindow")
+```
+## GUID
+```
+50727941134254362
 ```

@@ -1,6 +1,10 @@
 # d_PreMatLight0
 ![](/img/d_PreMatLight0.png)
-GUID: `-1945259441751596937`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PreMatLight0")
+```
+## GUID
+```
+-1945259441751596937
 ```

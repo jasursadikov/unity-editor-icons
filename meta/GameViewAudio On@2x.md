@@ -1,6 +1,10 @@
 # GameViewAudio On@2x
 ![](/img/GameViewAudio%20On@2x.png)
-GUID: `-1495403575208838536`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GameViewAudio On@2x")
+```
+## GUID
+```
+-1495403575208838536
 ```

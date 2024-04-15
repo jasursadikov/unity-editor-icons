@@ -1,6 +1,10 @@
 # d_ComputeShader Icon
 ![](/img/d_ComputeShader%20Icon.png)
-GUID: `7292308944435659976`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ComputeShader Icon")
+```
+## GUID
+```
+7292308944435659976
 ```

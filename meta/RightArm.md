@@ -1,6 +1,10 @@
 # RightArm
 ![](/img/RightArm.png)
-GUID: `1833656670869755110`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("RightArm")
+```
+## GUID
+```
+1833656670869755110
 ```

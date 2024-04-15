@@ -1,6 +1,10 @@
 # StepLeftButton-On
 ![](/img/StepLeftButton-On.png)
-GUID: `-2011953112110610501`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StepLeftButton-On")
+```
+## GUID
+```
+-2011953112110610501
 ```

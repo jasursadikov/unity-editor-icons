@@ -1,6 +1,10 @@
 # ExclamationMark
 ![](/img/ExclamationMark.png)
-GUID: `-1603402890523340353`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ExclamationMark")
+```
+## GUID
+```
+-1603402890523340353
 ```

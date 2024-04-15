@@ -1,6 +1,10 @@
 # SceneAsset Icon
 ![](/img/SceneAsset%20Icon.png)
-GUID: `-4890957673588117743`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneAsset Icon")
+```
+## GUID
+```
+-4890957673588117743
 ```

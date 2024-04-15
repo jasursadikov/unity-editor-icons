@@ -1,6 +1,10 @@
 # RectTransformRaw
 ![](/img/RectTransformRaw.png)
-GUID: `-3624008667825300195`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("RectTransformRaw")
+```
+## GUID
+```
+-3624008667825300195
 ```

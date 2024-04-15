@@ -1,6 +1,10 @@
 # d_TreeEditor.Wind
 ![](/img/d_TreeEditor.Wind.png)
-GUID: `-6605443991349060836`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.Wind")
+```
+## GUID
+```
+-6605443991349060836
 ```

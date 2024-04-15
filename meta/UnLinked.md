@@ -1,6 +1,10 @@
 # UnLinked
 ![](/img/UnLinked.png)
-GUID: `-7888564508347488308`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnLinked")
+```
+## GUID
+```
+-7888564508347488308
 ```

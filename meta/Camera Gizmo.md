@@ -1,6 +1,10 @@
 # Camera Gizmo
 ![](/img/Camera%20Gizmo.png)
-GUID: `-9002153236391373477`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Camera Gizmo")
+```
+## GUID
+```
+-9002153236391373477
 ```

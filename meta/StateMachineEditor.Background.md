@@ -1,6 +1,10 @@
 # StateMachineEditor.Background
 ![](/img/StateMachineEditor.Background.png)
-GUID: `1283703306145647540`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.Background")
+```
+## GUID
+```
+1283703306145647540
 ```

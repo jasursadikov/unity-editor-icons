@@ -1,6 +1,10 @@
 # FilterByType
 ![](/img/FilterByType.png)
-GUID: `-7425893098507633474`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("FilterByType")
+```
+## GUID
+```
+-7425893098507633474
 ```

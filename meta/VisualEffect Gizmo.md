@@ -1,6 +1,10 @@
 # VisualEffect Gizmo
 ![](/img/VisualEffect%20Gizmo.png)
-GUID: `2220025264489876575`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VisualEffect Gizmo")
+```
+## GUID
+```
+2220025264489876575
 ```

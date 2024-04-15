@@ -1,6 +1,10 @@
 # d_Keyboard
 ![](/img/d_Keyboard.png)
-GUID: `4925678384277950291`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Keyboard")
+```
+## GUID
+```
+4925678384277950291
 ```

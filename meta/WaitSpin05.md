@@ -1,6 +1,10 @@
 # WaitSpin05
 ![](/img/WaitSpin05.png)
-GUID: `4240756340829668803`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("WaitSpin05")
+```
+## GUID
+```
+4240756340829668803
 ```

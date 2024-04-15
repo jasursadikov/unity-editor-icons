@@ -1,6 +1,10 @@
 # d_TreeEditor.LeafFreeHand
 ![](/img/d_TreeEditor.LeafFreeHand.png)
-GUID: `1704694028236549567`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.LeafFreeHand")
+```
+## GUID
+```
+1704694028236549567
 ```

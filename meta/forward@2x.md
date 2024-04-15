@@ -1,6 +1,10 @@
 # forward@2x
 ![](/img/forward@2x.png)
-GUID: `-6511785837501005249`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("forward@2x")
+```
+## GUID
+```
+-6511785837501005249
 ```

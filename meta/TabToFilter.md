@@ -1,6 +1,10 @@
 # TabToFilter
 ![](/img/TabToFilter.png)
-GUID: `1925550680873022729`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TabToFilter")
+```
+## GUID
+```
+1925550680873022729
 ```

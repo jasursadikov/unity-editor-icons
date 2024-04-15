@@ -1,6 +1,10 @@
 # WarningTip
 ![](/img/WarningTip.png)
-GUID: `-1145065425869431725`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("WarningTip")
+```
+## GUID
+```
+-1145065425869431725
 ```

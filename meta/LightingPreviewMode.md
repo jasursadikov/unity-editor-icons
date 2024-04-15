@@ -1,6 +1,10 @@
 # LightingPreviewMode
 ![](/img/LightingPreviewMode.png)
-GUID: `-6667418467379632534`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LightingPreviewMode")
+```
+## GUID
+```
+-6667418467379632534
 ```

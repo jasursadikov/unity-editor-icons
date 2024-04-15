@@ -1,6 +1,10 @@
 # SceneViewFx
 ![](/img/SceneViewFx.png)
-GUID: `-679019844569198169`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewFx")
+```
+## GUID
+```
+-679019844569198169
 ```

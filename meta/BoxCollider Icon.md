@@ -1,6 +1,10 @@
 # BoxCollider Icon
 ![](/img/BoxCollider%20Icon.png)
-GUID: `-7623331114112058359`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BoxCollider Icon")
+```
+## GUID
+```
+-7623331114112058359
 ```

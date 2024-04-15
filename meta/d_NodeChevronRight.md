@@ -1,6 +1,10 @@
 # d_NodeChevronRight
 ![](/img/d_NodeChevronRight.png)
-GUID: `5173155682486805094`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_NodeChevronRight")
+```
+## GUID
+```
+5173155682486805094
 ```

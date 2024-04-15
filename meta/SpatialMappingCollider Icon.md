@@ -1,6 +1,10 @@
 # SpatialMappingCollider Icon
 ![](/img/SpatialMappingCollider%20Icon.png)
-GUID: `-2746038756767647376`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SpatialMappingCollider Icon")
+```
+## GUID
+```
+-2746038756767647376
 ```

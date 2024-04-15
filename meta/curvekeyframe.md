@@ -1,6 +1,10 @@
 # curvekeyframe
 ![](/img/curvekeyframe.png)
-GUID: `-5735313763964030175`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("curvekeyframe")
+```
+## GUID
+```
+-5735313763964030175
 ```

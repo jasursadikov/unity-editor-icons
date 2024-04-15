@@ -1,6 +1,10 @@
 # d_PhysicsMaterial2D On Icon
 ![](/img/d_PhysicsMaterial2D%20On%20Icon.png)
-GUID: `6891474295407785881`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PhysicsMaterial2D On Icon")
+```
+## GUID
+```
+6891474295407785881
 ```

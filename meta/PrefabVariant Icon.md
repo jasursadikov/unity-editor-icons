@@ -1,6 +1,10 @@
 # PrefabVariant Icon
 ![](/img/PrefabVariant%20Icon.png)
-GUID: `484455839441822243`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PrefabVariant Icon")
+```
+## GUID
+```
+484455839441822243
 ```

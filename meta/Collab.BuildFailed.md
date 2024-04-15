@@ -1,6 +1,10 @@
 # Collab.BuildFailed
 ![](/img/Collab.BuildFailed.png)
-GUID: `-5437438620272192643`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Collab.BuildFailed")
+```
+## GUID
+```
+-5437438620272192643
 ```

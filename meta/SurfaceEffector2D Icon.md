@@ -1,6 +1,10 @@
 # SurfaceEffector2D Icon
 ![](/img/SurfaceEffector2D%20Icon.png)
-GUID: `-8924908731338389093`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SurfaceEffector2D Icon")
+```
+## GUID
+```
+-8924908731338389093
 ```

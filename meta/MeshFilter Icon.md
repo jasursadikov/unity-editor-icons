@@ -1,6 +1,10 @@
 # MeshFilter Icon
 ![](/img/MeshFilter%20Icon.png)
-GUID: `6874961550238867527`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MeshFilter Icon")
+```
+## GUID
+```
+6874961550238867527
 ```

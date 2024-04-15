@@ -1,6 +1,10 @@
 # Profiler.LastFrame
 ![](/img/Profiler.LastFrame.png)
-GUID: `-2576007357578586329`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.LastFrame")
+```
+## GUID
+```
+-2576007357578586329
 ```

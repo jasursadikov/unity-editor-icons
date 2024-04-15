@@ -1,6 +1,10 @@
 # EventSystem Icon
 ![](/img/EventSystem%20Icon.png)
-GUID: `8243625018350272124`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("EventSystem Icon")
+```
+## GUID
+```
+8243625018350272124
 ```

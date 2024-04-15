@@ -1,6 +1,10 @@
 # ToggleUVOverlay
 ![](/img/ToggleUVOverlay.png)
-GUID: `5889963864836784091`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ToggleUVOverlay")
+```
+## GUID
+```
+5889963864836784091
 ```

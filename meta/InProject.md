@@ -1,6 +1,10 @@
 # InProject
 ![](/img/InProject.png)
-GUID: `8945404145045434504`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("InProject")
+```
+## GUID
+```
+8945404145045434504
 ```

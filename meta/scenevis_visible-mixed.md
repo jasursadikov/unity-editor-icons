@@ -1,6 +1,10 @@
 # scenevis_visible-mixed
 ![](/img/scenevis_visible-mixed.png)
-GUID: `-671340560672971494`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("scenevis_visible-mixed")
+```
+## GUID
+```
+-671340560672971494
 ```

@@ -1,6 +1,10 @@
 # d_SearchOverlay
 ![](/img/d_SearchOverlay.png)
-GUID: `-6981028259998604918`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SearchOverlay")
+```
+## GUID
+```
+-6981028259998604918
 ```

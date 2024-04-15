@@ -1,6 +1,10 @@
 # Mouse3
 ![](/img/Mouse3.png)
-GUID: `-3160165257368643693`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Mouse3")
+```
+## GUID
+```
+-3160165257368643693
 ```

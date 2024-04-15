@@ -1,6 +1,10 @@
 # winbtn_win_min
 ![](/img/winbtn_win_min.png)
-GUID: `-5092529253694260721`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("winbtn_win_min")
+```
+## GUID
+```
+-5092529253694260721
 ```

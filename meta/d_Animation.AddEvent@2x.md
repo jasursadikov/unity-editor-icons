@@ -1,6 +1,10 @@
 # d_Animation.AddEvent@2x
 ![](/img/d_Animation.AddEvent@2x.png)
-GUID: `-7623869019956723390`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Animation.AddEvent@2x")
+```
+## GUID
+```
+-7623869019956723390
 ```

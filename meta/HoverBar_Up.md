@@ -1,6 +1,10 @@
 # HoverBar_Up
 ![](/img/HoverBar_Up.png)
-GUID: `8791734007862775158`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("HoverBar_Up")
+```
+## GUID
+```
+8791734007862775158
 ```

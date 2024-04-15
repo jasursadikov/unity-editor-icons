@@ -1,6 +1,10 @@
 # scenevis_scene_hover@2x
 ![](/img/scenevis_scene_hover@2x.png)
-GUID: `2353864357118860143`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("scenevis_scene_hover@2x")
+```
+## GUID
+```
+2353864357118860143
 ```

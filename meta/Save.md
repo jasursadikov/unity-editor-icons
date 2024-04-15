@@ -1,6 +1,10 @@
 # Save
 ![](/img/Save.png)
-GUID: `7768011633002046232`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Save")
+```
+## GUID
+```
+7768011633002046232
 ```

@@ -30,7 +30,8 @@ public static class IconsMiner
             var readmeBuilder = new StringBuilder();
 
             readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
-            readmeBuilder.AppendLine($"*Unity version* {Application.unityVersion}");
+            readmeBuilder.AppendLine($"**Unity version** {Application.unityVersion}");
+            readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent()`");
             readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("File ID");
@@ -91,6 +92,7 @@ public static class IconsMiner
                 }
             }
 
+            readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("Original script author: https://github.com/halak");
             File.WriteAllText("README.md", readmeBuilder.ToString());
             
@@ -107,9 +109,13 @@ public static class IconsMiner
     {
         iconDescriptionBuilder.AppendLine($"# {iconName}");
         iconDescriptionBuilder.AppendLine($"![](/{pathToIcon})");
-        iconDescriptionBuilder.AppendLine($"GUID: `{fileId}`");
-        iconDescriptionBuilder.AppendLine("```");
+        iconDescriptionBuilder.AppendLine();
+        iconDescriptionBuilder.AppendLine("``` CSharp");
         iconDescriptionBuilder.AppendLine($"EditorGUIUtility.IconContent(\"{iconName}\")");
+        iconDescriptionBuilder.AppendLine("```");
+        iconDescriptionBuilder.AppendLine($"## GUID");
+        iconDescriptionBuilder.AppendLine("```");
+        iconDescriptionBuilder.AppendLine(fileId);
         iconDescriptionBuilder.AppendLine("```");
         
         File.WriteAllText(path, iconDescriptionBuilder.ToString());

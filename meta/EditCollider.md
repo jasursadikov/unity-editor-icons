@@ -1,6 +1,10 @@
 # EditCollider
 ![](/img/EditCollider.png)
-GUID: `3062233825073640527`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("EditCollider")
+```
+## GUID
+```
+3062233825073640527
 ```

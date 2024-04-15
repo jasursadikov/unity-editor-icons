@@ -1,6 +1,10 @@
 # boo Script Icon
 ![](/img/boo%20Script%20Icon.png)
-GUID: `-6842353155106088922`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("boo Script Icon")
+```
+## GUID
+```
+-6842353155106088922
 ```

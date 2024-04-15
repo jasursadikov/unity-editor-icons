@@ -1,6 +1,10 @@
 # SceneLoadOut
 ![](/img/SceneLoadOut.png)
-GUID: `6865683272194755403`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneLoadOut")
+```
+## GUID
+```
+6865683272194755403
 ```

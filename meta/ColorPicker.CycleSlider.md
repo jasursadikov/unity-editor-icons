@@ -1,6 +1,10 @@
 # ColorPicker.CycleSlider
 ![](/img/ColorPicker.CycleSlider.png)
-GUID: `-3513833679861578334`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ColorPicker.CycleSlider")
+```
+## GUID
+```
+-3513833679861578334
 ```

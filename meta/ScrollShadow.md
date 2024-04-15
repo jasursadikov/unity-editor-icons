@@ -1,6 +1,10 @@
 # ScrollShadow
 ![](/img/ScrollShadow.png)
-GUID: `4429385992787889437`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ScrollShadow")
+```
+## GUID
+```
+4429385992787889437
 ```

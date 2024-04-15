@@ -1,6 +1,10 @@
 # GameObject Icon
 ![](/img/GameObject%20Icon.png)
-GUID: `5203165878028906046`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GameObject Icon")
+```
+## GUID
+```
+5203165878028906046
 ```

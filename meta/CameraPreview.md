@@ -1,6 +1,10 @@
 # CameraPreview
 ![](/img/CameraPreview.png)
-GUID: `-3682675918830112238`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CameraPreview")
+```
+## GUID
+```
+-3682675918830112238
 ```

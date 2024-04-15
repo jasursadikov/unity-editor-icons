@@ -1,6 +1,10 @@
 # ViewToolMove
 ![](/img/ViewToolMove.png)
-GUID: `7060311470062207288`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ViewToolMove")
+```
+## GUID
+```
+7060311470062207288
 ```

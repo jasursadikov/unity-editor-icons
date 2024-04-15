@@ -1,6 +1,10 @@
 # Installed@2x
 ![](/img/Installed@2x.png)
-GUID: `6223114327627550440`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Installed@2x")
+```
+## GUID
+```
+6223114327627550440
 ```

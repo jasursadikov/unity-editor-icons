@@ -1,6 +1,10 @@
 # AnimatorStateTransition Icon
 ![](/img/AnimatorStateTransition%20Icon.png)
-GUID: `4404973977065508142`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AnimatorStateTransition Icon")
+```
+## GUID
+```
+4404973977065508142
 ```

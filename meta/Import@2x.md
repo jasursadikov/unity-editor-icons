@@ -1,6 +1,10 @@
 # Import@2x
 ![](/img/Import@2x.png)
-GUID: `-442897235730570523`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Import@2x")
+```
+## GUID
+```
+-442897235730570523
 ```

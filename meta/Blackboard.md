@@ -1,6 +1,10 @@
 # Blackboard
 ![](/img/Blackboard.png)
-GUID: `-341210472634053505`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Blackboard")
+```
+## GUID
+```
+-341210472634053505
 ```

@@ -1,6 +1,10 @@
 # AnchorTransformTool On
 ![](/img/AnchorTransformTool%20On.png)
-GUID: `-5941242636935399841`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AnchorTransformTool On")
+```
+## GUID
+```
+-5941242636935399841
 ```

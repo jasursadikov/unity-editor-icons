@@ -1,6 +1,10 @@
 # ParticleShapeTool On@3x
 ![](/img/ParticleShapeTool%20On@3x.png)
-GUID: `-8169987881957978157`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ParticleShapeTool On@3x")
+```
+## GUID
+```
+-8169987881957978157
 ```

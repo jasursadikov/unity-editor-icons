@@ -1,6 +1,10 @@
 # Audio Mixer@2x
 ![](/img/Audio%20Mixer@2x.png)
-GUID: `923997255885558976`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Audio Mixer@2x")
+```
+## GUID
+```
+923997255885558976
 ```

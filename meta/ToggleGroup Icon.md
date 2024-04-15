@@ -1,6 +1,10 @@
 # ToggleGroup Icon
 ![](/img/ToggleGroup%20Icon.png)
-GUID: `-6311728414725311754`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ToggleGroup Icon")
+```
+## GUID
+```
+-6311728414725311754
 ```

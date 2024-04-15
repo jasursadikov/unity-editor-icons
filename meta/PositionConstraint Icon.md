@@ -1,6 +1,10 @@
 # PositionConstraint Icon
 ![](/img/PositionConstraint%20Icon.png)
-GUID: `5858363638836017136`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PositionConstraint Icon")
+```
+## GUID
+```
+5858363638836017136
 ```

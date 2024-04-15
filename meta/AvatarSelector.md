@@ -1,6 +1,10 @@
 # AvatarSelector
 ![](/img/AvatarSelector.png)
-GUID: `3140210110609189590`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AvatarSelector")
+```
+## GUID
+```
+3140210110609189590
 ```

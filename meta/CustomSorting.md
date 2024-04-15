@@ -1,6 +1,10 @@
 # CustomSorting
 ![](/img/CustomSorting.png)
-GUID: `1223667551903327650`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CustomSorting")
+```
+## GUID
+```
+1223667551903327650
 ```

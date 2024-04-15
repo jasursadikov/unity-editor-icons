@@ -1,6 +1,10 @@
 # sv_label_2
 ![](/img/sv_label_2.png)
-GUID: `419385456094870383`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("sv_label_2")
+```
+## GUID
+```
+419385456094870383
 ```

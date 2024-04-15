@@ -1,6 +1,10 @@
 # UxmlScript Icon
 ![](/img/UxmlScript%20Icon.png)
-GUID: `1987952608867368060`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UxmlScript Icon")
+```
+## GUID
+```
+1987952608867368060
 ```

@@ -1,6 +1,10 @@
 # d_BuildSettings.tvOS@2x
 ![](/img/d_BuildSettings.tvOS@2x.png)
-GUID: `9036554527568043497`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.tvOS@2x")
+```
+## GUID
+```
+9036554527568043497
 ```

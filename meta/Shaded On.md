@@ -1,6 +1,10 @@
 # Shaded On
 ![](/img/Shaded%20On.png)
-GUID: `-8556681694753944334`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Shaded On")
+```
+## GUID
+```
+-8556681694753944334
 ```

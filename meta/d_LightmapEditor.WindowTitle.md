@@ -1,6 +1,10 @@
 # d_LightmapEditor.WindowTitle
 ![](/img/d_LightmapEditor.WindowTitle.png)
-GUID: `-9217767230680498827`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_LightmapEditor.WindowTitle")
+```
+## GUID
+```
+-9217767230680498827
 ```

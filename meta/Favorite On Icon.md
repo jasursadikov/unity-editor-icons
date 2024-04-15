@@ -1,6 +1,10 @@
 # Favorite On Icon
 ![](/img/Favorite%20On%20Icon.png)
-GUID: `7344518296451947588`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Favorite On Icon")
+```
+## GUID
+```
+7344518296451947588
 ```

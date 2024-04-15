@@ -1,6 +1,10 @@
 # StandardTools
 ![](/img/StandardTools.png)
-GUID: `-891387126945643926`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StandardTools")
+```
+## GUID
+```
+-891387126945643926
 ```

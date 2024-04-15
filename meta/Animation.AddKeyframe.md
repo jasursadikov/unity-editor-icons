@@ -1,6 +1,10 @@
 # Animation.AddKeyframe
 ![](/img/Animation.AddKeyframe.png)
-GUID: `1899560698203370934`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Animation.AddKeyframe")
+```
+## GUID
+```
+1899560698203370934
 ```

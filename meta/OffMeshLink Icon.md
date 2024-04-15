@@ -1,6 +1,10 @@
 # OffMeshLink Icon
 ![](/img/OffMeshLink%20Icon.png)
-GUID: `8983077705596183227`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("OffMeshLink Icon")
+```
+## GUID
+```
+8983077705596183227
 ```

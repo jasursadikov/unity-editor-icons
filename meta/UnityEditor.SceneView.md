@@ -1,6 +1,10 @@
 # UnityEditor.SceneView
 ![](/img/UnityEditor.SceneView.png)
-GUID: `2318424515335265636`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.SceneView")
+```
+## GUID
+```
+2318424515335265636
 ```

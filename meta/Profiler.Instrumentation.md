@@ -1,6 +1,10 @@
 # Profiler.Instrumentation
 ![](/img/Profiler.Instrumentation.png)
-GUID: `4325833759877436353`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.Instrumentation")
+```
+## GUID
+```
+4325833759877436353
 ```

@@ -1,6 +1,10 @@
 # CheckerFloor
 ![](/img/CheckerFloor.png)
-GUID: `-7297968518591046888`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CheckerFloor")
+```
+## GUID
+```
+-7297968518591046888
 ```

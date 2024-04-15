@@ -1,6 +1,10 @@
 # UnityEditor.ProfilerWindow
 ![](/img/UnityEditor.ProfilerWindow.png)
-GUID: `248956144125838126`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.ProfilerWindow")
+```
+## GUID
+```
+248956144125838126
 ```

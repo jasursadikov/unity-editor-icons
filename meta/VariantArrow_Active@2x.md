@@ -1,6 +1,10 @@
 # VariantArrow_Active@2x
 ![](/img/VariantArrow_Active@2x.png)
-GUID: `539710456926545224`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VariantArrow_Active@2x")
+```
+## GUID
+```
+539710456926545224
 ```

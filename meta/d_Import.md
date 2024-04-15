@@ -1,6 +1,10 @@
 # d_Import
 ![](/img/d_Import.png)
-GUID: `-6062748997451094969`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Import")
+```
+## GUID
+```
+-6062748997451094969
 ```

@@ -1,6 +1,10 @@
 # ParentConstraint Icon
 ![](/img/ParentConstraint%20Icon.png)
-GUID: `-7720822084779754186`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ParentConstraint Icon")
+```
+## GUID
+```
+-7720822084779754186
 ```

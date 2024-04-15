@@ -1,6 +1,10 @@
 # Skip
 ![](/img/Skip.png)
-GUID: `-271356807615742943`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Skip")
+```
+## GUID
+```
+-271356807615742943
 ```

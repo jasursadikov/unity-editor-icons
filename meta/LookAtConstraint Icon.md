@@ -1,6 +1,10 @@
 # LookAtConstraint Icon
 ![](/img/LookAtConstraint%20Icon.png)
-GUID: `7593723892036308658`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LookAtConstraint Icon")
+```
+## GUID
+```
+7593723892036308658
 ```

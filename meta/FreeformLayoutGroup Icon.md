@@ -1,6 +1,10 @@
 # FreeformLayoutGroup Icon
 ![](/img/FreeformLayoutGroup%20Icon.png)
-GUID: `-1465194095038887121`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("FreeformLayoutGroup Icon")
+```
+## GUID
+```
+-1465194095038887121
 ```

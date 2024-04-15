@@ -1,6 +1,10 @@
 # SceneViewTools
 ![](/img/SceneViewTools.png)
-GUID: `3498394059004316920`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewTools")
+```
+## GUID
+```
+3498394059004316920
 ```

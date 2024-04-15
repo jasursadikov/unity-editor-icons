@@ -1,6 +1,10 @@
 # GraphicRaycaster Icon
 ![](/img/GraphicRaycaster%20Icon.png)
-GUID: `-5517977232949126016`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GraphicRaycaster Icon")
+```
+## GUID
+```
+-5517977232949126016
 ```

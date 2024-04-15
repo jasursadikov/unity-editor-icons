@@ -1,6 +1,10 @@
 # VUMeterTextureHorizontal
 ![](/img/VUMeterTextureHorizontal.png)
-GUID: `-1523762453005817639`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VUMeterTextureHorizontal")
+```
+## GUID
+```
+-1523762453005817639
 ```

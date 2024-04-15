@@ -1,6 +1,10 @@
 # DataMode.Runtime.Sticky@2x
 ![](/img/DataMode.Runtime.Sticky@2x.png)
-GUID: `8884714859235717511`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DataMode.Runtime.Sticky@2x")
+```
+## GUID
+```
+8884714859235717511
 ```

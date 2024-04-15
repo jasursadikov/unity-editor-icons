@@ -1,6 +1,10 @@
 # d_Flare On Icon
 ![](/img/d_Flare%20On%20Icon.png)
-GUID: `-6972875126009830671`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Flare On Icon")
+```
+## GUID
+```
+-6972875126009830671
 ```

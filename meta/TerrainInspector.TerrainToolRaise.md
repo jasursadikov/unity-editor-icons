@@ -1,6 +1,10 @@
 # TerrainInspector.TerrainToolRaise
 ![](/img/TerrainInspector.TerrainToolRaise.png)
-GUID: `-7499244911019970043`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TerrainInspector.TerrainToolRaise")
+```
+## GUID
+```
+-7499244911019970043
 ```

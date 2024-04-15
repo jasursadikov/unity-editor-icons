@@ -1,6 +1,10 @@
 # AudioSpatializerMicrosoft Icon
 ![](/img/AudioSpatializerMicrosoft%20Icon.png)
-GUID: `-1329997003893270728`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioSpatializerMicrosoft Icon")
+```
+## GUID
+```
+-1329997003893270728
 ```

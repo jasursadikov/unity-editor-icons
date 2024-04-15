@@ -1,6 +1,10 @@
 # GEAR
 ![](/img/GEAR.png)
-GUID: `-2604678844943948956`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GEAR")
+```
+## GUID
+```
+-2604678844943948956
 ```

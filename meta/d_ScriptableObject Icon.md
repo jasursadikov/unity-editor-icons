@@ -1,6 +1,10 @@
 # d_ScriptableObject Icon
 ![](/img/d_ScriptableObject%20Icon.png)
-GUID: `2376468200823113483`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ScriptableObject Icon")
+```
+## GUID
+```
+2376468200823113483
 ```

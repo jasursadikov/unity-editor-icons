@@ -1,6 +1,10 @@
 # editicon.sml
 ![](/img/editicon.sml.png)
-GUID: `-3595506641705146835`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("editicon.sml")
+```
+## GUID
+```
+-3595506641705146835
 ```

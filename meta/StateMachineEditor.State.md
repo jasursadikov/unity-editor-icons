@@ -1,6 +1,10 @@
 # StateMachineEditor.State
 ![](/img/StateMachineEditor.State.png)
-GUID: `-2498257422076009537`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.State")
+```
+## GUID
+```
+-2498257422076009537
 ```

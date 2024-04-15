@@ -1,6 +1,10 @@
 # BuildSettings.tvOS On
 ![](/img/BuildSettings.tvOS%20On.png)
-GUID: `-1883590773550481976`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.tvOS On")
+```
+## GUID
+```
+-1883590773550481976
 ```

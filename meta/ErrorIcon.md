@@ -1,6 +1,10 @@
 # ErrorIcon
 ![](/img/ErrorIcon.png)
-GUID: `-6901213756180063363`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ErrorIcon")
+```
+## GUID
+```
+-6901213756180063363
 ```

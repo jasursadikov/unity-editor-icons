@@ -1,6 +1,10 @@
 # Selectable Icon
 ![](/img/Selectable%20Icon.png)
-GUID: `-958105477048633779`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Selectable Icon")
+```
+## GUID
+```
+-958105477048633779
 ```

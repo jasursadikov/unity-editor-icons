@@ -1,6 +1,10 @@
 # d_Occlusion
 ![](/img/d_Occlusion.png)
-GUID: `-3571815596324412722`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Occlusion")
+```
+## GUID
+```
+-3571815596324412722
 ```

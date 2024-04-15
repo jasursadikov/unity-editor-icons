@@ -1,6 +1,10 @@
 # d_Profiler.Open
 ![](/img/d_Profiler.Open.png)
-GUID: `8520121654172952750`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.Open")
+```
+## GUID
+```
+8520121654172952750
 ```

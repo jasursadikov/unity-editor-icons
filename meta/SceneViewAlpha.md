@@ -1,6 +1,10 @@
 # SceneViewAlpha
 ![](/img/SceneViewAlpha.png)
-GUID: `5689812610135952391`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewAlpha")
+```
+## GUID
+```
+5689812610135952391
 ```

@@ -1,6 +1,10 @@
 # Animation.EventMarker
 ![](/img/Animation.EventMarker.png)
-GUID: `-9093604829510332455`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Animation.EventMarker")
+```
+## GUID
+```
+-9093604829510332455
 ```

@@ -1,6 +1,10 @@
 # BodySilhouette
 ![](/img/BodySilhouette.png)
-GUID: `-4451312289517108567`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BodySilhouette")
+```
+## GUID
+```
+-4451312289517108567
 ```

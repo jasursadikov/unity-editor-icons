@@ -1,6 +1,10 @@
 # Animation.LastKey
 ![](/img/Animation.LastKey.png)
-GUID: `-891300260708246628`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Animation.LastKey")
+```
+## GUID
+```
+-891300260708246628
 ```

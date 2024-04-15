@@ -1,6 +1,10 @@
 # Options
 ![](/img/Options.png)
-GUID: `6072541640860841482`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Options")
+```
+## GUID
+```
+6072541640860841482
 ```

@@ -1,6 +1,10 @@
 # d_monologo
 ![](/img/d_monologo.png)
-GUID: `2024370742291596448`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_monologo")
+```
+## GUID
+```
+2024370742291596448
 ```

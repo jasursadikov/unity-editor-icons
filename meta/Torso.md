@@ -1,6 +1,10 @@
 # Torso
 ![](/img/Torso.png)
-GUID: `-8990505202146232379`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Torso")
+```
+## GUID
+```
+-8990505202146232379
 ```

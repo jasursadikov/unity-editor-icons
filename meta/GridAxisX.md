@@ -1,6 +1,10 @@
 # GridAxisX
 ![](/img/GridAxisX.png)
-GUID: `-807926089104016953`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GridAxisX")
+```
+## GUID
+```
+-807926089104016953
 ```

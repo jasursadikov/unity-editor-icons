@@ -1,6 +1,10 @@
 # d_wireframe@2x
 ![](/img/d_wireframe@2x.png)
-GUID: `-1708852979755619693`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_wireframe@2x")
+```
+## GUID
+```
+-1708852979755619693
 ```

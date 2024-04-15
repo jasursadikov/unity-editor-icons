@@ -1,6 +1,10 @@
 # NetworkTransform Icon
 ![](/img/NetworkTransform%20Icon.png)
-GUID: `4983861924774258628`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("NetworkTransform Icon")
+```
+## GUID
+```
+4983861924774258628
 ```

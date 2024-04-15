@@ -1,6 +1,10 @@
 # ThemeStyleSheet Icon
 ![](/img/ThemeStyleSheet%20Icon.png)
-GUID: `8155389506043278651`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ThemeStyleSheet Icon")
+```
+## GUID
+```
+8155389506043278651
 ```

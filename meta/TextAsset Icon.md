@@ -1,6 +1,10 @@
 # TextAsset Icon
 ![](/img/TextAsset%20Icon.png)
-GUID: `1831301468445745894`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TextAsset Icon")
+```
+## GUID
+```
+1831301468445745894
 ```

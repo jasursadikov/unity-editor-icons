@@ -1,6 +1,10 @@
 # KnobCShapeMini
 ![](/img/KnobCShapeMini.png)
-GUID: `-5536043694101708221`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("KnobCShapeMini")
+```
+## GUID
+```
+-5536043694101708221
 ```

@@ -1,6 +1,10 @@
 # d_PlayButton
 ![](/img/d_PlayButton.png)
-GUID: `8119404038100594556`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PlayButton")
+```
+## GUID
+```
+8119404038100594556
 ```

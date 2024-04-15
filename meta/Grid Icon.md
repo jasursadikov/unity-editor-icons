@@ -1,6 +1,10 @@
 # Grid Icon
 ![](/img/Grid%20Icon.png)
-GUID: `-6189111279697128761`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Grid Icon")
+```
+## GUID
+```
+-6189111279697128761
 ```

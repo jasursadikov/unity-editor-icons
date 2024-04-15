@@ -1,6 +1,10 @@
 # Prefab Icon
 ![](/img/Prefab%20Icon.png)
-GUID: `-6840528455795640641`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Prefab Icon")
+```
+## GUID
+```
+-6840528455795640641
 ```

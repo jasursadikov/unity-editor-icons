@@ -1,6 +1,10 @@
 # ContentSizeFitter Icon
 ![](/img/ContentSizeFitter%20Icon.png)
-GUID: `-385548011631775140`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ContentSizeFitter Icon")
+```
+## GUID
+```
+-385548011631775140
 ```

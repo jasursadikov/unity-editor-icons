@@ -1,6 +1,10 @@
 # TreeEditor.LeafScale
 ![](/img/TreeEditor.LeafScale.png)
-GUID: `-1172771817984738044`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.LeafScale")
+```
+## GUID
+```
+-1172771817984738044
 ```

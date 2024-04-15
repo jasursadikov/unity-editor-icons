@@ -1,6 +1,10 @@
 # Missing
 ![](/img/Missing.png)
-GUID: `-6250481029109024134`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Missing")
+```
+## GUID
+```
+-6250481029109024134
 ```

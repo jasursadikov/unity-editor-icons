@@ -1,6 +1,10 @@
 # Snapping
 ![](/img/Snapping.png)
-GUID: `7950214749926362013`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Snapping")
+```
+## GUID
+```
+7950214749926362013
 ```

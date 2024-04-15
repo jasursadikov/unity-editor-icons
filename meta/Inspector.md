@@ -1,6 +1,10 @@
 # Inspector
 ![](/img/Inspector.png)
-GUID: `-382990441875178194`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Inspector")
+```
+## GUID
+```
+-382990441875178194
 ```

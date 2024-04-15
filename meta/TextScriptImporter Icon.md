@@ -1,6 +1,10 @@
 # TextScriptImporter Icon
 ![](/img/TextScriptImporter%20Icon.png)
-GUID: `5554711927370159895`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TextScriptImporter Icon")
+```
+## GUID
+```
+5554711927370159895
 ```

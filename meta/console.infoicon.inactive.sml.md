@@ -1,6 +1,10 @@
 # console.infoicon.inactive.sml
 ![](/img/console.infoicon.inactive.sml.png)
-GUID: `-834181036293777854`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("console.infoicon.inactive.sml")
+```
+## GUID
+```
+-834181036293777854
 ```

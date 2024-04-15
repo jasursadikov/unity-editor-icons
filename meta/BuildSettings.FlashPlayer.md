@@ -1,6 +1,10 @@
 # BuildSettings.FlashPlayer
 ![](/img/BuildSettings.FlashPlayer.png)
-GUID: `466988226579792567`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.FlashPlayer")
+```
+## GUID
+```
+466988226579792567
 ```

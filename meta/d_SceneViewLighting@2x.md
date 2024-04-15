@@ -1,6 +1,10 @@
 # d_SceneViewLighting@2x
 ![](/img/d_SceneViewLighting@2x.png)
-GUID: `-1108800813049456072`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SceneViewLighting@2x")
+```
+## GUID
+```
+-1108800813049456072
 ```

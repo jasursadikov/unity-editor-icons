@@ -1,6 +1,10 @@
 # Collab.FolderIgnored
 ![](/img/Collab.FolderIgnored.png)
-GUID: `-1970951285390588327`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Collab.FolderIgnored")
+```
+## GUID
+```
+-1970951285390588327
 ```

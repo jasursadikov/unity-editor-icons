@@ -1,6 +1,10 @@
 # Refresh
 ![](/img/Refresh.png)
-GUID: `4379493371988143661`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Refresh")
+```
+## GUID
+```
+4379493371988143661
 ```

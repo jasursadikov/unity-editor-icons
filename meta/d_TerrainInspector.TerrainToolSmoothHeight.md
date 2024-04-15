@@ -1,6 +1,10 @@
 # d_TerrainInspector.TerrainToolSmoothHeight
 ![](/img/d_TerrainInspector.TerrainToolSmoothHeight.png)
-GUID: `-6913608102063742031`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolSmoothHeight")
+```
+## GUID
+```
+-6913608102063742031
 ```

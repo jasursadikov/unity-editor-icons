@@ -1,6 +1,10 @@
 # Transform Icon
 ![](/img/Transform%20Icon.png)
-GUID: `-5978376505060993461`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Transform Icon")
+```
+## GUID
+```
+-5978376505060993461
 ```

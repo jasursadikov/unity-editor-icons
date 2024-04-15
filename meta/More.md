@@ -1,6 +1,10 @@
 # More
 ![](/img/More.png)
-GUID: `-5780560188392537807`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("More")
+```
+## GUID
+```
+-5780560188392537807
 ```

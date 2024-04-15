@@ -1,6 +1,10 @@
 # SceneViewCamera
 ![](/img/SceneViewCamera.png)
-GUID: `6164537384866057818`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewCamera")
+```
+## GUID
+```
+6164537384866057818
 ```

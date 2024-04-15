@@ -1,6 +1,10 @@
 # d_TreeEditor.Material
 ![](/img/d_TreeEditor.Material.png)
-GUID: `7462113005024948280`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.Material")
+```
+## GUID
+```
+7462113005024948280
 ```

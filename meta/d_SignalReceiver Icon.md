@@ -1,6 +1,10 @@
 # d_SignalReceiver Icon
 ![](/img/d_SignalReceiver%20Icon.png)
-GUID: `-7098612008054524421`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SignalReceiver Icon")
+```
+## GUID
+```
+-7098612008054524421
 ```

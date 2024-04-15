@@ -1,6 +1,10 @@
 # Incoming Icon
 ![](/img/Incoming%20Icon.png)
-GUID: `5128309118987909605`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Incoming Icon")
+```
+## GUID
+```
+5128309118987909605
 ```

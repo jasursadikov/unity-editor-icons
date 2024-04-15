@@ -1,6 +1,10 @@
 # sv_icon_dot15_pix16_gizmo
 ![](/img/sv_icon_dot15_pix16_gizmo.png)
-GUID: `6519382022992737161`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("sv_icon_dot15_pix16_gizmo")
+```
+## GUID
+```
+6519382022992737161
 ```

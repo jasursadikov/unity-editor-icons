@@ -1,6 +1,10 @@
 # d_console.erroricon.inactive.sml@2x
 ![](/img/d_console.erroricon.inactive.sml@2x.png)
-GUID: `-1683012324619503922`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_console.erroricon.inactive.sml@2x")
+```
+## GUID
+```
+-1683012324619503922
 ```

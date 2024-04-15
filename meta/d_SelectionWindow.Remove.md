@@ -1,6 +1,10 @@
 # d_SelectionWindow.Remove
 ![](/img/d_SelectionWindow.Remove.png)
-GUID: `-2927195026337542706`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SelectionWindow.Remove")
+```
+## GUID
+```
+-2927195026337542706
 ```

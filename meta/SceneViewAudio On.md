@@ -1,6 +1,10 @@
 # SceneViewAudio On
 ![](/img/SceneViewAudio%20On.png)
-GUID: `-1855887340124226924`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewAudio On")
+```
+## GUID
+```
+-1855887340124226924
 ```

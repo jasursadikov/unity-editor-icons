@@ -1,6 +1,10 @@
 # PreTextureRGB
 ![](/img/PreTextureRGB.png)
-GUID: `-8226932071337485379`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PreTextureRGB")
+```
+## GUID
+```
+-8226932071337485379
 ```

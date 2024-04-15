@@ -1,6 +1,10 @@
 # d_AlphabeticalSorting
 ![](/img/d_AlphabeticalSorting.png)
-GUID: `4704375340429805257`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_AlphabeticalSorting")
+```
+## GUID
+```
+4704375340429805257
 ```

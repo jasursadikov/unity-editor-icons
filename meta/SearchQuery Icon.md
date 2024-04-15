@@ -1,6 +1,10 @@
 # SearchQuery Icon
 ![](/img/SearchQuery%20Icon.png)
-GUID: `4450720721819067096`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SearchQuery Icon")
+```
+## GUID
+```
+4450720721819067096
 ```

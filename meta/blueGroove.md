@@ -1,6 +1,10 @@
 # blueGroove
 ![](/img/blueGroove.png)
-GUID: `-1206214115408343928`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("blueGroove")
+```
+## GUID
+```
+-1206214115408343928
 ```

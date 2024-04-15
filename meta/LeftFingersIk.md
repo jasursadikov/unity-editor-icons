@@ -1,6 +1,10 @@
 # LeftFingersIk
 ![](/img/LeftFingersIk.png)
-GUID: `1748729859595675987`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LeftFingersIk")
+```
+## GUID
+```
+1748729859595675987
 ```

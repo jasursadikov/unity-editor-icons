@@ -1,6 +1,10 @@
 # playLoopOn
 ![](/img/playLoopOn.png)
-GUID: `-8704230745159471572`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("playLoopOn")
+```
+## GUID
+```
+-8704230745159471572
 ```

@@ -1,6 +1,10 @@
 # ReverbFilter Icon
 ![](/img/ReverbFilter%20Icon.png)
-GUID: `410458467150176819`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ReverbFilter Icon")
+```
+## GUID
+```
+410458467150176819
 ```

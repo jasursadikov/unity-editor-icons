@@ -1,6 +1,10 @@
 # CloudConnect
 ![](/img/CloudConnect.png)
-GUID: `1796978947134172663`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CloudConnect")
+```
+## GUID
+```
+1796978947134172663
 ```

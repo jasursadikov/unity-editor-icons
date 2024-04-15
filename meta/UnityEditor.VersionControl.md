@@ -1,6 +1,10 @@
 # UnityEditor.VersionControl
 ![](/img/UnityEditor.VersionControl.png)
-GUID: `897598055310200762`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.VersionControl")
+```
+## GUID
+```
+897598055310200762
 ```

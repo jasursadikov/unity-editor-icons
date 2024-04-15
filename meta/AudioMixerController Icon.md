@@ -1,6 +1,10 @@
 # AudioMixerController Icon
 ![](/img/AudioMixerController%20Icon.png)
-GUID: `6744158477067907578`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioMixerController Icon")
+```
+## GUID
+```
+6744158477067907578
 ```

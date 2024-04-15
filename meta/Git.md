@@ -1,6 +1,10 @@
 # Git
 ![](/img/Git.png)
-GUID: `-4265854456175031340`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Git")
+```
+## GUID
+```
+-4265854456175031340
 ```

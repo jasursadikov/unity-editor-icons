@@ -1,6 +1,10 @@
 # UndoHistory
 ![](/img/UndoHistory.png)
-GUID: `-1016843573505417654`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UndoHistory")
+```
+## GUID
+```
+-1016843573505417654
 ```

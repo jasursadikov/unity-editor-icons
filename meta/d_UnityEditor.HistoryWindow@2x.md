@@ -1,6 +1,10 @@
 # d_UnityEditor.HistoryWindow@2x
 ![](/img/d_UnityEditor.HistoryWindow@2x.png)
-GUID: `-1608452002797687582`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.HistoryWindow@2x")
+```
+## GUID
+```
+-1608452002797687582
 ```

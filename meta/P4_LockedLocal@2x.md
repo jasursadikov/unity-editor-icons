@@ -1,6 +1,10 @@
 # P4_LockedLocal@2x
 ![](/img/P4_LockedLocal@2x.png)
-GUID: `8214538453251941691`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("P4_LockedLocal@2x")
+```
+## GUID
+```
+8214538453251941691
 ```

@@ -1,6 +1,10 @@
 # MyRegistries
 ![](/img/MyRegistries.png)
-GUID: `3520804601354127368`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MyRegistries")
+```
+## GUID
+```
+3520804601354127368
 ```

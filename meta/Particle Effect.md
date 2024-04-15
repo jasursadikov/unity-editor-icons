@@ -1,6 +1,10 @@
 # Particle Effect
 ![](/img/Particle%20Effect.png)
-GUID: `-3708470382322310263`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Particle Effect")
+```
+## GUID
+```
+-3708470382322310263
 ```

@@ -1,6 +1,10 @@
 # conflict-icon
 ![](/img/conflict-icon.png)
-GUID: `2155508246414328611`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("conflict-icon")
+```
+## GUID
+```
+2155508246414328611
 ```

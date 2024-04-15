@@ -1,6 +1,10 @@
 # Add-Available
 ![](/img/Add-Available.png)
-GUID: `-3266479738145358097`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Add-Available")
+```
+## GUID
+```
+-3266479738145358097
 ```

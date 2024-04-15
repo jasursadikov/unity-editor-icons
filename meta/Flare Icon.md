@@ -1,6 +1,10 @@
 # Flare Icon
 ![](/img/Flare%20Icon.png)
-GUID: `-1825006340795800494`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Flare Icon")
+```
+## GUID
+```
+-1825006340795800494
 ```

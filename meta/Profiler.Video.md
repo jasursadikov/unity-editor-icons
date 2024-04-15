@@ -1,6 +1,10 @@
 # Profiler.Video
 ![](/img/Profiler.Video.png)
-GUID: `-8081596534669742335`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.Video")
+```
+## GUID
+```
+-8081596534669742335
 ```

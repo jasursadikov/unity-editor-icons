@@ -1,6 +1,10 @@
 # Grid.EraserTool
 ![](/img/Grid.EraserTool.png)
-GUID: `-2230402226522707323`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Grid.EraserTool")
+```
+## GUID
+```
+-2230402226522707323
 ```

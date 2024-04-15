@@ -1,6 +1,10 @@
 # Grip_HorizontalContainer
 ![](/img/Grip_HorizontalContainer.png)
-GUID: `1324884463102540922`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Grip_HorizontalContainer")
+```
+## GUID
+```
+1324884463102540922
 ```

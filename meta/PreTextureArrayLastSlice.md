@@ -1,6 +1,10 @@
 # PreTextureArrayLastSlice
 ![](/img/PreTextureArrayLastSlice.png)
-GUID: `-2860003758114304722`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PreTextureArrayLastSlice")
+```
+## GUID
+```
+-2860003758114304722
 ```

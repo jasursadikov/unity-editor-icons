@@ -1,6 +1,10 @@
 # TextMesh Icon
 ![](/img/TextMesh%20Icon.png)
-GUID: `5246181342486455390`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TextMesh Icon")
+```
+## GUID
+```
+5246181342486455390
 ```

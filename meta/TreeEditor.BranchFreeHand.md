@@ -1,6 +1,10 @@
 # TreeEditor.BranchFreeHand
 ![](/img/TreeEditor.BranchFreeHand.png)
-GUID: `6650521074937941036`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.BranchFreeHand")
+```
+## GUID
+```
+6650521074937941036
 ```

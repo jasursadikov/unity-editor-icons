@@ -1,6 +1,10 @@
 # BuildSettings.Standalone
 ![](/img/BuildSettings.Standalone.png)
-GUID: `-9041251142560793768`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Standalone")
+```
+## GUID
+```
+-9041251142560793768
 ```

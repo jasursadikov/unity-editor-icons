@@ -1,6 +1,10 @@
 # d_PhysicMaterial Icon
 ![](/img/d_PhysicMaterial%20Icon.png)
-GUID: `-1218883958213205822`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PhysicMaterial Icon")
+```
+## GUID
+```
+-1218883958213205822
 ```

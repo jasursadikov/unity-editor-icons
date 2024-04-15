@@ -1,6 +1,10 @@
 # ProbeVolume Icon
 ![](/img/ProbeVolume%20Icon.png)
-GUID: `-7818872575317401653`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ProbeVolume Icon")
+```
+## GUID
+```
+-7818872575317401653
 ```

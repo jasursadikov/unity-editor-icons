@@ -1,6 +1,10 @@
 # LayoutElement Icon
 ![](/img/LayoutElement%20Icon.png)
-GUID: `7518471575754125003`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("LayoutElement Icon")
+```
+## GUID
+```
+7518471575754125003
 ```

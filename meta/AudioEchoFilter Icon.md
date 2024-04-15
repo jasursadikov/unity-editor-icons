@@ -1,6 +1,10 @@
 # AudioEchoFilter Icon
 ![](/img/AudioEchoFilter%20Icon.png)
-GUID: `-1134031616354535451`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioEchoFilter Icon")
+```
+## GUID
+```
+-1134031616354535451
 ```

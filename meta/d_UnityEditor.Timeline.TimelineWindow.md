@@ -1,6 +1,10 @@
 # d_UnityEditor.Timeline.TimelineWindow
 ![](/img/d_UnityEditor.Timeline.TimelineWindow.png)
-GUID: `-9173288242387172643`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.Timeline.TimelineWindow")
+```
+## GUID
+```
+-9173288242387172643
 ```

@@ -1,6 +1,10 @@
 # Collab.Warning
 ![](/img/Collab.Warning.png)
-GUID: `-7186489016682460555`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Collab.Warning")
+```
+## GUID
+```
+-7186489016682460555
 ```

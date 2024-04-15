@@ -1,6 +1,10 @@
 # Feature
 ![](/img/Feature.png)
-GUID: `9171591155536988804`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Feature")
+```
+## GUID
+```
+9171591155536988804
 ```

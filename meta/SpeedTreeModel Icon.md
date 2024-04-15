@@ -1,6 +1,10 @@
 # SpeedTreeModel Icon
 ![](/img/SpeedTreeModel%20Icon.png)
-GUID: `-8238028006302236665`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SpeedTreeModel Icon")
+```
+## GUID
+```
+-8238028006302236665
 ```

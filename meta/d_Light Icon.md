@@ -1,6 +1,10 @@
 # d_Light Icon
 ![](/img/d_Light%20Icon.png)
-GUID: `1992151432481503067`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Light Icon")
+```
+## GUID
+```
+1992151432481503067
 ```

@@ -1,6 +1,10 @@
 # AudioClip Icon
 ![](/img/AudioClip%20Icon.png)
-GUID: `6209032750877799845`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AudioClip Icon")
+```
+## GUID
+```
+6209032750877799845
 ```

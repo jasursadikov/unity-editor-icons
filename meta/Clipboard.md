@@ -1,6 +1,10 @@
 # Clipboard
 ![](/img/Clipboard.png)
-GUID: `6367713590482950888`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Clipboard")
+```
+## GUID
+```
+6367713590482950888
 ```

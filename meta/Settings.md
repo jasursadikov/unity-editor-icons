@@ -1,6 +1,10 @@
 # Settings
 ![](/img/Settings.png)
-GUID: `8487775502441791945`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Settings")
+```
+## GUID
+```
+8487775502441791945
 ```

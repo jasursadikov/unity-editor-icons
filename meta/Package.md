@@ -1,6 +1,10 @@
 # Package
 ![](/img/Package.png)
-GUID: `9130077513296818293`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Package")
+```
+## GUID
+```
+9130077513296818293
 ```

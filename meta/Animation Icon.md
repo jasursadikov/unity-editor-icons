@@ -1,6 +1,10 @@
 # Animation Icon
 ![](/img/Animation%20Icon.png)
-GUID: `-2455898091624290219`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Animation Icon")
+```
+## GUID
+```
+-2455898091624290219
 ```

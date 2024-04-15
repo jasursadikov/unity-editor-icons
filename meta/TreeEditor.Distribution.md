@@ -1,6 +1,10 @@
 # TreeEditor.Distribution
 ![](/img/TreeEditor.Distribution.png)
-GUID: `6930158366105535527`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Distribution")
+```
+## GUID
+```
+6930158366105535527
 ```

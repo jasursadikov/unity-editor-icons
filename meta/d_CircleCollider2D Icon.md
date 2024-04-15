@@ -1,6 +1,10 @@
 # d_CircleCollider2D Icon
 ![](/img/d_CircleCollider2D%20Icon.png)
-GUID: `7882515739285264159`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_CircleCollider2D Icon")
+```
+## GUID
+```
+7882515739285264159
 ```

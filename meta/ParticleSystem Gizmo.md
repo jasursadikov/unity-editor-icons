@@ -1,6 +1,10 @@
 # ParticleSystem Gizmo
 ![](/img/ParticleSystem%20Gizmo.png)
-GUID: `7081114796348156166`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ParticleSystem Gizmo")
+```
+## GUID
+```
+7081114796348156166
 ```

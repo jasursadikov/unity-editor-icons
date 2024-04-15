@@ -1,6 +1,10 @@
 # P4_DeletedLocal
 ![](/img/P4_DeletedLocal.png)
-GUID: `4924442353259380349`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("P4_DeletedLocal")
+```
+## GUID
+```
+4924442353259380349
 ```

@@ -1,6 +1,10 @@
 # sv_icon_dot9_sml
 ![](/img/sv_icon_dot9_sml.png)
-GUID: `4067669608263693878`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("sv_icon_dot9_sml")
+```
+## GUID
+```
+4067669608263693878
 ```

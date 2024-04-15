@@ -1,6 +1,10 @@
 # SceneViewRGB
 ![](/img/SceneViewRGB.png)
-GUID: `-669422765859573873`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewRGB")
+```
+## GUID
+```
+-669422765859573873
 ```

@@ -1,6 +1,10 @@
 # VUMeterTextureVertical
 ![](/img/VUMeterTextureVertical.png)
-GUID: `-711995501051180505`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VUMeterTextureVertical")
+```
+## GUID
+```
+-711995501051180505
 ```

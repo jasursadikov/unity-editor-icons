@@ -1,6 +1,10 @@
 # d_ScaleTool On@2x
 ![](/img/d_ScaleTool%20On@2x.png)
-GUID: `7775916351347549205`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ScaleTool On@2x")
+```
+## GUID
+```
+7775916351347549205
 ```

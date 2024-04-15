@@ -1,6 +1,10 @@
 # SceneViewVisibility On
 ![](/img/SceneViewVisibility%20On.png)
-GUID: `-3817573173973801965`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SceneViewVisibility On")
+```
+## GUID
+```
+-3817573173973801965
 ```

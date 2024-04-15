@@ -1,6 +1,10 @@
 # Assembly Icon
 ![](/img/Assembly%20Icon.png)
-GUID: `8837923381442833745`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Assembly Icon")
+```
+## GUID
+```
+8837923381442833745
 ```

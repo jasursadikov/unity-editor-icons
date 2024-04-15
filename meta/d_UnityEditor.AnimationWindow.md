@@ -1,6 +1,10 @@
 # d_UnityEditor.AnimationWindow
 ![](/img/d_UnityEditor.AnimationWindow.png)
-GUID: `-8166618308981325432`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.AnimationWindow")
+```
+## GUID
+```
+-8166618308981325432
 ```

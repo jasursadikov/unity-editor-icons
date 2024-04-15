@@ -1,6 +1,10 @@
 # UpArrow
 ![](/img/UpArrow.png)
-GUID: `-624697150232901407`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UpArrow")
+```
+## GUID
+```
+-624697150232901407
 ```

@@ -1,6 +1,10 @@
 # d_Font Icon
 ![](/img/d_Font%20Icon.png)
-GUID: `700968415227373761`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Font Icon")
+```
+## GUID
+```
+700968415227373761
 ```

@@ -1,6 +1,10 @@
 # BuildSettings.Metro
 ![](/img/BuildSettings.Metro.png)
-GUID: `-4021004726003450232`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Metro")
+```
+## GUID
+```
+-4021004726003450232
 ```

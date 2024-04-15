@@ -1,6 +1,10 @@
 # UnlitMode
 ![](/img/UnlitMode.png)
-GUID: `486204107049786491`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnlitMode")
+```
+## GUID
+```
+486204107049786491
 ```

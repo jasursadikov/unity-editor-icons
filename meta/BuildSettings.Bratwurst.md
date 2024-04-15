@@ -1,6 +1,10 @@
 # BuildSettings.Bratwurst
 ![](/img/BuildSettings.Bratwurst.png)
-GUID: `7255139279651513950`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Bratwurst")
+```
+## GUID
+```
+7255139279651513950
 ```

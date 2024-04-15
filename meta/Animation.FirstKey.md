@@ -1,6 +1,10 @@
 # Animation.FirstKey
 ![](/img/Animation.FirstKey.png)
-GUID: `3024128271444096090`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Animation.FirstKey")
+```
+## GUID
+```
+3024128271444096090
 ```

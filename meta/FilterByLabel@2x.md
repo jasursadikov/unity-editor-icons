@@ -1,6 +1,10 @@
 # FilterByLabel@2x
 ![](/img/FilterByLabel@2x.png)
-GUID: `-4801494262727041811`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("FilterByLabel@2x")
+```
+## GUID
+```
+-4801494262727041811
 ```

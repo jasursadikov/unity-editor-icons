@@ -1,6 +1,10 @@
 # d_SearchWindow@2x
 ![](/img/d_SearchWindow@2x.png)
-GUID: `-7008343138469552579`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SearchWindow@2x")
+```
+## GUID
+```
+-7008343138469552579
 ```

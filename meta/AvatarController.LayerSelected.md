@@ -1,6 +1,10 @@
 # AvatarController.LayerSelected
 ![](/img/AvatarController.LayerSelected.png)
-GUID: `3582037340827626199`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AvatarController.LayerSelected")
+```
+## GUID
+```
+3582037340827626199
 ```

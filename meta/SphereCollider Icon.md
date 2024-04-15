@@ -1,6 +1,10 @@
 # SphereCollider Icon
 ![](/img/SphereCollider%20Icon.png)
-GUID: `1840295920753766348`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SphereCollider Icon")
+```
+## GUID
+```
+1840295920753766348
 ```

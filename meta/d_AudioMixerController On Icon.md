@@ -1,6 +1,10 @@
 # d_AudioMixerController On Icon
 ![](/img/d_AudioMixerController%20On%20Icon.png)
-GUID: `1427734817712014639`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_AudioMixerController On Icon")
+```
+## GUID
+```
+1427734817712014639
 ```

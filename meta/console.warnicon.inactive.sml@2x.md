@@ -1,6 +1,10 @@
 # console.warnicon.inactive.sml@2x
 ![](/img/console.warnicon.inactive.sml@2x.png)
-GUID: `-3380099296471467840`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("console.warnicon.inactive.sml@2x")
+```
+## GUID
+```
+-3380099296471467840
 ```

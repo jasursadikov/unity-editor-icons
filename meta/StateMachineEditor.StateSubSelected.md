@@ -1,6 +1,10 @@
 # StateMachineEditor.StateSubSelected
 ![](/img/StateMachineEditor.StateSubSelected.png)
-GUID: `-2619676175295628718`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.StateSubSelected")
+```
+## GUID
+```
+-2619676175295628718
 ```

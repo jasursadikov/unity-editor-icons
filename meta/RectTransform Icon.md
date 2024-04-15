@@ -1,6 +1,10 @@
 # RectTransform Icon
 ![](/img/RectTransform%20Icon.png)
-GUID: `7455145437453758670`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("RectTransform Icon")
+```
+## GUID
+```
+7455145437453758670
 ```

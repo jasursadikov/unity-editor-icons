@@ -1,6 +1,10 @@
 # Rigidbody Icon
 ![](/img/Rigidbody%20Icon.png)
-GUID: `5326581857693104265`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Rigidbody Icon")
+```
+## GUID
+```
+5326581857693104265
 ```

@@ -1,6 +1,10 @@
 # DiscLight Icon
 ![](/img/DiscLight%20Icon.png)
-GUID: `4811048563826522785`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DiscLight Icon")
+```
+## GUID
+```
+4811048563826522785
 ```

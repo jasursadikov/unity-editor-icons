@@ -1,6 +1,10 @@
 # DirectionalLight Gizmo
 ![](/img/DirectionalLight%20Gizmo.png)
-GUID: `-2108776713216651144`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DirectionalLight Gizmo")
+```
+## GUID
+```
+-2108776713216651144
 ```

@@ -1,6 +1,10 @@
 # AvatarController.LayerHover
 ![](/img/AvatarController.LayerHover.png)
-GUID: `1060193532816808308`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AvatarController.LayerHover")
+```
+## GUID
+```
+1060193532816808308
 ```

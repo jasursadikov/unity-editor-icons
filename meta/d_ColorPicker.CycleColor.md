@@ -1,6 +1,10 @@
 # d_ColorPicker.CycleColor
 ![](/img/d_ColorPicker.CycleColor.png)
-GUID: `-4438168099941589078`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ColorPicker.CycleColor")
+```
+## GUID
+```
+-4438168099941589078
 ```

@@ -1,6 +1,10 @@
 # Wireframe On
 ![](/img/Wireframe%20On.png)
-GUID: `-9200686020729862549`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Wireframe On")
+```
+## GUID
+```
+-9200686020729862549
 ```

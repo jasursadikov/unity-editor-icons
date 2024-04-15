@@ -1,6 +1,10 @@
 # RepaintDot
 ![](/img/RepaintDot.png)
-GUID: `-6700053517184074715`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("RepaintDot")
+```
+## GUID
+```
+-6700053517184074715
 ```

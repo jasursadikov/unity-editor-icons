@@ -1,6 +1,10 @@
 # AnimationWrapModeMenu
 ![](/img/AnimationWrapModeMenu.png)
-GUID: `-811430376147227483`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AnimationWrapModeMenu")
+```
+## GUID
+```
+-811430376147227483
 ```

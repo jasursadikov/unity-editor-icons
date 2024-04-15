@@ -1,6 +1,10 @@
 # d_PreMatSphere
 ![](/img/d_PreMatSphere.png)
-GUID: `252860475409480837`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_PreMatSphere")
+```
+## GUID
+```
+252860475409480837
 ```

@@ -1,6 +1,10 @@
 # Snapping_EqualSpacing
 ![](/img/Snapping_EqualSpacing.png)
-GUID: `3014020918718948291`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Snapping_EqualSpacing")
+```
+## GUID
+```
+3014020918718948291
 ```

@@ -1,6 +1,10 @@
 # PlayButtonProfile On
 ![](/img/PlayButtonProfile%20On.png)
-GUID: `7440788987092985216`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PlayButtonProfile On")
+```
+## GUID
+```
+7440788987092985216
 ```

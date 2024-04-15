@@ -1,6 +1,10 @@
 # GridAndSnap@2x
 ![](/img/GridAndSnap@2x.png)
-GUID: `-3718842038914706136`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GridAndSnap@2x")
+```
+## GUID
+```
+-3718842038914706136
 ```

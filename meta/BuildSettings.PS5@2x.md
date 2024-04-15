@@ -1,6 +1,10 @@
 # BuildSettings.PS5@2x
 ![](/img/BuildSettings.PS5@2x.png)
-GUID: `373751416080676096`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.PS5@2x")
+```
+## GUID
+```
+373751416080676096
 ```

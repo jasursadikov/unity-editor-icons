@@ -1,6 +1,10 @@
 # CollabPush
 ![](/img/CollabPush.png)
-GUID: `-4221040498047746133`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CollabPush")
+```
+## GUID
+```
+-4221040498047746133
 ```

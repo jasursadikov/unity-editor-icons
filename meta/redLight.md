@@ -1,6 +1,10 @@
 # redLight
 ![](/img/redLight.png)
-GUID: `-678386006895754224`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("redLight")
+```
+## GUID
+```
+-678386006895754224
 ```

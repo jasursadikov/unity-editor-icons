@@ -1,6 +1,10 @@
 # CapsuleCollider2D Icon
 ![](/img/CapsuleCollider2D%20Icon.png)
-GUID: `8554585349213561080`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CapsuleCollider2D Icon")
+```
+## GUID
+```
+8554585349213561080
 ```

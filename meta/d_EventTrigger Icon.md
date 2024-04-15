@@ -1,6 +1,10 @@
 # d_EventTrigger Icon
 ![](/img/d_EventTrigger%20Icon.png)
-GUID: `4845907150990230842`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_EventTrigger Icon")
+```
+## GUID
+```
+4845907150990230842
 ```

@@ -1,6 +1,10 @@
 # MyRegistries@2x
 ![](/img/MyRegistries@2x.png)
-GUID: `-7548035919507005741`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MyRegistries@2x")
+```
+## GUID
+```
+-7548035919507005741
 ```

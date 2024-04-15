@@ -1,6 +1,10 @@
 # CollabChanges Icon
 ![](/img/CollabChanges%20Icon.png)
-GUID: `5187983385517473621`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("CollabChanges Icon")
+```
+## GUID
+```
+5187983385517473621
 ```

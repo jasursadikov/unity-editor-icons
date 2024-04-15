@@ -1,6 +1,10 @@
 # BuildSettings.Switch@2x
 ![](/img/BuildSettings.Switch@2x.png)
-GUID: `4203361953608673628`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Switch@2x")
+```
+## GUID
+```
+4203361953608673628
 ```

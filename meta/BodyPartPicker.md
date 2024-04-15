@@ -1,6 +1,10 @@
 # BodyPartPicker
 ![](/img/BodyPartPicker.png)
-GUID: `-3590433989099234366`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BodyPartPicker")
+```
+## GUID
+```
+-3590433989099234366
 ```

@@ -1,6 +1,10 @@
 # TextureImporter Icon
 ![](/img/TextureImporter%20Icon.png)
-GUID: `-5085678970554643034`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TextureImporter Icon")
+```
+## GUID
+```
+-5085678970554643034
 ```

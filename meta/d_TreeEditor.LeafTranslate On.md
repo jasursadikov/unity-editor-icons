@@ -1,6 +1,10 @@
 # d_TreeEditor.LeafTranslate On
 ![](/img/d_TreeEditor.LeafTranslate%20On.png)
-GUID: `8873277973026539042`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.LeafTranslate On")
+```
+## GUID
+```
+8873277973026539042
 ```

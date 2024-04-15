@@ -1,6 +1,10 @@
 # PreviewPackageInUse@2x
 ![](/img/PreviewPackageInUse@2x.png)
-GUID: `7780749099549934811`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("PreviewPackageInUse@2x")
+```
+## GUID
+```
+7780749099549934811
 ```

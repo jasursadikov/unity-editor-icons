@@ -1,6 +1,10 @@
 # Valid
 ![](/img/Valid.png)
-GUID: `-4824601385504796693`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Valid")
+```
+## GUID
+```
+-4824601385504796693
 ```

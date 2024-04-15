@@ -1,6 +1,10 @@
 # d_curvekeyframeselectedoverlay
 ![](/img/d_curvekeyframeselectedoverlay.png)
-GUID: `7588837242874043407`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_curvekeyframeselectedoverlay")
+```
+## GUID
+```
+7588837242874043407
 ```

@@ -1,6 +1,10 @@
 # d_ViewToolZoom
 ![](/img/d_ViewToolZoom.png)
-GUID: `-5345237920460187022`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ViewToolZoom")
+```
+## GUID
+```
+-5345237920460187022
 ```

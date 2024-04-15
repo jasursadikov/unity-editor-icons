@@ -1,6 +1,10 @@
 # d_ModelImporter Icon
 ![](/img/d_ModelImporter%20Icon.png)
-GUID: `-6573054015446215400`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_ModelImporter Icon")
+```
+## GUID
+```
+-6573054015446215400
 ```

@@ -1,6 +1,10 @@
 # ViewToolOrbit
 ![](/img/ViewToolOrbit.png)
-GUID: `-8695585549448396156`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ViewToolOrbit")
+```
+## GUID
+```
+-8695585549448396156
 ```

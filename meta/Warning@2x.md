@@ -1,6 +1,10 @@
 # Warning@2x
 ![](/img/Warning@2x.png)
-GUID: `-6093991948104476032`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Warning@2x")
+```
+## GUID
+```
+-6093991948104476032
 ```

@@ -1,6 +1,10 @@
 # Right
 ![](/img/Right.png)
-GUID: `7082222803104395321`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Right")
+```
+## GUID
+```
+7082222803104395321
 ```

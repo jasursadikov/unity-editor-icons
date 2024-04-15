@@ -1,6 +1,10 @@
 # HoverBar_LeftRight
 ![](/img/HoverBar_LeftRight.png)
-GUID: `-1153194198751683936`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("HoverBar_LeftRight")
+```
+## GUID
+```
+-1153194198751683936
 ```

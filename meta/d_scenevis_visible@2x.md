@@ -1,6 +1,10 @@
 # d_scenevis_visible@2x
 ![](/img/d_scenevis_visible@2x.png)
-GUID: `-3849592399274969638`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_scenevis_visible@2x")
+```
+## GUID
+```
+-3849592399274969638
 ```

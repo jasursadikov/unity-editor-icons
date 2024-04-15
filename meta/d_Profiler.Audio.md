@@ -1,6 +1,10 @@
 # d_Profiler.Audio
 ![](/img/d_Profiler.Audio.png)
-GUID: `-562467101068280041`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.Audio")
+```
+## GUID
+```
+-562467101068280041
 ```

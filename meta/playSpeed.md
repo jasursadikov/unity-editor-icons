@@ -1,6 +1,10 @@
 # playSpeed
 ![](/img/playSpeed.png)
-GUID: `-8353139027405236758`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("playSpeed")
+```
+## GUID
+```
+-8353139027405236758
 ```

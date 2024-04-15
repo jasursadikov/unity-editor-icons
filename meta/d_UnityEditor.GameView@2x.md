@@ -1,6 +1,10 @@
 # d_UnityEditor.GameView@2x
 ![](/img/d_UnityEditor.GameView@2x.png)
-GUID: `4621777727084837110`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.GameView@2x")
+```
+## GUID
+```
+4621777727084837110
 ```

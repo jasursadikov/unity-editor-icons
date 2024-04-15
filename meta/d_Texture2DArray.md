@@ -1,6 +1,10 @@
 # d_Texture2DArray
 ![](/img/d_Texture2DArray.png)
-GUID: `-2626300816741732290`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Texture2DArray")
+```
+## GUID
+```
+-2626300816741732290
 ```

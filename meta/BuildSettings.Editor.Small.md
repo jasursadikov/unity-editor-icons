@@ -1,6 +1,10 @@
 # BuildSettings.Editor.Small
 ![](/img/BuildSettings.Editor.Small.png)
-GUID: `-6908710258048083175`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Editor.Small")
+```
+## GUID
+```
+-6908710258048083175
 ```

@@ -1,6 +1,10 @@
 # SocialNetworks.UDNLogo
 ![](/img/SocialNetworks.UDNLogo.png)
-GUID: `7973869797197511313`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("SocialNetworks.UDNLogo")
+```
+## GUID
+```
+7973869797197511313
 ```

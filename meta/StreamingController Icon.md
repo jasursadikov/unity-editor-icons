@@ -1,6 +1,10 @@
 # StreamingController Icon
 ![](/img/StreamingController%20Icon.png)
-GUID: `3538215636151026258`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("StreamingController Icon")
+```
+## GUID
+```
+3538215636151026258
 ```

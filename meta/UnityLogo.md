@@ -1,6 +1,10 @@
 # UnityLogo
 ![](/img/UnityLogo.png)
-GUID: `6599072492111524596`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityLogo")
+```
+## GUID
+```
+6599072492111524596
 ```

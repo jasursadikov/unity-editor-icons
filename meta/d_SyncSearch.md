@@ -1,6 +1,10 @@
 # d_SyncSearch
 ![](/img/d_SyncSearch.png)
-GUID: `991412098047641162`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_SyncSearch")
+```
+## GUID
+```
+991412098047641162
 ```

@@ -1,6 +1,10 @@
 # DataMode.Runtime@2x
 ![](/img/DataMode.Runtime@2x.png)
-GUID: `-1528998263592436864`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("DataMode.Runtime@2x")
+```
+## GUID
+```
+-1528998263592436864
 ```

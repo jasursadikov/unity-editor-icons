@@ -1,6 +1,10 @@
 # d_forward
 ![](/img/d_forward.png)
-GUID: `-9064726536009358814`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_forward")
+```
+## GUID
+```
+-9064726536009358814
 ```

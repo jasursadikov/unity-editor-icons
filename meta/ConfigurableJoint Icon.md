@@ -1,6 +1,10 @@
 # ConfigurableJoint Icon
 ![](/img/ConfigurableJoint%20Icon.png)
-GUID: `4991140454903510664`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ConfigurableJoint Icon")
+```
+## GUID
+```
+4991140454903510664
 ```

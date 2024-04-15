@@ -1,6 +1,10 @@
 # GreenCheckmark
 ![](/img/GreenCheckmark.png)
-GUID: `-6203206191837598201`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("GreenCheckmark")
+```
+## GUID
+```
+-6203206191837598201
 ```

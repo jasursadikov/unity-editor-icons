@@ -1,6 +1,10 @@
 # d_Skybox Icon
 ![](/img/d_Skybox%20Icon.png)
-GUID: `3993571464490012678`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Skybox Icon")
+```
+## GUID
+```
+3993571464490012678
 ```

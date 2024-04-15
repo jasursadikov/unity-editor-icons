@@ -1,6 +1,10 @@
 # UnityEditor.DebugInspectorWindow
 ![](/img/UnityEditor.DebugInspectorWindow.png)
-GUID: `1767231226239737562`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.DebugInspectorWindow")
+```
+## GUID
+```
+1767231226239737562
 ```

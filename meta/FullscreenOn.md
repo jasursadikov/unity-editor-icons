@@ -1,6 +1,10 @@
 # FullscreenOn
 ![](/img/FullscreenOn.png)
-GUID: `8843406109982965420`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("FullscreenOn")
+```
+## GUID
+```
+8843406109982965420
 ```

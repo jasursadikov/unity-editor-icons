@@ -1,6 +1,10 @@
 # d_Help@2x
 ![](/img/d_Help@2x.png)
-GUID: `6338754450918422937`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_Help@2x")
+```
+## GUID
+```
+6338754450918422937
 ```

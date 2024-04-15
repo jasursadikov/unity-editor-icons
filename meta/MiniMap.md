@@ -1,6 +1,10 @@
 # MiniMap
 ![](/img/MiniMap.png)
-GUID: `3159934943626921594`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("MiniMap")
+```
+## GUID
+```
+3159934943626921594
 ```

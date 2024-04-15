@@ -1,6 +1,10 @@
 # NetworkView Icon
 ![](/img/NetworkView%20Icon.png)
-GUID: `4848012447929653673`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("NetworkView Icon")
+```
+## GUID
+```
+4848012447929653673
 ```

@@ -1,6 +1,10 @@
 # Image Icon
 ![](/img/Image%20Icon.png)
-GUID: `442822075502377251`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Image Icon")
+```
+## GUID
+```
+442822075502377251
 ```

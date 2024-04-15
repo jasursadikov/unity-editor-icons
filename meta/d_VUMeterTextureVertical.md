@@ -1,6 +1,10 @@
 # d_VUMeterTextureVertical
 ![](/img/d_VUMeterTextureVertical.png)
-GUID: `-2600449814269487935`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("d_VUMeterTextureVertical")
+```
+## GUID
+```
+-2600449814269487935
 ```

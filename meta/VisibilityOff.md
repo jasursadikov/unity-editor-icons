@@ -1,6 +1,10 @@
 # VisibilityOff
 ![](/img/VisibilityOff.png)
-GUID: `7150048286184752995`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("VisibilityOff")
+```
+## GUID
+```
+7150048286184752995
 ```

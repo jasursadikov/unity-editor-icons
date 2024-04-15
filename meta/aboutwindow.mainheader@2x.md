@@ -1,6 +1,10 @@
 # aboutwindow.mainheader@2x
 ![](/img/aboutwindow.mainheader@2x.png)
-GUID: `-6891246526051333256`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("aboutwindow.mainheader@2x")
+```
+## GUID
+```
+-6891246526051333256
 ```

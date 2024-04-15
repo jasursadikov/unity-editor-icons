@@ -1,6 +1,10 @@
 # Tile Icon
 ![](/img/Tile%20Icon.png)
-GUID: `1192063019172009464`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Tile Icon")
+```
+## GUID
+```
+1192063019172009464
 ```

@@ -1,6 +1,10 @@
 # AssemblyLock
 ![](/img/AssemblyLock.png)
-GUID: `-7772047616066763351`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("AssemblyLock")
+```
+## GUID
+```
+-7772047616066763351
 ```

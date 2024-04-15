@@ -1,6 +1,10 @@
 # TilemapRenderer Icon
 ![](/img/TilemapRenderer%20Icon.png)
-GUID: `-8893579420449532881`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("TilemapRenderer Icon")
+```
+## GUID
+```
+-8893579420449532881
 ```

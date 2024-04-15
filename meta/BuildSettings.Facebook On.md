@@ -1,6 +1,10 @@
 # BuildSettings.Facebook On
 ![](/img/BuildSettings.Facebook%20On.png)
-GUID: `-7859711678534788915`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Facebook On")
+```
+## GUID
+```
+-7859711678534788915
 ```

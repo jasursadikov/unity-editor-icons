@@ -1,6 +1,10 @@
 # ClothInspector.PaintTool
 ![](/img/ClothInspector.PaintTool.png)
-GUID: `1624265540036763281`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("ClothInspector.PaintTool")
+```
+## GUID
+```
+1624265540036763281
 ```

@@ -1,6 +1,10 @@
 # Exposure
 ![](/img/Exposure.png)
-GUID: `4855708316991231517`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Exposure")
+```
+## GUID
+```
+4855708316991231517
 ```

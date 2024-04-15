@@ -1,6 +1,10 @@
 # BuildSettings.Switch
 ![](/img/BuildSettings.Switch.png)
-GUID: `5517785097875794962`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Switch")
+```
+## GUID
+```
+5517785097875794962
 ```

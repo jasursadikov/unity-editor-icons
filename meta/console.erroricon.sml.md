@@ -1,6 +1,10 @@
 # console.erroricon.sml
 ![](/img/console.erroricon.sml.png)
-GUID: `-2005373149481181617`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("console.erroricon.sml")
+```
+## GUID
+```
+-2005373149481181617
 ```

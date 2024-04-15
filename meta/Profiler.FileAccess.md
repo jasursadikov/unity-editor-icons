@@ -1,6 +1,10 @@
 # Profiler.FileAccess
 ![](/img/Profiler.FileAccess.png)
-GUID: `-8158706814767133365`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Profiler.FileAccess")
+```
+## GUID
+```
+-8158706814767133365
 ```

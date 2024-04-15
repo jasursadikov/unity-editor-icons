@@ -1,6 +1,10 @@
 # UnityEditor.FindDependencies
 ![](/img/UnityEditor.FindDependencies.png)
-GUID: `-982621810526125377`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.FindDependencies")
+```
+## GUID
+```
+-982621810526125377
 ```

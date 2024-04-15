@@ -1,6 +1,10 @@
 # Scene
 ![](/img/Scene.png)
-GUID: `-5240557991193983209`
-```
+
+``` CSharp
 EditorGUIUtility.IconContent("Scene")
+```
+## GUID
+```
+-5240557991193983209
 ```
