@@ -1,5 +1,5 @@
-# d_File
-![](/img/d_File.png)
+# d_File `16x16`
+<img src="/img/d_File.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_File")

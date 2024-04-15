@@ -1,5 +1,5 @@
-# d_UnityEditor.FindDependencies
-![](/img/d_UnityEditor.FindDependencies.png)
+# d_UnityEditor.FindDependencies `16x16`
+<img src="/img/d_UnityEditor.FindDependencies.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.FindDependencies")

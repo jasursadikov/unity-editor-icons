@@ -1,5 +1,5 @@
-# d_scenepicking_notpickable-mixed
-![](/img/d_scenepicking_notpickable-mixed.png)
+# d_scenepicking_notpickable-mixed `16x16`
+<img src="/img/d_scenepicking_notpickable-mixed.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_scenepicking_notpickable-mixed")

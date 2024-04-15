@@ -1,5 +1,5 @@
-# BuildSettings.WebGL.Small
-![](/img/BuildSettings.WebGL.Small.png)
+# BuildSettings.WebGL.Small `16x16`
+<img src="/img/BuildSettings.WebGL.Small.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.WebGL.Small")

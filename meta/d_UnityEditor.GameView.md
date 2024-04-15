@@ -1,5 +1,5 @@
-# d_UnityEditor.GameView
-![](/img/d_UnityEditor.GameView.png)
+# d_UnityEditor.GameView `16x16`
+<img src="/img/d_UnityEditor.GameView.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_UnityEditor.GameView")

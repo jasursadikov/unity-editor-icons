@@ -1,5 +1,5 @@
-# HoverBar_Down
-![](/img/HoverBar_Down.png)
+# HoverBar_Down `32x32`
+<img src="/img/HoverBar_Down.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("HoverBar_Down")

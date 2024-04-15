@@ -1,5 +1,5 @@
-# CreateAddNew
-![](/img/CreateAddNew.png)
+# CreateAddNew `16x16`
+<img src="/img/CreateAddNew.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CreateAddNew")

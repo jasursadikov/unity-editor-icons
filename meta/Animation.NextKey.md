@@ -1,5 +1,5 @@
-# Animation.NextKey
-![](/img/Animation.NextKey.png)
+# Animation.NextKey `16x16`
+<img src="/img/Animation.NextKey.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Animation.NextKey")

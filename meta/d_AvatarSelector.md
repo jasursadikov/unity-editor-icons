@@ -1,5 +1,5 @@
-# d_AvatarSelector
-![](/img/d_AvatarSelector.png)
+# d_AvatarSelector `16x16`
+<img src="/img/d_AvatarSelector.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_AvatarSelector")

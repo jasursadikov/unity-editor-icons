@@ -1,5 +1,5 @@
-# d_preAudioPlayOn
-![](/img/d_preAudioPlayOn.png)
+# d_preAudioPlayOn `16x16`
+<img src="/img/d_preAudioPlayOn.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_preAudioPlayOn")

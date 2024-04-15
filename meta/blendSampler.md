@@ -1,5 +1,5 @@
-# blendSampler
-![](/img/blendSampler.png)
+# blendSampler `11x11`
+<img src="/img/blendSampler.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("blendSampler")

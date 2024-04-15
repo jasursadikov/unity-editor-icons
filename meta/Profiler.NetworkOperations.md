@@ -1,5 +1,5 @@
-# Profiler.NetworkOperations
-![](/img/Profiler.NetworkOperations.png)
+# Profiler.NetworkOperations `16x16`
+<img src="/img/Profiler.NetworkOperations.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.NetworkOperations")

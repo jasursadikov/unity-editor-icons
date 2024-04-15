@@ -1,5 +1,5 @@
-# d_TreeEditor.BranchTranslate
-![](/img/d_TreeEditor.BranchTranslate.png)
+# d_TreeEditor.BranchTranslate `19x18`
+<img src="/img/d_TreeEditor.BranchTranslate.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.BranchTranslate")

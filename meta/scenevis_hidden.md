@@ -1,5 +1,5 @@
-# scenevis_hidden
-![](/img/scenevis_hidden.png)
+# scenevis_hidden `16x16`
+<img src="/img/scenevis_hidden.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("scenevis_hidden")

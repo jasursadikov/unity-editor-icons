@@ -1,5 +1,5 @@
-# ToggleGroup Icon
-![](/img/ToggleGroup%20Icon.png)
+# ToggleGroup Icon `32x32`
+<img src="/img/ToggleGroup%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ToggleGroup Icon")

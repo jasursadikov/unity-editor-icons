@@ -1,5 +1,5 @@
-# StepLeftButton-On
-![](/img/StepLeftButton-On.png)
+# StepLeftButton-On `21x20`
+<img src="/img/StepLeftButton-On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("StepLeftButton-On")

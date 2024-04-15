@@ -1,5 +1,5 @@
-# DebuggerEnabled
-![](/img/DebuggerEnabled.png)
+# DebuggerEnabled `16x16`
+<img src="/img/DebuggerEnabled.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DebuggerEnabled")

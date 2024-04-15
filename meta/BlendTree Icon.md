@@ -1,5 +1,5 @@
-# BlendTree Icon
-![](/img/BlendTree%20Icon.png)
+# BlendTree Icon `64x64`
+<img src="/img/BlendTree%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BlendTree Icon")

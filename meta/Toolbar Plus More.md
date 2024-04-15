@@ -1,5 +1,5 @@
-# Toolbar Plus More
-![](/img/Toolbar%20Plus%20More.png)
+# Toolbar Plus More `16x16`
+<img src="/img/Toolbar%20Plus%20More.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Toolbar Plus More")

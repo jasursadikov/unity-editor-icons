@@ -1,5 +1,5 @@
-# BuildSettings.Editor
-![](/img/BuildSettings.Editor.png)
+# BuildSettings.Editor `32x32`
+<img src="/img/BuildSettings.Editor.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Editor")

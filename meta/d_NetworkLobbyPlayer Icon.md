@@ -1,5 +1,5 @@
-# d_NetworkLobbyPlayer Icon
-![](/img/d_NetworkLobbyPlayer%20Icon.png)
+# d_NetworkLobbyPlayer Icon `64x64`
+<img src="/img/d_NetworkLobbyPlayer%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_NetworkLobbyPlayer Icon")

@@ -1,5 +1,5 @@
-# scene-template-light
-![](/img/scene-template-light.png)
+# scene-template-light `256x256`
+<img src="/img/scene-template-light.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("scene-template-light")

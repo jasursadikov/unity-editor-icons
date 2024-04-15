@@ -1,5 +1,5 @@
-# Audio Mixer
-![](/img/Audio%20Mixer.png)
+# Audio Mixer `16x16`
+<img src="/img/Audio%20Mixer.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Audio Mixer")

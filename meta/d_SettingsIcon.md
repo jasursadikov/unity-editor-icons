@@ -1,5 +1,5 @@
-# d_SettingsIcon
-![](/img/d_SettingsIcon.png)
+# d_SettingsIcon `16x16`
+<img src="/img/d_SettingsIcon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_SettingsIcon")

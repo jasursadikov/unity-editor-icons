@@ -1,5 +1,5 @@
-# Profiler.UI
-![](/img/Profiler.UI.png)
+# Profiler.UI `16x16`
+<img src="/img/Profiler.UI.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.UI")

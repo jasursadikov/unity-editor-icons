@@ -1,5 +1,5 @@
-# BuildSettings.iPhone.Small
-![](/img/BuildSettings.iPhone.Small.png)
+# BuildSettings.iPhone.Small `16x16`
+<img src="/img/BuildSettings.iPhone.Small.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.iPhone.Small")

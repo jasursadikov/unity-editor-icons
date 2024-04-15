@@ -1,5 +1,5 @@
-# Play
-![](/img/Play.png)
+# Play `16x16`
+<img src="/img/Play.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Play")

@@ -1,5 +1,5 @@
-# RelativeJoint2D Icon
-![](/img/RelativeJoint2D%20Icon.png)
+# RelativeJoint2D Icon `64x64`
+<img src="/img/RelativeJoint2D%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("RelativeJoint2D Icon")

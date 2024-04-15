@@ -1,5 +1,5 @@
-# d_Import@2x
-![](/img/d_Import@2x.png)
+# d_Import@2x `32x32`
+<img src="/img/d_Import@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Import@2x")

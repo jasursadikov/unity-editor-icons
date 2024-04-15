@@ -1,5 +1,5 @@
-# P4_Conflicted
-![](/img/P4_Conflicted.png)
+# P4_Conflicted `16x16`
+<img src="/img/P4_Conflicted.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("P4_Conflicted")

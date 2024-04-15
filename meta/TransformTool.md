@@ -1,5 +1,5 @@
-# TransformTool
-![](/img/TransformTool.png)
+# TransformTool `16x16`
+<img src="/img/TransformTool.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TransformTool")

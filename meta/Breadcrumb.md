@@ -1,5 +1,5 @@
-# Breadcrumb
-![](/img/Breadcrumb.png)
+# Breadcrumb `16x16`
+<img src="/img/Breadcrumb.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Breadcrumb")

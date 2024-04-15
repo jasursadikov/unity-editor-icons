@@ -1,5 +1,5 @@
-# package_installed
-![](/img/package_installed.png)
+# package_installed `64x64`
+<img src="/img/package_installed.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("package_installed")

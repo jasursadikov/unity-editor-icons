@@ -1,5 +1,5 @@
-# sv_icon_name5
-![](/img/sv_icon_name5.png)
+# sv_icon_name5 `27x12`
+<img src="/img/sv_icon_name5.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("sv_icon_name5")

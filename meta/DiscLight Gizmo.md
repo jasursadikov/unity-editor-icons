@@ -1,5 +1,5 @@
-# DiscLight Gizmo
-![](/img/DiscLight%20Gizmo.png)
+# DiscLight Gizmo `256x256`
+<img src="/img/DiscLight%20Gizmo.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DiscLight Gizmo")

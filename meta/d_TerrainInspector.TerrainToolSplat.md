@@ -1,5 +1,5 @@
-# d_TerrainInspector.TerrainToolSplat
-![](/img/d_TerrainInspector.TerrainToolSplat.png)
+# d_TerrainInspector.TerrainToolSplat `16x16`
+<img src="/img/d_TerrainInspector.TerrainToolSplat.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolSplat")

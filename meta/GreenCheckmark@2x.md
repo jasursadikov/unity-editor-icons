@@ -1,5 +1,5 @@
-# GreenCheckmark@2x
-![](/img/GreenCheckmark@2x.png)
+# GreenCheckmark@2x `32x32`
+<img src="/img/GreenCheckmark@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GreenCheckmark@2x")

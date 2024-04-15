@@ -1,5 +1,5 @@
-# TerrainCollider Icon
-![](/img/TerrainCollider%20Icon.png)
+# TerrainCollider Icon `64x64`
+<img src="/img/TerrainCollider%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TerrainCollider Icon")

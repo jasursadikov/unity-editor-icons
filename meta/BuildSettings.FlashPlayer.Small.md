@@ -1,5 +1,5 @@
-# BuildSettings.FlashPlayer.Small
-![](/img/BuildSettings.FlashPlayer.Small.png)
+# BuildSettings.FlashPlayer.Small `16x16`
+<img src="/img/BuildSettings.FlashPlayer.Small.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.FlashPlayer.Small")

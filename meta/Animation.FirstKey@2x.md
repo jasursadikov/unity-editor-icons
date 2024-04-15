@@ -1,5 +1,5 @@
-# Animation.FirstKey@2x
-![](/img/Animation.FirstKey@2x.png)
+# Animation.FirstKey@2x `32x32`
+<img src="/img/Animation.FirstKey@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Animation.FirstKey@2x")

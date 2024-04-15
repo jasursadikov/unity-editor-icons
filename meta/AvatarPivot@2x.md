@@ -1,5 +1,5 @@
-# AvatarPivot@2x
-![](/img/AvatarPivot@2x.png)
+# AvatarPivot@2x `32x32`
+<img src="/img/AvatarPivot@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarPivot@2x")

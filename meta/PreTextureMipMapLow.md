@@ -1,5 +1,5 @@
-# PreTextureMipMapLow
-![](/img/PreTextureMipMapLow.png)
+# PreTextureMipMapLow `16x16`
+<img src="/img/PreTextureMipMapLow.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PreTextureMipMapLow")

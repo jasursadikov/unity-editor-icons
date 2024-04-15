@@ -1,5 +1,5 @@
-# editicon.sml
-![](/img/editicon.sml.png)
+# editicon.sml `16x16`
+<img src="/img/editicon.sml.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("editicon.sml")

@@ -1,5 +1,5 @@
-# Project
-![](/img/Project.png)
+# Project `16x16`
+<img src="/img/Project.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Project")

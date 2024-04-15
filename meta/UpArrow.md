@@ -1,5 +1,5 @@
-# UpArrow
-![](/img/UpArrow.png)
+# UpArrow `26x21`
+<img src="/img/UpArrow.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("UpArrow")

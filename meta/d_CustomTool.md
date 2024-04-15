@@ -1,5 +1,5 @@
-# d_CustomTool
-![](/img/d_CustomTool.png)
+# d_CustomTool `16x16`
+<img src="/img/d_CustomTool.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_CustomTool")

@@ -1,5 +1,5 @@
-# ViewOptions
-![](/img/ViewOptions.png)
+# ViewOptions `16x16`
+<img src="/img/ViewOptions.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ViewOptions")

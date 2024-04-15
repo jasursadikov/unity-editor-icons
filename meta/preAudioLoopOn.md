@@ -1,5 +1,5 @@
-# preAudioLoopOn
-![](/img/preAudioLoopOn.png)
+# preAudioLoopOn `16x16`
+<img src="/img/preAudioLoopOn.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("preAudioLoopOn")

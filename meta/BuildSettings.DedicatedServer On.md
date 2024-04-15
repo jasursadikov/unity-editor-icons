@@ -1,5 +1,5 @@
-# BuildSettings.DedicatedServer On
-![](/img/BuildSettings.DedicatedServer%20On.png)
+# BuildSettings.DedicatedServer On `32x32`
+<img src="/img/BuildSettings.DedicatedServer%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.DedicatedServer On")

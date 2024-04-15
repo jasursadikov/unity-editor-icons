@@ -1,5 +1,5 @@
-# TestPassed
-![](/img/TestPassed.png)
+# TestPassed `16x16`
+<img src="/img/TestPassed.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TestPassed")

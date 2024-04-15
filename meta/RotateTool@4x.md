@@ -1,5 +1,5 @@
-# RotateTool@4x
-![](/img/RotateTool@4x.png)
+# RotateTool@4x `64x64`
+<img src="/img/RotateTool@4x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("RotateTool@4x")

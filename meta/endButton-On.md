@@ -1,5 +1,5 @@
-# endButton-On
-![](/img/endButton-On.png)
+# endButton-On `21x20`
+<img src="/img/endButton-On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("endButton-On")

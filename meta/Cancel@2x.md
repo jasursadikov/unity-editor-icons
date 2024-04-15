@@ -1,5 +1,5 @@
-# Cancel@2x
-![](/img/Cancel@2x.png)
+# Cancel@2x `32x32`
+<img src="/img/Cancel@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Cancel@2x")

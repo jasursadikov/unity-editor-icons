@@ -1,5 +1,5 @@
-# d_Scrollbar Icon
-![](/img/d_Scrollbar%20Icon.png)
+# d_Scrollbar Icon `32x32`
+<img src="/img/d_Scrollbar%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Scrollbar Icon")

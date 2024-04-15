@@ -1,5 +1,5 @@
-# d_BuildSettings.Web
-![](/img/d_BuildSettings.Web.png)
+# d_BuildSettings.Web `32x32`
+<img src="/img/d_BuildSettings.Web.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.Web")

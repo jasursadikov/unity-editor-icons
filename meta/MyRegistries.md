@@ -1,5 +1,5 @@
-# MyRegistries
-![](/img/MyRegistries.png)
+# MyRegistries `16x16`
+<img src="/img/MyRegistries.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("MyRegistries")

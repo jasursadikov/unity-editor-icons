@@ -1,5 +1,5 @@
-# d_FilterByLabel
-![](/img/d_FilterByLabel.png)
+# d_FilterByLabel `16x16`
+<img src="/img/d_FilterByLabel.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_FilterByLabel")

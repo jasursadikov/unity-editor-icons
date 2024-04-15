@@ -1,5 +1,5 @@
-# Customized
-![](/img/Customized.png)
+# Customized `16x16`
+<img src="/img/Customized.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Customized")

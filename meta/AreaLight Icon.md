@@ -1,5 +1,5 @@
-# AreaLight Icon
-![](/img/AreaLight%20Icon.png)
+# AreaLight Icon `64x64`
+<img src="/img/AreaLight%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AreaLight Icon")

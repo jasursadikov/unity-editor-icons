@@ -1,5 +1,5 @@
-# d_TextScriptImporter Icon
-![](/img/d_TextScriptImporter%20Icon.png)
+# d_TextScriptImporter Icon `64x64`
+<img src="/img/d_TextScriptImporter%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_TextScriptImporter Icon")

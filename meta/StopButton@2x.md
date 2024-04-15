@@ -1,5 +1,5 @@
-# StopButton@2x
-![](/img/StopButton@2x.png)
+# StopButton@2x `32x32`
+<img src="/img/StopButton@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("StopButton@2x")

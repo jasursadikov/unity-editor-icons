@@ -1,5 +1,5 @@
-# Cloth Icon
-![](/img/Cloth%20Icon.png)
+# Cloth Icon `64x64`
+<img src="/img/Cloth%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Cloth Icon")

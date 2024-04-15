@@ -1,5 +1,5 @@
-# d_SceneView2D
-![](/img/d_SceneView2D.png)
+# d_SceneView2D `16x16`
+<img src="/img/d_SceneView2D.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_SceneView2D")

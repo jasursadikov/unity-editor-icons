@@ -1,5 +1,5 @@
-# SocialNetworks.UDNLogo
-![](/img/SocialNetworks.UDNLogo.png)
+# SocialNetworks.UDNLogo `142x149`
+<img src="/img/SocialNetworks.UDNLogo.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SocialNetworks.UDNLogo")

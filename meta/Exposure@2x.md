@@ -1,5 +1,5 @@
-# Exposure@2x
-![](/img/Exposure@2x.png)
+# Exposure@2x `32x32`
+<img src="/img/Exposure@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Exposure@2x")

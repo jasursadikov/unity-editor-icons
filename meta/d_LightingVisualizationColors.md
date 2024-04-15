@@ -1,5 +1,5 @@
-# d_LightingVisualizationColors
-![](/img/d_LightingVisualizationColors.png)
+# d_LightingVisualizationColors `16x16`
+<img src="/img/d_LightingVisualizationColors.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_LightingVisualizationColors")

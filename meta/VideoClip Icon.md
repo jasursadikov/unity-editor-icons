@@ -1,5 +1,5 @@
-# VideoClip Icon
-![](/img/VideoClip%20Icon.png)
+# VideoClip Icon `128x128`
+<img src="/img/VideoClip%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("VideoClip Icon")

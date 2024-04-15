@@ -1,5 +1,5 @@
-# AudioReverbZone Icon
-![](/img/AudioReverbZone%20Icon.png)
+# AudioReverbZone Icon `64x64`
+<img src="/img/AudioReverbZone%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AudioReverbZone Icon")

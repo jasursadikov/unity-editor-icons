@@ -1,5 +1,5 @@
-# Profiler.VirtualTexturing
-![](/img/Profiler.VirtualTexturing.png)
+# Profiler.VirtualTexturing `16x16`
+<img src="/img/Profiler.VirtualTexturing.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.VirtualTexturing")

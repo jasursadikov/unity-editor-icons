@@ -1,5 +1,5 @@
-# LightingVisualization
-![](/img/LightingVisualization.png)
+# LightingVisualization `16x16`
+<img src="/img/LightingVisualization.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("LightingVisualization")

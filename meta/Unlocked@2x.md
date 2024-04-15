@@ -1,5 +1,5 @@
-# Unlocked@2x
-![](/img/Unlocked@2x.png)
+# Unlocked@2x `32x32`
+<img src="/img/Unlocked@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Unlocked@2x")

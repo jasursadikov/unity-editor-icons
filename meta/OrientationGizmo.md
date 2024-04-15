@@ -1,5 +1,5 @@
-# OrientationGizmo
-![](/img/OrientationGizmo.png)
+# OrientationGizmo `16x16`
+<img src="/img/OrientationGizmo.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("OrientationGizmo")

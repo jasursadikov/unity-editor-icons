@@ -1,5 +1,5 @@
-# StepButton@2x
-![](/img/StepButton@2x.png)
+# StepButton@2x `32x32`
+<img src="/img/StepButton@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("StepButton@2x")

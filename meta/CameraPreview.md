@@ -1,5 +1,5 @@
-# CameraPreview
-![](/img/CameraPreview.png)
+# CameraPreview `16x16`
+<img src="/img/CameraPreview.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CameraPreview")

@@ -1,5 +1,5 @@
-# d_FrameCapture
-![](/img/d_FrameCapture.png)
+# d_FrameCapture `16x16`
+<img src="/img/d_FrameCapture.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_FrameCapture")

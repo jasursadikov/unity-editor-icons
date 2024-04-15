@@ -1,5 +1,5 @@
-# MetaFile Icon
-![](/img/MetaFile%20Icon.png)
+# MetaFile Icon `64x64`
+<img src="/img/MetaFile%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("MetaFile Icon")

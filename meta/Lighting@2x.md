@@ -1,5 +1,5 @@
-# Lighting@2x
-![](/img/Lighting@2x.png)
+# Lighting@2x `32x32`
+<img src="/img/Lighting@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Lighting@2x")

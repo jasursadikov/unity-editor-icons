@@ -1,5 +1,5 @@
-# BuildSettings.QNX
-![](/img/BuildSettings.QNX.png)
+# BuildSettings.QNX `32x32`
+<img src="/img/BuildSettings.QNX.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.QNX")

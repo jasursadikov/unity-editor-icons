@@ -1,5 +1,5 @@
-# d_StandardTools
-![](/img/d_StandardTools.png)
+# d_StandardTools `16x16`
+<img src="/img/d_StandardTools.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_StandardTools")

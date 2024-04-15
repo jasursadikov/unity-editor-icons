@@ -1,5 +1,5 @@
-# d_Options
-![](/img/d_Options.png)
+# d_Options `16x16`
+<img src="/img/d_Options.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Options")

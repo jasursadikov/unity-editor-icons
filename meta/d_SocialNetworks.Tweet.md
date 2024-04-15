@@ -1,5 +1,5 @@
-# d_SocialNetworks.Tweet
-![](/img/d_SocialNetworks.Tweet.png)
+# d_SocialNetworks.Tweet `61x17`
+<img src="/img/d_SocialNetworks.Tweet.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_SocialNetworks.Tweet")

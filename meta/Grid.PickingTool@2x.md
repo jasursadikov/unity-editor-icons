@@ -1,5 +1,5 @@
-# Grid.PickingTool@2x
-![](/img/Grid.PickingTool@2x.png)
+# Grid.PickingTool@2x `32x32`
+<img src="/img/Grid.PickingTool@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Grid.PickingTool@2x")

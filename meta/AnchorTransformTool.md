@@ -1,5 +1,5 @@
-# AnchorTransformTool
-![](/img/AnchorTransformTool.png)
+# AnchorTransformTool `16x16`
+<img src="/img/AnchorTransformTool.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AnchorTransformTool")

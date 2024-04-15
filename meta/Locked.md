@@ -1,5 +1,5 @@
-# Locked
-![](/img/Locked.png)
+# Locked `16x16`
+<img src="/img/Locked.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Locked")

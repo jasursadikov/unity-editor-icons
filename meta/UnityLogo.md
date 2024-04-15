@@ -1,5 +1,5 @@
-# UnityLogo
-![](/img/UnityLogo.png)
+# UnityLogo `67x67`
+<img src="/img/UnityLogo.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("UnityLogo")

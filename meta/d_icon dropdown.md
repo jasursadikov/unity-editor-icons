@@ -1,5 +1,5 @@
-# d_icon dropdown
-![](/img/d_icon%20dropdown.png)
+# d_icon dropdown `12x12`
+<img src="/img/d_icon%20dropdown.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_icon dropdown")

@@ -1,5 +1,5 @@
-# d_AssemblyLock
-![](/img/d_AssemblyLock.png)
+# d_AssemblyLock `16x16`
+<img src="/img/d_AssemblyLock.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_AssemblyLock")

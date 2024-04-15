@@ -1,5 +1,5 @@
-# alertDialog@2x
-![](/img/alertDialog@2x.png)
+# alertDialog@2x `124x112`
+<img src="/img/alertDialog@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("alertDialog@2x")

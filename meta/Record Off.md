@@ -1,5 +1,5 @@
-# Record Off
-![](/img/Record%20Off.png)
+# Record Off `16x16`
+<img src="/img/Record%20Off.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Record Off")

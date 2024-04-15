@@ -1,5 +1,5 @@
-# BuildSettings.WebGL On
-![](/img/BuildSettings.WebGL%20On.png)
+# BuildSettings.WebGL On `32x32`
+<img src="/img/BuildSettings.WebGL%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.WebGL On")

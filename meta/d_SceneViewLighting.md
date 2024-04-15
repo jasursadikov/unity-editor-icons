@@ -1,5 +1,5 @@
-# d_SceneViewLighting
-![](/img/d_SceneViewLighting.png)
+# d_SceneViewLighting `16x16`
+<img src="/img/d_SceneViewLighting.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_SceneViewLighting")

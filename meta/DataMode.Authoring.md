@@ -1,5 +1,5 @@
-# DataMode.Authoring
-![](/img/DataMode.Authoring.png)
+# DataMode.Authoring `16x16`
+<img src="/img/DataMode.Authoring.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DataMode.Authoring")

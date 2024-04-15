@@ -1,5 +1,5 @@
-# Profiler.Audio
-![](/img/Profiler.Audio.png)
+# Profiler.Audio `16x16`
+<img src="/img/Profiler.Audio.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Audio")

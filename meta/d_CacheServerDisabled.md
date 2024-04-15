@@ -1,5 +1,5 @@
-# d_CacheServerDisabled
-![](/img/d_CacheServerDisabled.png)
+# d_CacheServerDisabled `16x16`
+<img src="/img/d_CacheServerDisabled.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_CacheServerDisabled")

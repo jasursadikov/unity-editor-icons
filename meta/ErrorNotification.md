@@ -1,5 +1,5 @@
-# ErrorNotification
-![](/img/ErrorNotification.png)
+# ErrorNotification `16x16`
+<img src="/img/ErrorNotification.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ErrorNotification")

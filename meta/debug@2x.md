@@ -1,5 +1,5 @@
-# debug@2x
-![](/img/debug@2x.png)
+# debug@2x `32x32`
+<img src="/img/debug@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("debug@2x")

@@ -1,5 +1,5 @@
-# d_GameViewAudio On
-![](/img/d_GameViewAudio%20On.png)
+# d_GameViewAudio On `16x16`
+<img src="/img/d_GameViewAudio%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_GameViewAudio On")

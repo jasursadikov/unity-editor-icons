@@ -1,5 +1,5 @@
-# d_AudioImporter Icon
-![](/img/d_AudioImporter%20Icon.png)
+# d_AudioImporter Icon `64x64`
+<img src="/img/d_AudioImporter%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_AudioImporter Icon")

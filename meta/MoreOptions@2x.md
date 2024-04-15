@@ -1,5 +1,5 @@
-# MoreOptions@2x
-![](/img/MoreOptions@2x.png)
+# MoreOptions@2x `32x32`
+<img src="/img/MoreOptions@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("MoreOptions@2x")

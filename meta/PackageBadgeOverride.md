@@ -1,5 +1,5 @@
-# PackageBadgeOverride
-![](/img/PackageBadgeOverride.png)
+# PackageBadgeOverride `49x15`
+<img src="/img/PackageBadgeOverride.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PackageBadgeOverride")

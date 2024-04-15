@@ -1,5 +1,5 @@
-# MoveTool on
-![](/img/MoveTool%20on.png)
+# MoveTool on `16x16`
+<img src="/img/MoveTool%20on.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("MoveTool on")

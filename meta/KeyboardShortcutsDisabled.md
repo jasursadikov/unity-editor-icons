@@ -1,5 +1,5 @@
-# KeyboardShortcutsDisabled
-![](/img/KeyboardShortcutsDisabled.png)
+# KeyboardShortcutsDisabled `16x16`
+<img src="/img/KeyboardShortcutsDisabled.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("KeyboardShortcutsDisabled")

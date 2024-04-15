@@ -1,5 +1,5 @@
-# RightArm
-![](/img/RightArm.png)
+# RightArm `180x378`
+<img src="/img/RightArm.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("RightArm")

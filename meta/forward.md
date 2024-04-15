@@ -1,5 +1,5 @@
-# forward
-![](/img/forward.png)
+# forward `9x11`
+<img src="/img/forward.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("forward")

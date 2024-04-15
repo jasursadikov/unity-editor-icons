@@ -1,5 +1,5 @@
-# d_OcclusionPortal Icon
-![](/img/d_OcclusionPortal%20Icon.png)
+# d_OcclusionPortal Icon `64x64`
+<img src="/img/d_OcclusionPortal%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_OcclusionPortal Icon")

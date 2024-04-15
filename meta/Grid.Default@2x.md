@@ -1,5 +1,5 @@
-# Grid.Default@2x
-![](/img/Grid.Default@2x.png)
+# Grid.Default@2x `32x32`
+<img src="/img/Grid.Default@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Grid.Default@2x")

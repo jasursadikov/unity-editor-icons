@@ -1,5 +1,5 @@
-# winbtn_win_min_a
-![](/img/winbtn_win_min_a.png)
+# winbtn_win_min_a `13x13`
+<img src="/img/winbtn_win_min_a.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("winbtn_win_min_a")

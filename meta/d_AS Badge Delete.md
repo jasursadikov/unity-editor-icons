@@ -1,5 +1,5 @@
-# d_AS Badge Delete
-![](/img/d_AS%20Badge%20Delete.png)
+# d_AS Badge Delete `30x9`
+<img src="/img/d_AS%20Badge%20Delete.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_AS Badge Delete")

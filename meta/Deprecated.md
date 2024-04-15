@@ -1,5 +1,5 @@
-# Deprecated
-![](/img/Deprecated.png)
+# Deprecated `16x16`
+<img src="/img/Deprecated.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Deprecated")

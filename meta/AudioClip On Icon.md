@@ -1,5 +1,5 @@
-# AudioClip On Icon
-![](/img/AudioClip%20On%20Icon.png)
+# AudioClip On Icon `256x256`
+<img src="/img/AudioClip%20On%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AudioClip On Icon")

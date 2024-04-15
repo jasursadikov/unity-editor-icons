@@ -1,5 +1,5 @@
-# ConstantForce2D Icon
-![](/img/ConstantForce2D%20Icon.png)
+# ConstantForce2D Icon `128x128`
+<img src="/img/ConstantForce2D%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ConstantForce2D Icon")

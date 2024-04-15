@@ -1,5 +1,5 @@
-# DataMode.Authoring@2x
-![](/img/DataMode.Authoring@2x.png)
+# DataMode.Authoring@2x `32x32`
+<img src="/img/DataMode.Authoring@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DataMode.Authoring@2x")

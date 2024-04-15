@@ -1,5 +1,5 @@
-# Unity-AssetStore-Originals-Logo-White
-![](/img/Unity-AssetStore-Originals-Logo-White.png)
+# Unity-AssetStore-Originals-Logo-White `155x24`
+<img src="/img/Unity-AssetStore-Originals-Logo-White.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Unity-AssetStore-Originals-Logo-White")

@@ -1,5 +1,5 @@
-# DotSelection
-![](/img/DotSelection.png)
+# DotSelection `19x19`
+<img src="/img/DotSelection.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DotSelection")

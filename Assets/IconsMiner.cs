@@ -76,7 +76,8 @@ public static class IconsMiner
 
                     var fileId = GetFileId(guidMaterialId);
                     iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
-                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon.name, fileId)}) ");
+                    var descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon, fileId);
+                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) ");
 
                     if (n >= coloumns - 1)
                     {
@@ -106,13 +107,13 @@ public static class IconsMiner
         }
     }
 
-    private static string WriteIconDescriptionFile(string path, string pathToIcon, string iconName, string fileId)
+    private static string WriteIconDescriptionFile(string path, string pathToIcon, Texture2D icon, string fileId)
     {
-        iconDescriptionBuilder.AppendLine($"# {iconName}");
-        iconDescriptionBuilder.AppendLine($"![](/{pathToIcon})");
+        iconDescriptionBuilder.AppendLine($"# {icon.name} `{icon.width}x{icon.height}`");
+        iconDescriptionBuilder.AppendLine($"<img src=\"/{pathToIcon}\" width=512 height=512>");
         iconDescriptionBuilder.AppendLine();
         iconDescriptionBuilder.AppendLine("``` CSharp");
-        iconDescriptionBuilder.AppendLine($"EditorGUIUtility.IconContent(\"{iconName}\")");
+        iconDescriptionBuilder.AppendLine($"EditorGUIUtility.IconContent(\"{icon.name}\")");
         iconDescriptionBuilder.AppendLine("```");
         iconDescriptionBuilder.AppendLine("```");
         iconDescriptionBuilder.AppendLine(fileId);

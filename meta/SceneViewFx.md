@@ -1,5 +1,5 @@
-# SceneViewFx
-![](/img/SceneViewFx.png)
+# SceneViewFx `16x16`
+<img src="/img/SceneViewFx.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewFx")

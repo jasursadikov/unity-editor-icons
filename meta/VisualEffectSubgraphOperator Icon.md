@@ -1,5 +1,5 @@
-# VisualEffectSubgraphOperator Icon
-![](/img/VisualEffectSubgraphOperator%20Icon.png)
+# VisualEffectSubgraphOperator Icon `256x256`
+<img src="/img/VisualEffectSubgraphOperator%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("VisualEffectSubgraphOperator Icon")

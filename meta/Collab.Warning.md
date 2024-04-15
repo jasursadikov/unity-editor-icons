@@ -1,5 +1,5 @@
-# Collab.Warning
-![](/img/Collab.Warning.png)
+# Collab.Warning `115x150`
+<img src="/img/Collab.Warning.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Collab.Warning")

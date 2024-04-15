@@ -1,5 +1,5 @@
-# DragArrow
-![](/img/DragArrow.png)
+# DragArrow `16x16`
+<img src="/img/DragArrow.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DragArrow")

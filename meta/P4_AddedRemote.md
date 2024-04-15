@@ -1,5 +1,5 @@
-# P4_AddedRemote
-![](/img/P4_AddedRemote.png)
+# P4_AddedRemote `16x16`
+<img src="/img/P4_AddedRemote.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("P4_AddedRemote")

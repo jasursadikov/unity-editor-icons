@@ -1,5 +1,5 @@
-# BuildSettings.Metro
-![](/img/BuildSettings.Metro.png)
+# BuildSettings.Metro `32x32`
+<img src="/img/BuildSettings.Metro.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Metro")

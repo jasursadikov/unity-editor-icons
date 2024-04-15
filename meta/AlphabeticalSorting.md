@@ -1,5 +1,5 @@
-# AlphabeticalSorting
-![](/img/AlphabeticalSorting.png)
+# AlphabeticalSorting `16x16`
+<img src="/img/AlphabeticalSorting.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AlphabeticalSorting")

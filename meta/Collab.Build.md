@@ -1,5 +1,5 @@
-# Collab.Build
-![](/img/Collab.Build.png)
+# Collab.Build `32x26`
+<img src="/img/Collab.Build.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Collab.Build")

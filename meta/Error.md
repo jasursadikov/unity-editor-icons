@@ -1,5 +1,5 @@
-# Error
-![](/img/Error.png)
+# Error `16x16`
+<img src="/img/Error.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Error")

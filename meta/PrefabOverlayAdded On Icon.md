@@ -1,5 +1,5 @@
-# PrefabOverlayAdded On Icon
-![](/img/PrefabOverlayAdded%20On%20Icon.png)
+# PrefabOverlayAdded On Icon `66x66`
+<img src="/img/PrefabOverlayAdded%20On%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PrefabOverlayAdded On Icon")

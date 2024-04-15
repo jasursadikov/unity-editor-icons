@@ -1,5 +1,5 @@
-# ToolHandleGlobal@2x
-![](/img/ToolHandleGlobal@2x.png)
+# ToolHandleGlobal@2x `32x32`
+<img src="/img/ToolHandleGlobal@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ToolHandleGlobal@2x")

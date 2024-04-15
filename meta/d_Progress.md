@@ -1,5 +1,5 @@
-# d_Progress
-![](/img/d_Progress.png)
+# d_Progress `16x16`
+<img src="/img/d_Progress.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Progress")

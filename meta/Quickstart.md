@@ -1,5 +1,5 @@
-# Quickstart
-![](/img/Quickstart.png)
+# Quickstart `17x16`
+<img src="/img/Quickstart.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Quickstart")

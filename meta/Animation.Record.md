@@ -1,5 +1,5 @@
-# Animation.Record
-![](/img/Animation.Record.png)
+# Animation.Record `16x16`
+<img src="/img/Animation.Record.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Animation.Record")

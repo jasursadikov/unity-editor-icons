@@ -1,5 +1,5 @@
-# AvatarMask On Icon
-![](/img/AvatarMask%20On%20Icon.png)
+# AvatarMask On Icon `64x64`
+<img src="/img/AvatarMask%20On%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarMask On Icon")

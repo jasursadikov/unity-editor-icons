@@ -1,5 +1,5 @@
-# d_PrefabVariant Icon
-![](/img/d_PrefabVariant%20Icon.png)
+# d_PrefabVariant Icon `256x256`
+<img src="/img/d_PrefabVariant%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_PrefabVariant Icon")

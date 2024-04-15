@@ -1,5 +1,5 @@
-# NavMeshObstacle Icon
-![](/img/NavMeshObstacle%20Icon.png)
+# NavMeshObstacle Icon `128x128`
+<img src="/img/NavMeshObstacle%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("NavMeshObstacle Icon")

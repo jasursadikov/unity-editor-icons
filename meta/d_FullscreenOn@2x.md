@@ -1,5 +1,5 @@
-# d_FullscreenOn@2x
-![](/img/d_FullscreenOn@2x.png)
+# d_FullscreenOn@2x `32x32`
+<img src="/img/d_FullscreenOn@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_FullscreenOn@2x")

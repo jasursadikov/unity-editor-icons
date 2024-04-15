@@ -1,5 +1,5 @@
-# GridAxisX@2x
-![](/img/GridAxisX@2x.png)
+# GridAxisX@2x `32x32`
+<img src="/img/GridAxisX@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GridAxisX@2x")

@@ -1,5 +1,5 @@
-# _Help@2x
-![](/img/_Help@2x.png)
+# _Help@2x `32x32`
+<img src="/img/_Help@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("_Help@2x")

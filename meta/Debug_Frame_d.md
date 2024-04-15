@@ -1,5 +1,5 @@
-# Debug_Frame_d
-![](/img/Debug_Frame_d.png)
+# Debug_Frame_d `16x16`
+<img src="/img/Debug_Frame_d.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Debug_Frame_d")

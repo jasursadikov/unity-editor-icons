@@ -1,5 +1,5 @@
-# PreTexR
-![](/img/PreTexR.png)
+# PreTexR `16x16`
+<img src="/img/PreTexR.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PreTexR")

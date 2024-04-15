@@ -1,5 +1,5 @@
-# Collab.NoInternet
-![](/img/Collab.NoInternet.png)
+# Collab.NoInternet `115x150`
+<img src="/img/Collab.NoInternet.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Collab.NoInternet")

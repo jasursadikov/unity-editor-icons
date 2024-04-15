@@ -1,5 +1,5 @@
-# Valid@2x
-![](/img/Valid@2x.png)
+# Valid@2x `32x32`
+<img src="/img/Valid@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Valid@2x")

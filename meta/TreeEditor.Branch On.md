@@ -1,5 +1,5 @@
-# TreeEditor.Branch On
-![](/img/TreeEditor.Branch%20On.png)
+# TreeEditor.Branch On `19x18`
+<img src="/img/TreeEditor.Branch%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Branch On")

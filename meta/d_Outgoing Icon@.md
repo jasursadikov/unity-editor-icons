@@ -1,5 +1,5 @@
-# d_Outgoing Icon@
-![](/img/d_Outgoing%20Icon@.png)
+# d_Outgoing Icon@ `16x16`
+<img src="/img/d_Outgoing%20Icon@.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Outgoing Icon@")

@@ -1,5 +1,5 @@
-# Profiler.FileAccess
-![](/img/Profiler.FileAccess.png)
+# Profiler.FileAccess `16x16`
+<img src="/img/Profiler.FileAccess.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.FileAccess")

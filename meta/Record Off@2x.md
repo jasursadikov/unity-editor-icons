@@ -1,5 +1,5 @@
-# Record Off@2x
-![](/img/Record%20Off@2x.png)
+# Record Off@2x `32x32`
+<img src="/img/Record%20Off@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Record Off@2x")

@@ -1,5 +1,5 @@
-# d_PreTextureAlpha
-![](/img/d_PreTextureAlpha.png)
+# d_PreTextureAlpha `16x16`
+<img src="/img/d_PreTextureAlpha.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreTextureAlpha")

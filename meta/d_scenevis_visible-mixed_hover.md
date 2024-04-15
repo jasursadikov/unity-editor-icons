@@ -1,5 +1,5 @@
-# d_scenevis_visible-mixed_hover
-![](/img/d_scenevis_visible-mixed_hover.png)
+# d_scenevis_visible-mixed_hover `16x16`
+<img src="/img/d_scenevis_visible-mixed_hover.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_scenevis_visible-mixed_hover")

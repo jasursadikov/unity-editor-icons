@@ -1,5 +1,5 @@
-# UnLinked@2x
-![](/img/UnLinked@2x.png)
+# UnLinked@2x `32x32`
+<img src="/img/UnLinked@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("UnLinked@2x")

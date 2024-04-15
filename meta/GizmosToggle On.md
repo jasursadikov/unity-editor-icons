@@ -1,5 +1,5 @@
-# GizmosToggle On
-![](/img/GizmosToggle%20On.png)
+# GizmosToggle On `16x16`
+<img src="/img/GizmosToggle%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GizmosToggle On")

@@ -1,5 +1,5 @@
-# FolderFavorite Icon
-![](/img/FolderFavorite%20Icon.png)
+# FolderFavorite Icon `64x64`
+<img src="/img/FolderFavorite%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("FolderFavorite Icon")

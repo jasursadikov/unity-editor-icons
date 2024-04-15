@@ -1,5 +1,5 @@
-# FilterSelectedOnly
-![](/img/FilterSelectedOnly.png)
+# FilterSelectedOnly `16x16`
+<img src="/img/FilterSelectedOnly.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("FilterSelectedOnly")

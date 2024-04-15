@@ -1,5 +1,5 @@
-# preAudioAutoPlayOff@2x
-![](/img/preAudioAutoPlayOff@2x.png)
+# preAudioAutoPlayOff@2x `32x32`
+<img src="/img/preAudioAutoPlayOff@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("preAudioAutoPlayOff@2x")

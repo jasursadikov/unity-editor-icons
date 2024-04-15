@@ -1,5 +1,5 @@
-# Profiler.Physics
-![](/img/Profiler.Physics.png)
+# Profiler.Physics `16x16`
+<img src="/img/Profiler.Physics.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Physics")

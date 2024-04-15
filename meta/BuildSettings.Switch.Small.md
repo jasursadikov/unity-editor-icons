@@ -1,5 +1,5 @@
-# BuildSettings.Switch.Small
-![](/img/BuildSettings.Switch.Small.png)
+# BuildSettings.Switch.Small `16x16`
+<img src="/img/BuildSettings.Switch.Small.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Switch.Small")

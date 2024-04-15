@@ -1,5 +1,5 @@
-# GUITexture Icon
-![](/img/GUITexture%20Icon.png)
+# GUITexture Icon `64x64`
+<img src="/img/GUITexture%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GUITexture Icon")

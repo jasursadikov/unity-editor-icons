@@ -1,5 +1,5 @@
-# curvekeyframeselectedoverlay
-![](/img/curvekeyframeselectedoverlay.png)
+# curvekeyframeselectedoverlay `16x16`
+<img src="/img/curvekeyframeselectedoverlay.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("curvekeyframeselectedoverlay")

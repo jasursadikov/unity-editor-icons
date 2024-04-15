@@ -1,5 +1,5 @@
-# SearchWindow@2x
-![](/img/SearchWindow@2x.png)
+# SearchWindow@2x `32x32`
+<img src="/img/SearchWindow@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SearchWindow@2x")

@@ -1,5 +1,5 @@
-# Missing
-![](/img/Missing.png)
+# Missing `16x16`
+<img src="/img/Missing.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Missing")

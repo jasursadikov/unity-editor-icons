@@ -1,5 +1,5 @@
-# P4_Updating
-![](/img/P4_Updating.png)
+# P4_Updating `16x16`
+<img src="/img/P4_Updating.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("P4_Updating")

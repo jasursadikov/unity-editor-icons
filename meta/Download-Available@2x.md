@@ -1,5 +1,5 @@
-# Download-Available@2x
-![](/img/Download-Available@2x.png)
+# Download-Available@2x `32x32`
+<img src="/img/Download-Available@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Download-Available@2x")

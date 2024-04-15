@@ -1,5 +1,5 @@
-# d_Collab.FileConflict
-![](/img/d_Collab.FileConflict.png)
+# d_Collab.FileConflict `64x64`
+<img src="/img/d_Collab.FileConflict.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FileConflict")

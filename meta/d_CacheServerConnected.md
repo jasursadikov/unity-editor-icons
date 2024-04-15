@@ -1,5 +1,5 @@
-# d_CacheServerConnected
-![](/img/d_CacheServerConnected.png)
+# d_CacheServerConnected `16x16`
+<img src="/img/d_CacheServerConnected.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_CacheServerConnected")

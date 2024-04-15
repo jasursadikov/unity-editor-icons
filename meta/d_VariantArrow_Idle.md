@@ -1,5 +1,5 @@
-# d_VariantArrow_Idle
-![](/img/d_VariantArrow_Idle.png)
+# d_VariantArrow_Idle `5x5`
+<img src="/img/d_VariantArrow_Idle.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_VariantArrow_Idle")

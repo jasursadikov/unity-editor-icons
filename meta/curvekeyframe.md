@@ -1,5 +1,5 @@
-# curvekeyframe
-![](/img/curvekeyframe.png)
+# curvekeyframe `16x16`
+<img src="/img/curvekeyframe.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("curvekeyframe")

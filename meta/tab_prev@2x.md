@@ -1,5 +1,5 @@
-# tab_prev@2x
-![](/img/tab_prev@2x.png)
+# tab_prev@2x `32x32`
+<img src="/img/tab_prev@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("tab_prev@2x")

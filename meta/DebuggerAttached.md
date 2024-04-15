@@ -1,5 +1,5 @@
-# DebuggerAttached
-![](/img/DebuggerAttached.png)
+# DebuggerAttached `16x16`
+<img src="/img/DebuggerAttached.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DebuggerAttached")

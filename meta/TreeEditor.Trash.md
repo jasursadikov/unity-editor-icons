@@ -1,5 +1,5 @@
-# TreeEditor.Trash
-![](/img/TreeEditor.Trash.png)
+# TreeEditor.Trash `16x16`
+<img src="/img/TreeEditor.Trash.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Trash")

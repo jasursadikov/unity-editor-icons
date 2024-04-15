@@ -1,5 +1,5 @@
-# cs Script Icon
-![](/img/cs%20Script%20Icon.png)
+# cs Script Icon `256x256`
+<img src="/img/cs%20Script%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("cs Script Icon")

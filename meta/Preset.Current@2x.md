@@ -1,5 +1,5 @@
-# Preset.Current@2x
-![](/img/Preset.Current@2x.png)
+# Preset.Current@2x `32x32`
+<img src="/img/Preset.Current@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Preset.Current@2x")

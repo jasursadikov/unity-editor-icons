@@ -1,5 +1,5 @@
-# AvatarSelector@2x
-![](/img/AvatarSelector@2x.png)
+# AvatarSelector@2x `32x32`
+<img src="/img/AvatarSelector@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarSelector@2x")

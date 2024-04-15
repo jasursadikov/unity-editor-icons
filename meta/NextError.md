@@ -1,5 +1,5 @@
-# NextError
-![](/img/NextError.png)
+# NextError `7x12`
+<img src="/img/NextError.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("NextError")

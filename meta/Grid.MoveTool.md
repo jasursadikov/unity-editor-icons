@@ -1,5 +1,5 @@
-# Grid.MoveTool
-![](/img/Grid.MoveTool.png)
+# Grid.MoveTool `16x16`
+<img src="/img/Grid.MoveTool.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Grid.MoveTool")

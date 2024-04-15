@@ -1,5 +1,5 @@
-# d_curvekeyframesemiselectedoverlay@2x
-![](/img/d_curvekeyframesemiselectedoverlay@2x.png)
+# d_curvekeyframesemiselectedoverlay@2x `32x32`
+<img src="/img/d_curvekeyframesemiselectedoverlay@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_curvekeyframesemiselectedoverlay@2x")

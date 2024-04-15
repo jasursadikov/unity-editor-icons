@@ -1,5 +1,5 @@
-# d_greenLight
-![](/img/d_greenLight.png)
+# d_greenLight `43x43`
+<img src="/img/d_greenLight.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_greenLight")

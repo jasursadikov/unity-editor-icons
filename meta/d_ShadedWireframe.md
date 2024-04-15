@@ -1,5 +1,5 @@
-# d_ShadedWireframe
-![](/img/d_ShadedWireframe.png)
+# d_ShadedWireframe `16x16`
+<img src="/img/d_ShadedWireframe.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_ShadedWireframe")

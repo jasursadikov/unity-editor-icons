@@ -1,5 +1,5 @@
-# BuildSettings.StandaloneGLESEmu.Small
-![](/img/BuildSettings.StandaloneGLESEmu.Small.png)
+# BuildSettings.StandaloneGLESEmu.Small `16x16`
+<img src="/img/BuildSettings.StandaloneGLESEmu.Small.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.StandaloneGLESEmu.Small")

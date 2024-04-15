@@ -1,5 +1,5 @@
-# ViewToolZoom
-![](/img/ViewToolZoom.png)
+# ViewToolZoom `16x16`
+<img src="/img/ViewToolZoom.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ViewToolZoom")

@@ -1,5 +1,5 @@
-# _Menu
-![](/img/_Menu.png)
+# _Menu `16x16`
+<img src="/img/_Menu.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("_Menu")

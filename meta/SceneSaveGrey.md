@@ -1,5 +1,5 @@
-# SceneSaveGrey
-![](/img/SceneSaveGrey.png)
+# SceneSaveGrey `17x15`
+<img src="/img/SceneSaveGrey.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SceneSaveGrey")

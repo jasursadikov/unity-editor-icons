@@ -1,5 +1,5 @@
-# d_Asset Store@2x
-![](/img/d_Asset%20Store@2x.png)
+# d_Asset Store@2x `32x32`
+<img src="/img/d_Asset%20Store@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Asset Store@2x")

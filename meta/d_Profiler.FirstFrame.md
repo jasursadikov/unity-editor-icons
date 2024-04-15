@@ -1,5 +1,5 @@
-# d_Profiler.FirstFrame
-![](/img/d_Profiler.FirstFrame.png)
+# d_Profiler.FirstFrame `16x14`
+<img src="/img/d_Profiler.FirstFrame.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.FirstFrame")

@@ -1,5 +1,5 @@
-# BuildSettings.SelectedIcon
-![](/img/BuildSettings.SelectedIcon.png)
+# BuildSettings.SelectedIcon `16x16`
+<img src="/img/BuildSettings.SelectedIcon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.SelectedIcon")

@@ -1,5 +1,5 @@
-# CacheServerDisabled
-![](/img/CacheServerDisabled.png)
+# CacheServerDisabled `16x16`
+<img src="/img/CacheServerDisabled.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CacheServerDisabled")

@@ -1,5 +1,5 @@
-# SceneViewLighting On@2x
-![](/img/SceneViewLighting%20On@2x.png)
+# SceneViewLighting On@2x `32x32`
+<img src="/img/SceneViewLighting%20On@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SceneViewLighting On@2x")

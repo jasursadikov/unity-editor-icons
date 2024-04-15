@@ -1,5 +1,5 @@
-# d_scenepicking_pickable
-![](/img/d_scenepicking_pickable.png)
+# d_scenepicking_pickable `16x16`
+<img src="/img/d_scenepicking_pickable.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_scenepicking_pickable")

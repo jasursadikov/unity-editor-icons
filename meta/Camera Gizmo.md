@@ -1,5 +1,5 @@
-# Camera Gizmo
-![](/img/Camera%20Gizmo.png)
+# Camera Gizmo `256x256`
+<img src="/img/Camera%20Gizmo.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Camera Gizmo")

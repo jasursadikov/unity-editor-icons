@@ -1,5 +1,5 @@
-# VUMeterTextureHorizontal
-![](/img/VUMeterTextureHorizontal.png)
+# VUMeterTextureHorizontal `32x2`
+<img src="/img/VUMeterTextureHorizontal.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("VUMeterTextureHorizontal")

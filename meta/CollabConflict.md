@@ -1,5 +1,5 @@
-# CollabConflict
-![](/img/CollabConflict.png)
+# CollabConflict `12x12`
+<img src="/img/CollabConflict.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CollabConflict")

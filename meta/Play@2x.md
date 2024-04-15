@@ -1,5 +1,5 @@
-# Play@2x
-![](/img/Play@2x.png)
+# Play@2x `32x32`
+<img src="/img/Play@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Play@2x")

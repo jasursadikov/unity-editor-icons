@@ -1,5 +1,5 @@
-# Installed
-![](/img/Installed.png)
+# Installed `16x16`
+<img src="/img/Installed.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Installed")

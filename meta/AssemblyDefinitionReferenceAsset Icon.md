@@ -1,5 +1,5 @@
-# AssemblyDefinitionReferenceAsset Icon
-![](/img/AssemblyDefinitionReferenceAsset%20Icon.png)
+# AssemblyDefinitionReferenceAsset Icon `256x256`
+<img src="/img/AssemblyDefinitionReferenceAsset%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AssemblyDefinitionReferenceAsset Icon")

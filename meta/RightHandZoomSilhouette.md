@@ -1,5 +1,5 @@
-# RightHandZoomSilhouette
-![](/img/RightHandZoomSilhouette.png)
+# RightHandZoomSilhouette `240x378`
+<img src="/img/RightHandZoomSilhouette.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("RightHandZoomSilhouette")

@@ -1,5 +1,5 @@
-# Pause@2x
-![](/img/Pause@2x.png)
+# Pause@2x `32x32`
+<img src="/img/Pause@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Pause@2x")

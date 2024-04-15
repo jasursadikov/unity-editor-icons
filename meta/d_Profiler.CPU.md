@@ -1,5 +1,5 @@
-# d_Profiler.CPU
-![](/img/d_Profiler.CPU.png)
+# d_Profiler.CPU `16x16`
+<img src="/img/d_Profiler.CPU.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.CPU")

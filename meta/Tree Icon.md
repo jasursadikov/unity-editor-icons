@@ -1,5 +1,5 @@
-# Tree Icon
-![](/img/Tree%20Icon.png)
+# Tree Icon `32x32`
+<img src="/img/Tree%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Tree Icon")

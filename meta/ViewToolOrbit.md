@@ -1,5 +1,5 @@
-# ViewToolOrbit
-![](/img/ViewToolOrbit.png)
+# ViewToolOrbit `16x16`
+<img src="/img/ViewToolOrbit.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ViewToolOrbit")

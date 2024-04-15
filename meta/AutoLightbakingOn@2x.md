@@ -1,5 +1,5 @@
-# AutoLightbakingOn@2x
-![](/img/AutoLightbakingOn@2x.png)
+# AutoLightbakingOn@2x `32x32`
+<img src="/img/AutoLightbakingOn@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AutoLightbakingOn@2x")

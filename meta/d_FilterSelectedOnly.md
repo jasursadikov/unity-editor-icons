@@ -1,5 +1,5 @@
-# d_FilterSelectedOnly
-![](/img/d_FilterSelectedOnly.png)
+# d_FilterSelectedOnly `16x16`
+<img src="/img/d_FilterSelectedOnly.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_FilterSelectedOnly")

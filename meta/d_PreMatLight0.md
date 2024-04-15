@@ -1,5 +1,5 @@
-# d_PreMatLight0
-![](/img/d_PreMatLight0.png)
+# d_PreMatLight0 `16x16`
+<img src="/img/d_PreMatLight0.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_PreMatLight0")

@@ -1,5 +1,5 @@
-# console.warnicon.sml@2x
-![](/img/console.warnicon.sml@2x.png)
+# console.warnicon.sml@2x `32x32`
+<img src="/img/console.warnicon.sml@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("console.warnicon.sml@2x")

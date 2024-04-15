@@ -1,5 +1,5 @@
-# Folder@2x
-![](/img/Folder@2x.png)
+# Folder@2x `32x32`
+<img src="/img/Folder@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Folder@2x")

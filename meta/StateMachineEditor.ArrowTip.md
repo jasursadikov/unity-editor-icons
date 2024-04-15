@@ -1,5 +1,5 @@
-# StateMachineEditor.ArrowTip
-![](/img/StateMachineEditor.ArrowTip.png)
+# StateMachineEditor.ArrowTip `30x30`
+<img src="/img/StateMachineEditor.ArrowTip.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("StateMachineEditor.ArrowTip")

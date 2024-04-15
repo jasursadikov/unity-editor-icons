@@ -1,5 +1,5 @@
-# d_Stop
-![](/img/d_Stop.png)
+# d_Stop `16x16`
+<img src="/img/d_Stop.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Stop")

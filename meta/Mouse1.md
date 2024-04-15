@@ -1,5 +1,5 @@
-# Mouse1
-![](/img/Mouse1.png)
+# Mouse1 `16x16`
+<img src="/img/Mouse1.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Mouse1")

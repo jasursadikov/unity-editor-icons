@@ -1,5 +1,5 @@
-# d_Preset.Current
-![](/img/d_Preset.Current.png)
+# d_Preset.Current `16x16`
+<img src="/img/d_Preset.Current.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Preset.Current")

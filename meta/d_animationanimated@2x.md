@@ -1,5 +1,5 @@
-# d_animationanimated@2x
-![](/img/d_animationanimated@2x.png)
+# d_animationanimated@2x `22x22`
+<img src="/img/d_animationanimated@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_animationanimated@2x")

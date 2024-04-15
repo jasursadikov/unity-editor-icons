@@ -1,5 +1,5 @@
-# Record On
-![](/img/Record%20On.png)
+# Record On `16x16`
+<img src="/img/Record%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Record On")

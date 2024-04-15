@@ -1,5 +1,5 @@
-# ExclamationMark@2x
-![](/img/ExclamationMark@2x.png)
+# ExclamationMark@2x `30x30`
+<img src="/img/ExclamationMark@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ExclamationMark@2x")

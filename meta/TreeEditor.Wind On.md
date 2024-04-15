@@ -1,5 +1,5 @@
-# TreeEditor.Wind On
-![](/img/TreeEditor.Wind%20On.png)
+# TreeEditor.Wind On `19x18`
+<img src="/img/TreeEditor.Wind%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TreeEditor.Wind On")

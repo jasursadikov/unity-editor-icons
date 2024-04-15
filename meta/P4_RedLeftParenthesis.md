@@ -1,5 +1,5 @@
-# P4_RedLeftParenthesis
-![](/img/P4_RedLeftParenthesis.png)
+# P4_RedLeftParenthesis `16x16`
+<img src="/img/P4_RedLeftParenthesis.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("P4_RedLeftParenthesis")

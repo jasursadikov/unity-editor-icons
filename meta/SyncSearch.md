@@ -1,5 +1,5 @@
-# SyncSearch
-![](/img/SyncSearch.png)
+# SyncSearch `16x16`
+<img src="/img/SyncSearch.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("SyncSearch")

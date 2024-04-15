@@ -1,5 +1,5 @@
-# Update-Available
-![](/img/Update-Available.png)
+# Update-Available `16x16`
+<img src="/img/Update-Available.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Update-Available")

@@ -1,5 +1,5 @@
-# Profiler.NetworkMessages
-![](/img/Profiler.NetworkMessages.png)
+# Profiler.NetworkMessages `16x16`
+<img src="/img/Profiler.NetworkMessages.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.NetworkMessages")

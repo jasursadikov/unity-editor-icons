@@ -1,5 +1,5 @@
-# d_WaitSpin05
-![](/img/d_WaitSpin05.png)
+# d_WaitSpin05 `16x16`
+<img src="/img/d_WaitSpin05.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_WaitSpin05")

@@ -1,5 +1,5 @@
-# ToolHandleCenter
-![](/img/ToolHandleCenter.png)
+# ToolHandleCenter `16x16`
+<img src="/img/ToolHandleCenter.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ToolHandleCenter")

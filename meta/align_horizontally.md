@@ -1,5 +1,5 @@
-# align_horizontally
-![](/img/align_horizontally.png)
+# align_horizontally `15x15`
+<img src="/img/align_horizontally.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("align_horizontally")

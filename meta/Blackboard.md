@@ -1,5 +1,5 @@
-# Blackboard
-![](/img/Blackboard.png)
+# Blackboard `16x16`
+<img src="/img/Blackboard.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Blackboard")

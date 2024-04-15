@@ -1,5 +1,5 @@
-# Profiler.Custom
-![](/img/Profiler.Custom.png)
+# Profiler.Custom `16x16`
+<img src="/img/Profiler.Custom.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Custom")

@@ -1,5 +1,5 @@
-# File
-![](/img/File.png)
+# File `16x16`
+<img src="/img/File.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("File")

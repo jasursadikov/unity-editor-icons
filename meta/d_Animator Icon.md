@@ -1,5 +1,5 @@
-# d_Animator Icon
-![](/img/d_Animator%20Icon.png)
+# d_Animator Icon `256x256`
+<img src="/img/d_Animator%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Animator Icon")

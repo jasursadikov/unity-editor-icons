@@ -1,5 +1,5 @@
-# pin
-![](/img/pin.png)
+# pin `16x16`
+<img src="/img/pin.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("pin")

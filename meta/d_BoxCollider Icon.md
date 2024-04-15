@@ -1,5 +1,5 @@
-# d_BoxCollider Icon
-![](/img/d_BoxCollider%20Icon.png)
+# d_BoxCollider Icon `64x64`
+<img src="/img/d_BoxCollider%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_BoxCollider Icon")

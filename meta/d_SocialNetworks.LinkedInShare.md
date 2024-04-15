@@ -1,5 +1,5 @@
-# d_SocialNetworks.LinkedInShare
-![](/img/d_SocialNetworks.LinkedInShare.png)
+# d_SocialNetworks.LinkedInShare `61x17`
+<img src="/img/d_SocialNetworks.LinkedInShare.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_SocialNetworks.LinkedInShare")

@@ -1,5 +1,5 @@
-# Profiler.Memory
-![](/img/Profiler.Memory.png)
+# Profiler.Memory `16x16`
+<img src="/img/Profiler.Memory.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Memory")

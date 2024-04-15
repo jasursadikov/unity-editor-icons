@@ -1,5 +1,5 @@
-# d_editconstraints_32
-![](/img/d_editconstraints_32.png)
+# d_editconstraints_32 `32x32`
+<img src="/img/d_editconstraints_32.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_editconstraints_32")

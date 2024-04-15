@@ -1,5 +1,5 @@
-# GridAxisY On
-![](/img/GridAxisY%20On.png)
+# GridAxisY On `16x16`
+<img src="/img/GridAxisY%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GridAxisY On")

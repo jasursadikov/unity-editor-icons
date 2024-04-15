@@ -1,5 +1,5 @@
-# LightingPreviewMode On
-![](/img/LightingPreviewMode%20On.png)
+# LightingPreviewMode On `16x16`
+<img src="/img/LightingPreviewMode%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("LightingPreviewMode On")

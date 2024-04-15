@@ -1,5 +1,5 @@
-# lightOff
-![](/img/lightOff.png)
+# lightOff `43x43`
+<img src="/img/lightOff.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("lightOff")

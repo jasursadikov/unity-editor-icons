@@ -1,5 +1,5 @@
-# AudioSource Gizmo
-![](/img/AudioSource%20Gizmo.png)
+# AudioSource Gizmo `256x256`
+<img src="/img/AudioSource%20Gizmo.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AudioSource Gizmo")

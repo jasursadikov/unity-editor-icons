@@ -1,5 +1,5 @@
-# d_VisibilityOff
-![](/img/d_VisibilityOff.png)
+# d_VisibilityOff `16x16`
+<img src="/img/d_VisibilityOff.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_VisibilityOff")

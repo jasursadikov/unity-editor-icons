@@ -1,5 +1,5 @@
-# Collab.FolderUpdated
-![](/img/Collab.FolderUpdated.png)
+# Collab.FolderUpdated `64x64`
+<img src="/img/Collab.FolderUpdated.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Collab.FolderUpdated")

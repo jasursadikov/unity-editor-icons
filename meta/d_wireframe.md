@@ -1,5 +1,5 @@
-# d_wireframe
-![](/img/d_wireframe.png)
+# d_wireframe `16x16`
+<img src="/img/d_wireframe.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_wireframe")

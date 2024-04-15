@@ -1,5 +1,5 @@
-# editconstraints_16
-![](/img/editconstraints_16.png)
+# editconstraints_16 `16x16`
+<img src="/img/editconstraints_16.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("editconstraints_16")

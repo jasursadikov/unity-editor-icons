@@ -1,5 +1,5 @@
-# MiniMap
-![](/img/MiniMap.png)
+# MiniMap `16x16`
+<img src="/img/MiniMap.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("MiniMap")

@@ -1,5 +1,5 @@
-# d_NodeChevronUp
-![](/img/d_NodeChevronUp.png)
+# d_NodeChevronUp `17x17`
+<img src="/img/d_NodeChevronUp.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_NodeChevronUp")

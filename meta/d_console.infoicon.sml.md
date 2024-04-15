@@ -1,5 +1,5 @@
-# d_console.infoicon.sml
-![](/img/d_console.infoicon.sml.png)
+# d_console.infoicon.sml `16x16`
+<img src="/img/d_console.infoicon.sml.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_console.infoicon.sml")

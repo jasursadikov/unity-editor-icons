@@ -1,5 +1,5 @@
-# d_PauseButton
-![](/img/d_PauseButton.png)
+# d_PauseButton `16x16`
+<img src="/img/d_PauseButton.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_PauseButton")

@@ -1,5 +1,5 @@
-# BuildSettings.Lumin On
-![](/img/BuildSettings.Lumin%20On.png)
+# BuildSettings.Lumin On `32x32`
+<img src="/img/BuildSettings.Lumin%20On.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Lumin On")

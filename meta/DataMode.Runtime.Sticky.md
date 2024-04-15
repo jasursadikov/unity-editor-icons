@@ -1,5 +1,5 @@
-# DataMode.Runtime.Sticky
-![](/img/DataMode.Runtime.Sticky.png)
+# DataMode.Runtime.Sticky `16x16`
+<img src="/img/DataMode.Runtime.Sticky.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DataMode.Runtime.Sticky")

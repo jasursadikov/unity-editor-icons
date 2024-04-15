@@ -1,5 +1,5 @@
-# HeadZoomSilhouette
-![](/img/HeadZoomSilhouette.png)
+# HeadZoomSilhouette `180x378`
+<img src="/img/HeadZoomSilhouette.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("HeadZoomSilhouette")

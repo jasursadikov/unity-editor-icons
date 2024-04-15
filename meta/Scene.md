@@ -1,5 +1,5 @@
-# Scene
-![](/img/Scene.png)
+# Scene `16x16`
+<img src="/img/Scene.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Scene")

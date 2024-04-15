@@ -1,5 +1,5 @@
-# d_Animation.FilterBySelection
-![](/img/d_Animation.FilterBySelection.png)
+# d_Animation.FilterBySelection `16x16`
+<img src="/img/d_Animation.FilterBySelection.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Animation.FilterBySelection")

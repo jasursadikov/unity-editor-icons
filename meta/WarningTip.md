@@ -1,5 +1,5 @@
-# WarningTip
-![](/img/WarningTip.png)
+# WarningTip `7x4`
+<img src="/img/WarningTip.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("WarningTip")

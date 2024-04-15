@@ -1,5 +1,5 @@
-# Profiler.Record
-![](/img/Profiler.Record.png)
+# Profiler.Record `16x14`
+<img src="/img/Profiler.Record.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Profiler.Record")

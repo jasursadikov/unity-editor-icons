@@ -1,5 +1,5 @@
-# CheckerFloor
-![](/img/CheckerFloor.png)
+# CheckerFloor `14x15`
+<img src="/img/CheckerFloor.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CheckerFloor")

@@ -1,5 +1,5 @@
-# DotFill
-![](/img/DotFill.png)
+# DotFill `19x19`
+<img src="/img/DotFill.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DotFill")

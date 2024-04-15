@@ -1,5 +1,5 @@
-# editcollision_16
-![](/img/editcollision_16.png)
+# editcollision_16 `16x16`
+<img src="/img/editcollision_16.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("editcollision_16")

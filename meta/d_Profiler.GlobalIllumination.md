@@ -1,5 +1,5 @@
-# d_Profiler.GlobalIllumination
-![](/img/d_Profiler.GlobalIllumination.png)
+# d_Profiler.GlobalIllumination `16x16`
+<img src="/img/d_Profiler.GlobalIllumination.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.GlobalIllumination")

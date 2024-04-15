@@ -1,5 +1,5 @@
-# Exposure
-![](/img/Exposure.png)
+# Exposure `16x16`
+<img src="/img/Exposure.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("Exposure")

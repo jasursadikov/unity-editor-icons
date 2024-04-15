@@ -1,5 +1,5 @@
-# d_TreeEditor.AddLeaves
-![](/img/d_TreeEditor.AddLeaves.png)
+# d_TreeEditor.AddLeaves `16x16`
+<img src="/img/d_TreeEditor.AddLeaves.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_TreeEditor.AddLeaves")

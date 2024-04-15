@@ -1,5 +1,5 @@
-# DebuggerDisabled@2x
-![](/img/DebuggerDisabled@2x.png)
+# DebuggerDisabled@2x `32x32`
+<img src="/img/DebuggerDisabled@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("DebuggerDisabled@2x")

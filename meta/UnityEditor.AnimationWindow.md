@@ -1,5 +1,5 @@
-# UnityEditor.AnimationWindow
-![](/img/UnityEditor.AnimationWindow.png)
+# UnityEditor.AnimationWindow `16x16`
+<img src="/img/UnityEditor.AnimationWindow.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("UnityEditor.AnimationWindow")

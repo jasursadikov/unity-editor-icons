@@ -1,5 +1,5 @@
-# d_RotationConstraint Icon
-![](/img/d_RotationConstraint%20Icon.png)
+# d_RotationConstraint Icon `64x64`
+<img src="/img/d_RotationConstraint%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_RotationConstraint Icon")

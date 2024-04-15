@@ -1,5 +1,5 @@
-# PreTexG
-![](/img/PreTexG.png)
+# PreTexG `16x16`
+<img src="/img/PreTexG.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PreTexG")

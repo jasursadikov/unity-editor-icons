@@ -1,5 +1,5 @@
-# scenepicking_pickable_hover
-![](/img/scenepicking_pickable_hover.png)
+# scenepicking_pickable_hover `16x16`
+<img src="/img/scenepicking_pickable_hover.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("scenepicking_pickable_hover")

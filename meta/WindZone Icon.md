@@ -1,5 +1,5 @@
-# WindZone Icon
-![](/img/WindZone%20Icon.png)
+# WindZone Icon `64x64`
+<img src="/img/WindZone%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("WindZone Icon")

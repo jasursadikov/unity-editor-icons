@@ -1,5 +1,5 @@
-# d_Profiler.UIDetails
-![](/img/d_Profiler.UIDetails.png)
+# d_Profiler.UIDetails `16x16`
+<img src="/img/d_Profiler.UIDetails.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Profiler.UIDetails")

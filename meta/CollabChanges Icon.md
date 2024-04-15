@@ -1,5 +1,5 @@
-# CollabChanges Icon
-![](/img/CollabChanges%20Icon.png)
+# CollabChanges Icon `128x128`
+<img src="/img/CollabChanges%20Icon.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CollabChanges Icon")

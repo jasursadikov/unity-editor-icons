@@ -1,5 +1,5 @@
-# d_Collab.FileAdded
-![](/img/d_Collab.FileAdded.png)
+# d_Collab.FileAdded `64x64`
+<img src="/img/d_Collab.FileAdded.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_Collab.FileAdded")

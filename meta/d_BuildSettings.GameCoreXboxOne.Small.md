@@ -1,5 +1,5 @@
-# d_BuildSettings.GameCoreXboxOne.Small
-![](/img/d_BuildSettings.GameCoreXboxOne.Small.png)
+# d_BuildSettings.GameCoreXboxOne.Small `16x16`
+<img src="/img/d_BuildSettings.GameCoreXboxOne.Small.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_BuildSettings.GameCoreXboxOne.Small")

@@ -1,5 +1,5 @@
-# d_tree_icon_leaf
-![](/img/d_tree_icon_leaf.png)
+# d_tree_icon_leaf `32x32`
+<img src="/img/d_tree_icon_leaf.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_tree_icon_leaf")

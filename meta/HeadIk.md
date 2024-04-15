@@ -1,5 +1,5 @@
-# HeadIk
-![](/img/HeadIk.png)
+# HeadIk `180x378`
+<img src="/img/HeadIk.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("HeadIk")

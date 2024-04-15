@@ -1,5 +1,5 @@
-# PreMatTorus@2x
-![](/img/PreMatTorus@2x.png)
+# PreMatTorus@2x `32x32`
+<img src="/img/PreMatTorus@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("PreMatTorus@2x")

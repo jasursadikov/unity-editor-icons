@@ -1,5 +1,5 @@
-# align_vertically_top
-![](/img/align_vertically_top.png)
+# align_vertically_top `15x15`
+<img src="/img/align_vertically_top.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("align_vertically_top")

@@ -1,5 +1,5 @@
-# AvatarController.LayerHover
-![](/img/AvatarController.LayerHover.png)
+# AvatarController.LayerHover `124x52`
+<img src="/img/AvatarController.LayerHover.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("AvatarController.LayerHover")

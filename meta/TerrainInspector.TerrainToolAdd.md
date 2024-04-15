@@ -1,5 +1,5 @@
-# TerrainInspector.TerrainToolAdd
-![](/img/TerrainInspector.TerrainToolAdd.png)
+# TerrainInspector.TerrainToolAdd `16x16`
+<img src="/img/TerrainInspector.TerrainToolAdd.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TerrainInspector.TerrainToolAdd")

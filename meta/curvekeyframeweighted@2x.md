@@ -1,5 +1,5 @@
-# curvekeyframeweighted@2x
-![](/img/curvekeyframeweighted@2x.png)
+# curvekeyframeweighted@2x `32x32`
+<img src="/img/curvekeyframeweighted@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("curvekeyframeweighted@2x")

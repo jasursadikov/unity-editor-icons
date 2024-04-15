@@ -1,5 +1,5 @@
-# d_RectTransformBlueprint
-![](/img/d_RectTransformBlueprint.png)
+# d_RectTransformBlueprint `12x12`
+<img src="/img/d_RectTransformBlueprint.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_RectTransformBlueprint")

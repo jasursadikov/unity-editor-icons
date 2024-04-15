@@ -1,5 +1,5 @@
-# TransformTool On@2x
-![](/img/TransformTool%20On@2x.png)
+# TransformTool On@2x `32x32`
+<img src="/img/TransformTool%20On@2x.png" width=512 height=512>
 
 ``` CSharp
 EditorGUIUtility.IconContent("TransformTool On@2x")
