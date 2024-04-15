@@ -32,7 +32,7 @@ public static class IconsMiner
             readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
             readmeBuilder.AppendLine($"**Unity version** {Application.unityVersion}");
             readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>)`");
+            readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`");
             readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("### File ID");
             readmeBuilder.AppendLine("You can change script icon by file id");
@@ -94,7 +94,7 @@ public static class IconsMiner
             }
 
             readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("Original script author @halak");
+            readmeBuilder.AppendLine("Original script author [https://github.com/halak](@halak)");
             File.WriteAllText("README.md", readmeBuilder.ToString());
             
             Debug.Log($"'READMD.md' is generated.");
