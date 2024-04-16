@@ -1,5 +1,5 @@
 # Unity Editor Built-in Icons
-**Unity version** 2023.2.3f1
+Unity version **2023.2.3f1**
 
 Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`
 
