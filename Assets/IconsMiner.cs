@@ -30,7 +30,7 @@ public static class IconsMiner
             var readmeBuilder = new StringBuilder();
 
             readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
-            readmeBuilder.AppendLine($"**Unity version** {Application.unityVersion}");
+            readmeBuilder.AppendLine($"Unity version **{Application.unityVersion}**");
             readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`");
             readmeBuilder.AppendLine();
