@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.PS5.Small")
 ```
 ```
+d_BuildSettings.PS5.Small
+```
+```
 4660124725284368101
 ```

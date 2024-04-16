@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Standalone On")
 ```
 ```
+BuildSettings.Standalone On
+```
+```
 -8032632311582345015
 ```

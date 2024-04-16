@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SceneViewVisibility@2x")
 ```
 ```
+SceneViewVisibility@2x
+```
+```
 -6465297425902743651
 ```

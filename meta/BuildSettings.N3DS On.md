@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.N3DS On")
 ```
 ```
+BuildSettings.N3DS On
+```
+```
 6165003963721005565
 ```

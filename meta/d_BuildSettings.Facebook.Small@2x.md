@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.Facebook.Small@2x")
 ```
 ```
+d_BuildSettings.Facebook.Small@2x
+```
+```
 -1523609404782003456
 ```

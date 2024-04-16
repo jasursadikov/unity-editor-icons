@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("FolderEmpty On Icon")
 ```
 ```
+FolderEmpty On Icon
+```
+```
 2215272700893972756
 ```

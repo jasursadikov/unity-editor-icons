@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("PolygonCollider2D Icon")
 ```
 ```
+PolygonCollider2D Icon
+```
+```
 5142314164890503837
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Tip@2x")
 ```
 ```
+Tip@2x
+```
+```
 -7008317313451784589
 ```

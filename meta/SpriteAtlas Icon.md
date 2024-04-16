@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpriteAtlas Icon")
 ```
 ```
+SpriteAtlas Icon
+```
+```
 -6378924487366744537
 ```

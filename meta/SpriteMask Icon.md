@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpriteMask Icon")
 ```
 ```
+SpriteMask Icon
+```
+```
 5750710370767426130
 ```

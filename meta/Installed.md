@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Installed")
 ```
 ```
+Installed
+```
+```
 -7463781148177919167
 ```

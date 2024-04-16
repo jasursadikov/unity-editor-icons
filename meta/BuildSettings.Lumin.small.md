@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Lumin.small")
 ```
 ```
+BuildSettings.Lumin.small
+```
+```
 8979687790990599924
 ```

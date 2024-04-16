@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Refresh@2x")
 ```
 ```
+Refresh@2x
+```
+```
 -3757939985368333147
 ```

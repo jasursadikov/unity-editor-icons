@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BillboardAsset Icon")
 ```
 ```
+BillboardAsset Icon
+```
+```
 1891557530211960592
 ```

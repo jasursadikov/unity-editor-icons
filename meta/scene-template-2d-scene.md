@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("scene-template-2d-scene")
 ```
 ```
+scene-template-2d-scene
+```
+```
 -5986177892837080118
 ```

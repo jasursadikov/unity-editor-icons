@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Collab.FileDeleted")
 ```
 ```
+d_Collab.FileDeleted
+```
+```
 6049887228244754300
 ```

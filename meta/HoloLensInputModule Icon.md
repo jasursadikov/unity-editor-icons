@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("HoloLensInputModule Icon")
 ```
 ```
+HoloLensInputModule Icon
+```
+```
 1796364527556711725
 ```

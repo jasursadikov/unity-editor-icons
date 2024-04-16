@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MyAssets@2x")
 ```
 ```
+MyAssets@2x
+```
+```
 -1435431733880529886
 ```

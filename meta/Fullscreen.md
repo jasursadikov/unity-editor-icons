@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Fullscreen")
 ```
 ```
+Fullscreen
+```
+```
 5922023539398003182
 ```

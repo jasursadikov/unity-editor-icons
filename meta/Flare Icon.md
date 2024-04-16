@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Flare Icon")
 ```
 ```
+Flare Icon
+```
+```
 -1825006340795800494
 ```

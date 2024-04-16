@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Animation.SequencerLink")
 ```
 ```
+Animation.SequencerLink
+```
+```
 4724545919325408663
 ```

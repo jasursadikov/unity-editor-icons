@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.CPU@2x")
 ```
 ```
+Profiler.CPU@2x
+```
+```
 -106814588353482428
 ```

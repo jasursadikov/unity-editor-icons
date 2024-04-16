@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_StandaloneInputModule Icon")
 ```
 ```
+d_StandaloneInputModule Icon
+```
+```
 8653171293167480952
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ContentSizeFitter Icon")
 ```
 ```
+ContentSizeFitter Icon
+```
+```
 -385548011631775140
 ```

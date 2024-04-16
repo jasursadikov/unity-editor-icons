@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.Xiaomi.Small@2x")
 ```
 ```
+d_BuildSettings.Xiaomi.Small@2x
+```
+```
 4005156709013535498
 ```

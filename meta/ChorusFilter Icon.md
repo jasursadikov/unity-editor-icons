@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ChorusFilter Icon")
 ```
 ```
+ChorusFilter Icon
+```
+```
 3893684679439407891
 ```

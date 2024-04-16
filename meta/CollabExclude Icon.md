@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CollabExclude Icon")
 ```
 ```
+CollabExclude Icon
+```
+```
 4174785850088061828
 ```

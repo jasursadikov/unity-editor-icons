@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_OrientationGizmo")
 ```
 ```
+d_OrientationGizmo
+```
+```
 -6135209065953748294
 ```

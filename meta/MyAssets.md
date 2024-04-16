@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MyAssets")
 ```
 ```
+MyAssets
+```
+```
 -4332087883101758315
 ```

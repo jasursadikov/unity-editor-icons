@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CameraPreview@2x")
 ```
 ```
+CameraPreview@2x
+```
+```
 8526432084837784107
 ```

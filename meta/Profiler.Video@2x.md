@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.Video@2x")
 ```
 ```
+Profiler.Video@2x
+```
+```
 2229296686351444486
 ```

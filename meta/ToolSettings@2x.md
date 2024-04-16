@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ToolSettings@2x")
 ```
 ```
+ToolSettings@2x
+```
+```
 -2864933165721975125
 ```

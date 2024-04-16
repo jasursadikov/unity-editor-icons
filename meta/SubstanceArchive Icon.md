@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SubstanceArchive Icon")
 ```
 ```
+SubstanceArchive Icon
+```
+```
 -4584988995237359071
 ```

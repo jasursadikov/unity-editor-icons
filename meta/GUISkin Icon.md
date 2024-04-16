@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("GUISkin Icon")
 ```
 ```
+GUISkin Icon
+```
+```
 8094543333924179240
 ```

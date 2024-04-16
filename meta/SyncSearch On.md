@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SyncSearch On")
 ```
 ```
+SyncSearch On
+```
+```
 -7292867992887997717
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("VisualEffect Icon")
 ```
 ```
+VisualEffect Icon
+```
+```
 5167932683419749228
 ```

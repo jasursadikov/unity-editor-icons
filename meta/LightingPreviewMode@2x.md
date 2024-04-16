@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LightingPreviewMode@2x")
 ```
 ```
+LightingPreviewMode@2x
+```
+```
 7677786954954399132
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("PrefabVariant Icon")
 ```
 ```
+PrefabVariant Icon
+```
+```
 484455839441822243
 ```

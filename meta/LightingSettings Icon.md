@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LightingSettings Icon")
 ```
 ```
+LightingSettings Icon
+```
+```
 2754498295270904143
 ```

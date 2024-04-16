@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_FrictionJoint2D Icon")
 ```
 ```
+d_FrictionJoint2D Icon
+```
+```
 4037354640048256451
 ```

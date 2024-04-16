@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SkinnedMeshRenderer Icon")
 ```
 ```
+d_SkinnedMeshRenderer Icon
+```
+```
 2088456810220743861
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("console.warnicon.inactive.sml@2x")
 ```
 ```
+console.warnicon.inactive.sml@2x
+```
+```
 -3380099296471467840
 ```

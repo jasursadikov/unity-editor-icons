@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("DataMode.Mixed.Sticky")
 ```
 ```
+DataMode.Mixed.Sticky
+```
+```
 2616920528250498686
 ```

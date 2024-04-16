@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Panels")
 ```
 ```
+Panels
+```
+```
 4383657574099788076
 ```

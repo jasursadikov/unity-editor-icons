@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Skip@2x")
 ```
 ```
+Skip@2x
+```
+```
 3369782718960177557
 ```

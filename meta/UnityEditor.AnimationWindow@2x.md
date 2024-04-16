@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.AnimationWindow@2x")
 ```
 ```
+UnityEditor.AnimationWindow@2x
+```
+```
 -8967370667835289719
 ```

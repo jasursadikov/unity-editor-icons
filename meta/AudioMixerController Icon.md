@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AudioMixerController Icon")
 ```
 ```
+AudioMixerController Icon
+```
+```
 6744158477067907578
 ```

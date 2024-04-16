@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("NetworkManagerHUD Icon")
 ```
 ```
+NetworkManagerHUD Icon
+```
+```
 -5781802289224155397
 ```

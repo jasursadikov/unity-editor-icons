@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AssemblyDefinitionReferenceAsset Icon")
 ```
 ```
+AssemblyDefinitionReferenceAsset Icon
+```
+```
 -9196122640317675498
 ```

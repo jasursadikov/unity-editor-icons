@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Collab.FolderIgnored")
 ```
 ```
+Collab.FolderIgnored
+```
+```
 -1970951285390588327
 ```

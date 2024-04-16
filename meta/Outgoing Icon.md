@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Outgoing Icon")
 ```
 ```
+Outgoing Icon
+```
+```
 -5050746741923789090
 ```

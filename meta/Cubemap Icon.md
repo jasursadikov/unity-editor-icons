@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Cubemap Icon")
 ```
 ```
+Cubemap Icon
+```
+```
 -4862932982434963122
 ```

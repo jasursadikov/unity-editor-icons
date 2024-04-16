@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Stop")
 ```
 ```
+Stop
+```
+```
 -6549760428460166285
 ```

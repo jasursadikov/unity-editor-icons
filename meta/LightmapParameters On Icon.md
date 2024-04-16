@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LightmapParameters On Icon")
 ```
 ```
+LightmapParameters On Icon
+```
+```
 -5202768846691997418
 ```

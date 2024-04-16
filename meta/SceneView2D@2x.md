@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SceneView2D@2x")
 ```
 ```
+SceneView2D@2x
+```
+```
 7251748999787415244
 ```

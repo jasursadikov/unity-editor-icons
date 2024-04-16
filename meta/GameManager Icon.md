@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("GameManager Icon")
 ```
 ```
+GameManager Icon
+```
+```
 8872333681490167307
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SortingGroup Icon")
 ```
 ```
+d_SortingGroup Icon
+```
+```
 943103792077196548
 ```

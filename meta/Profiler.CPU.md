@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.CPU")
 ```
 ```
+Profiler.CPU
+```
+```
 847059877472631423
 ```

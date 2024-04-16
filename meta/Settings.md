@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Settings")
 ```
 ```
+Settings
+```
+```
 8487775502441791945
 ```

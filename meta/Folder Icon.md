@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Folder Icon")
 ```
 ```
+Folder Icon
+```
+```
 -1463847995985908582
 ```

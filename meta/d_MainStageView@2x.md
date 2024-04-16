@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_MainStageView@2x")
 ```
 ```
+d_MainStageView@2x
+```
+```
 -234771246099921279
 ```

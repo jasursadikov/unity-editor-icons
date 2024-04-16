@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("debug On")
 ```
 ```
+debug On
+```
+```
 3988006027364870726
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Animation.Record")
 ```
 ```
+Animation.Record
+```
+```
 3223261772366079321
 ```

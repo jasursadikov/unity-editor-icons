@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Assembly Icon")
 ```
 ```
+Assembly Icon
+```
+```
 8837923381442833745
 ```

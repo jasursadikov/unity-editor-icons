@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("rightBracket")
 ```
 ```
+rightBracket
+```
+```
 -1696682410296517178
 ```

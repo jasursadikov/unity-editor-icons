@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Switch@2x")
 ```
 ```
+BuildSettings.Switch@2x
+```
+```
 4203361953608673628
 ```

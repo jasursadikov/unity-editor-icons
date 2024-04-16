@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SceneViewVisibility On")
 ```
 ```
+SceneViewVisibility On
+```
+```
 -3817573173973801965
 ```

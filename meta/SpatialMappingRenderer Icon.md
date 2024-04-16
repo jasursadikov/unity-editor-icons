@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpatialMappingRenderer Icon")
 ```
 ```
+SpatialMappingRenderer Icon
+```
+```
 6697769057954352400
 ```

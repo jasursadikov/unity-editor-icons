@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Git")
 ```
 ```
+Git
+```
+```
 -4265854456175031340
 ```

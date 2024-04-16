@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Favorite_hover@2x")
 ```
 ```
+d_Favorite_hover@2x
+```
+```
 -5329069748392387425
 ```

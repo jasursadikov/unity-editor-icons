@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_AreaEffector2D Icon")
 ```
 ```
+d_AreaEffector2D Icon
+```
+```
 -65116092203058140
 ```

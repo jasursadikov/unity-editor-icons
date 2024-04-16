@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.GameCoreXboxOne On")
 ```
 ```
+BuildSettings.GameCoreXboxOne On
+```
+```
 7548485100206320310
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("NetworkDiscovery Icon")
 ```
 ```
+NetworkDiscovery Icon
+```
+```
 -5816082511156025716
 ```

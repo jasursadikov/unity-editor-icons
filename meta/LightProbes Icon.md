@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LightProbes Icon")
 ```
 ```
+LightProbes Icon
+```
+```
 -4113687293306332832
 ```

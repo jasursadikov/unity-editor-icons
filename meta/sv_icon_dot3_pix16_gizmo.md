@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("sv_icon_dot3_pix16_gizmo")
 ```
 ```
+sv_icon_dot3_pix16_gizmo
+```
+```
 3306451490063965843
 ```

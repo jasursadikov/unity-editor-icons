@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.Instrumentation")
 ```
 ```
+Profiler.Instrumentation
+```
+```
 4325833759877436353
 ```

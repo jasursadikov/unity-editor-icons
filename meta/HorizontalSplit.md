@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("HorizontalSplit")
 ```
 ```
+HorizontalSplit
+```
+```
 -4435309529036413705
 ```

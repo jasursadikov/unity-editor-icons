@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("VUMeterTextureVertical")
 ```
 ```
+VUMeterTextureVertical
+```
+```
 -711995501051180505
 ```

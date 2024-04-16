@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AnimationClip Icon")
 ```
 ```
+AnimationClip Icon
+```
+```
 4551485860617614474
 ```

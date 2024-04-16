@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Deprecated@2x")
 ```
 ```
+Deprecated@2x
+```
+```
 -7798569807253987794
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("P4_Updating@2x")
 ```
 ```
+P4_Updating@2x
+```
+```
 1152264094133192238
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("HierarchyLock@2x")
 ```
 ```
+HierarchyLock@2x
+```
+```
 -7377466467976893219
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_RenderPipelineGlobalSettings Icon")
 ```
 ```
+d_RenderPipelineGlobalSettings Icon
+```
+```
 8876936251873550096
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpriteAtlasAsset Icon")
 ```
 ```
+SpriteAtlasAsset Icon
+```
+```
 5880570601193067351
 ```

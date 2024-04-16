@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Collab.FileMoved")
 ```
 ```
+d_Collab.FileMoved
+```
+```
 8389502801107628237
 ```

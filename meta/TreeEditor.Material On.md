@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TreeEditor.Material On")
 ```
 ```
+TreeEditor.Material On
+```
+```
 8960372831454346372
 ```

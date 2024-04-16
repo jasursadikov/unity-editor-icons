@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("scene-template-empty-scene")
 ```
 ```
+scene-template-empty-scene
+```
+```
 3992035881212708034
 ```

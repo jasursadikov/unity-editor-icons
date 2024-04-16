@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MultiSelectFeature@2x")
 ```
 ```
+MultiSelectFeature@2x
+```
+```
 691206200206644999
 ```

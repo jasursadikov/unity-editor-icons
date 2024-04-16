@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("package_installed")
 ```
 ```
+package_installed
+```
+```
 3339317917481934939
 ```

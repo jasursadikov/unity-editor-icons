@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Scene@2x")
 ```
 ```
+Scene@2x
+```
+```
 -5425808098719752954
 ```

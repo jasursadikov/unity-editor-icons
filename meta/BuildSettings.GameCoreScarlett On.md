@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.GameCoreScarlett On")
 ```
 ```
+BuildSettings.GameCoreScarlett On
+```
+```
 4032073047827678025
 ```

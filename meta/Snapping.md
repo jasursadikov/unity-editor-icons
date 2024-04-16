@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Snapping")
 ```
 ```
+Snapping
+```
+```
 7950214749926362013
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("OcclusionPortal Icon")
 ```
 ```
+OcclusionPortal Icon
+```
+```
 -5782365924120474625
 ```

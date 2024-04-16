@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Search Icon")
 ```
 ```
+Search Icon
+```
+```
 -8633937305663748817
 ```

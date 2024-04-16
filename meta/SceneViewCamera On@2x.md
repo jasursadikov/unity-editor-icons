@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SceneViewCamera On@2x")
 ```
 ```
+SceneViewCamera On@2x
+```
+```
 2609252422137685321
 ```

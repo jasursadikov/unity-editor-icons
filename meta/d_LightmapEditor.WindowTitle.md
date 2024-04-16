@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_LightmapEditor.WindowTitle")
 ```
 ```
+d_LightmapEditor.WindowTitle
+```
+```
 -9217767230680498827
 ```

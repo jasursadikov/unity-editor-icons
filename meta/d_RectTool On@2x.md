@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_RectTool On@2x")
 ```
 ```
+d_RectTool On@2x
+```
+```
 -364124398708526985
 ```

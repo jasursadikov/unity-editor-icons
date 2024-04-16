@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.Rendering@2x")
 ```
 ```
+Profiler.Rendering@2x
+```
+```
 7980616472827049353
 ```

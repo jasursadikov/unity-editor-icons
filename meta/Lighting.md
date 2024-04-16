@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Lighting")
 ```
 ```
+Lighting
+```
+```
 8394858894532624064
 ```

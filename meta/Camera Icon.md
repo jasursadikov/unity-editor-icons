@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Camera Icon")
 ```
 ```
+Camera Icon
+```
+```
 6338563257489195420
 ```

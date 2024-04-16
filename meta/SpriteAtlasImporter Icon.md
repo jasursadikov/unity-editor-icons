@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpriteAtlasImporter Icon")
 ```
 ```
+SpriteAtlasImporter Icon
+```
+```
 -7646251099529493452
 ```

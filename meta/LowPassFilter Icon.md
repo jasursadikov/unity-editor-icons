@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LowPassFilter Icon")
 ```
 ```
+LowPassFilter Icon
+```
+```
 814636869089941991
 ```

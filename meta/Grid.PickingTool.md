@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Grid.PickingTool")
 ```
 ```
+Grid.PickingTool
+```
+```
 -2181022926894969760
 ```

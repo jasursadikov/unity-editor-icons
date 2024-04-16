@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MeshRenderer Icon")
 ```
 ```
+MeshRenderer Icon
+```
+```
 4397238243149536692
 ```

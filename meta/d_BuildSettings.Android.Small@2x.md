@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.Android.Small@2x")
 ```
 ```
+d_BuildSettings.Android.Small@2x
+```
+```
 -7220358749881951425
 ```

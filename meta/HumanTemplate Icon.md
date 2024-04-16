@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("HumanTemplate Icon")
 ```
 ```
+HumanTemplate Icon
+```
+```
 2078995878536835517
 ```

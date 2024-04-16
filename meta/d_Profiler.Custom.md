@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.Custom")
 ```
 ```
+d_Profiler.Custom
+```
+```
 8644936328217283950
 ```

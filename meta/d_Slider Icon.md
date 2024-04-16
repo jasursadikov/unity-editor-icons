@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Slider Icon")
 ```
 ```
+d_Slider Icon
+```
+```
 -1631483326681689804
 ```

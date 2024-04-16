@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TreeEditor.BranchRotate On")
 ```
 ```
+TreeEditor.BranchRotate On
+```
+```
 -5784820501234785511
 ```

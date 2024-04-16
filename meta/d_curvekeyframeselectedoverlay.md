@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_curvekeyframeselectedoverlay")
 ```
 ```
+d_curvekeyframeselectedoverlay
+```
+```
 7588837242874043407
 ```

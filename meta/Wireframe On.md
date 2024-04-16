@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Wireframe On")
 ```
 ```
+Wireframe On
+```
+```
 -9200686020729862549
 ```

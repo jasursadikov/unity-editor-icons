@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Animation.Play")
 ```
 ```
+Animation.Play
+```
+```
 -5044339833078438672
 ```

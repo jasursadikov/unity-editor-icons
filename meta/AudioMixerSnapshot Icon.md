@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AudioMixerSnapshot Icon")
 ```
 ```
+AudioMixerSnapshot Icon
+```
+```
 6371941889199318621
 ```

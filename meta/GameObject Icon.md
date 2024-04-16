@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("GameObject Icon")
 ```
 ```
+GameObject Icon
+```
+```
 5203165878028906046
 ```

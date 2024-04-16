@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SceneViewSnap@2x")
 ```
 ```
+d_SceneViewSnap@2x
+```
+```
 8845395792777453499
 ```

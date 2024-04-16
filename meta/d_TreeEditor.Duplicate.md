@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_TreeEditor.Duplicate")
 ```
 ```
+d_TreeEditor.Duplicate
+```
+```
 -6233489530057464607
 ```

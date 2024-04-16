@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.GlobalIllumination")
 ```
 ```
+d_Profiler.GlobalIllumination
+```
+```
 -4487867878065485569
 ```

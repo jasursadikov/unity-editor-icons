@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_UnityEditor.ProfilerWindow")
 ```
 ```
+d_UnityEditor.ProfilerWindow
+```
+```
 -1089619856830078684
 ```

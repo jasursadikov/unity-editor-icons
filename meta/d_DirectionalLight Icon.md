@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_DirectionalLight Icon")
 ```
 ```
+d_DirectionalLight Icon
+```
+```
 -2268488020772222307
 ```

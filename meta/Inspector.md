@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Inspector")
 ```
 ```
+Inspector
+```
+```
 -382990441875178194
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpriteRenderer Icon")
 ```
 ```
+SpriteRenderer Icon
+```
+```
 4610808305388042383
 ```

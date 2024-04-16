@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("monologo")
 ```
 ```
+monologo
+```
+```
 7143736379703623404
 ```

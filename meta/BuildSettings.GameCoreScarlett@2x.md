@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.GameCoreScarlett@2x")
 ```
 ```
+BuildSettings.GameCoreScarlett@2x
+```
+```
 -9106869091312449984
 ```

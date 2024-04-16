@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.NetworkMessages")
 ```
 ```
+Profiler.NetworkMessages
+```
+```
 3816689439724054780
 ```

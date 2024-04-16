@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Progress@2x")
 ```
 ```
+Progress@2x
+```
+```
 3576491509143227979
 ```

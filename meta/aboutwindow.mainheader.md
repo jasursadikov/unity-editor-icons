@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("aboutwindow.mainheader")
 ```
 ```
+aboutwindow.mainheader
+```
+```
 7413624039758100214
 ```

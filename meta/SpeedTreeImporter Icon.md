@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpeedTreeImporter Icon")
 ```
 ```
+SpeedTreeImporter Icon
+```
+```
 4416480341130527481
 ```

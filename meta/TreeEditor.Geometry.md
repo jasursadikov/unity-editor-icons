@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TreeEditor.Geometry")
 ```
 ```
+TreeEditor.Geometry
+```
+```
 -6692219426523639854
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LightingVisualizationColors")
 ```
 ```
+LightingVisualizationColors
+```
+```
 -3815118620200340717
 ```

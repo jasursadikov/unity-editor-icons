@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("VerticalLayoutGroup Icon")
 ```
 ```
+VerticalLayoutGroup Icon
+```
+```
 -6257839366180883323
 ```

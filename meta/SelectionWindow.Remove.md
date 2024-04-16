@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SelectionWindow.Remove")
 ```
 ```
+SelectionWindow.Remove
+```
+```
 -5417098906094637033
 ```

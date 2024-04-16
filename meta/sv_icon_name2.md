@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("sv_icon_name2")
 ```
 ```
+sv_icon_name2
+```
+```
 7285742739966276716
 ```

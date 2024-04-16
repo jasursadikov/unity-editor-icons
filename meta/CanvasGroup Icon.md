@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CanvasGroup Icon")
 ```
 ```
+CanvasGroup Icon
+```
+```
 8297801400378968857
 ```

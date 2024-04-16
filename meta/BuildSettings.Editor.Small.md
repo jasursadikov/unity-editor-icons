@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Editor.Small")
 ```
 ```
+BuildSettings.Editor.Small
+```
+```
 -6908710258048083175
 ```

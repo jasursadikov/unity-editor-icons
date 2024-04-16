@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ColorPicker.SliderCycle")
 ```
 ```
+ColorPicker.SliderCycle
+```
+```
 -7083475956794908383
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_TreeEditor.Geometry")
 ```
 ```
+d_TreeEditor.Geometry
+```
+```
 4033106655989306628
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CanvasScaler Icon")
 ```
 ```
+CanvasScaler Icon
+```
+```
 1430608953724808672
 ```

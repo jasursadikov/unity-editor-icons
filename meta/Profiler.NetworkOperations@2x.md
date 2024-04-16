@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.NetworkOperations@2x")
 ```
 ```
+Profiler.NetworkOperations@2x
+```
+```
 5054688361009510351
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Cancel")
 ```
 ```
+Cancel
+```
+```
 -6048058823402128159
 ```

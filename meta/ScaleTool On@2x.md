@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ScaleTool On@2x")
 ```
 ```
+ScaleTool On@2x
+```
+```
 -583619183747266694
 ```

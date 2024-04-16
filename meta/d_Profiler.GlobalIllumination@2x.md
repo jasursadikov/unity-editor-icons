@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.GlobalIllumination@2x")
 ```
 ```
+d_Profiler.GlobalIllumination@2x
+```
+```
 1407345384548418524
 ```

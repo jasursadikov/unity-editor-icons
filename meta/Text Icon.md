@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Text Icon")
 ```
 ```
+Text Icon
+```
+```
 -7046665063266895104
 ```

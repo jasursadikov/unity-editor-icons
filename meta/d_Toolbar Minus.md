@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Toolbar Minus")
 ```
 ```
+d_Toolbar Minus
+```
+```
 -8887860103969893004
 ```

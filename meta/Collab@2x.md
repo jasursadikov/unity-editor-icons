@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Collab@2x")
 ```
 ```
+Collab@2x
+```
+```
 -204901687004141392
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ViewToolZoom@2x")
 ```
 ```
+ViewToolZoom@2x
+```
+```
 7469032882714426660
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BillboardRenderer Icon")
 ```
 ```
+d_BillboardRenderer Icon
+```
+```
 9071035496130155718
 ```

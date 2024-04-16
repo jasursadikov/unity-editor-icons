@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MyRegistries")
 ```
 ```
+MyRegistries
+```
+```
 3520804601354127368
 ```

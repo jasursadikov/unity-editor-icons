@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Git@2x")
 ```
 ```
+Git@2x
+```
+```
 -1223207897777109905
 ```

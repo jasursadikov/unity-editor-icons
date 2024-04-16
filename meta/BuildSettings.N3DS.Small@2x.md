@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.N3DS.Small@2x")
 ```
 ```
+BuildSettings.N3DS.Small@2x
+```
+```
 2057369963675073982
 ```

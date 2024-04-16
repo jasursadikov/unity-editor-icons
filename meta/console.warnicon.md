@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("console.warnicon")
 ```
 ```
+console.warnicon
+```
+```
 2655493458141633029
 ```

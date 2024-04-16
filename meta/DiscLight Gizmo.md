@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("DiscLight Gizmo")
 ```
 ```
+DiscLight Gizmo
+```
+```
 -3204273358697481177
 ```

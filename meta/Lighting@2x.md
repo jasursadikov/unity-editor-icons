@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Lighting@2x")
 ```
 ```
+Lighting@2x
+```
+```
 4345591932164060902
 ```

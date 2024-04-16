@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CollabDeleted Icon")
 ```
 ```
+CollabDeleted Icon
+```
+```
 -9089933133884277664
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_FullscreenOn@2x")
 ```
 ```
+d_FullscreenOn@2x
+```
+```
 -5409505258369893819
 ```

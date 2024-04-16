@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ClothInspector.ViewValue")
 ```
 ```
+ClothInspector.ViewValue
+```
+```
 -8688548480094122452
 ```

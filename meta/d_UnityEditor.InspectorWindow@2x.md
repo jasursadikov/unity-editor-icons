@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_UnityEditor.InspectorWindow@2x")
 ```
 ```
+d_UnityEditor.InspectorWindow@2x
+```
+```
 -440750813802333266
 ```

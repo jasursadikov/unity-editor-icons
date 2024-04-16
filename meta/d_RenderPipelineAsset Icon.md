@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_RenderPipelineAsset Icon")
 ```
 ```
+d_RenderPipelineAsset Icon
+```
+```
 -8549972529105633023
 ```

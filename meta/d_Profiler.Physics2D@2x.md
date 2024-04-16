@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.Physics2D@2x")
 ```
 ```
+d_Profiler.Physics2D@2x
+```
+```
 -3232397485418273802
 ```

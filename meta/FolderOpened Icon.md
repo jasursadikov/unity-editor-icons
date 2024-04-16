@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("FolderOpened Icon")
 ```
 ```
+FolderOpened Icon
+```
+```
 8877592106801268082
 ```

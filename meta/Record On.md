@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Record On")
 ```
 ```
+Record On
+```
+```
 476737588137909023
 ```

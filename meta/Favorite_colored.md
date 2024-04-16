@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Favorite_colored")
 ```
 ```
+Favorite_colored
+```
+```
 2133446851367768681
 ```

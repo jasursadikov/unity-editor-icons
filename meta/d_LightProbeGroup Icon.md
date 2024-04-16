@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_LightProbeGroup Icon")
 ```
 ```
+d_LightProbeGroup Icon
+```
+```
 5291011532517828589
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.Network")
 ```
 ```
+d_Profiler.Network
+```
+```
 5938926803166097124
 ```

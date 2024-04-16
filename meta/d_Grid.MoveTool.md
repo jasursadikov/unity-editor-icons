@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Grid.MoveTool")
 ```
 ```
+d_Grid.MoveTool
+```
+```
 -5310791424171426395
 ```

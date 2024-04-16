@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SearchOverlay")
 ```
 ```
+SearchOverlay
+```
+```
 -6312600171252480386
 ```

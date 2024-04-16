@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Projector Gizmo")
 ```
 ```
+Projector Gizmo
+```
+```
 6930349229683914701
 ```

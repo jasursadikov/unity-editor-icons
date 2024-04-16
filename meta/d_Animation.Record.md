@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Animation.Record")
 ```
 ```
+d_Animation.Record
+```
+```
 6569083827624595240
 ```

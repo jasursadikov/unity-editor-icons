@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AnchorTransformTool On")
 ```
 ```
+AnchorTransformTool On
+```
+```
 -5941242636935399841
 ```

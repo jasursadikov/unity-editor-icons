@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_CharacterController Icon")
 ```
 ```
+d_CharacterController Icon
+```
+```
 1265989506976873869
 ```

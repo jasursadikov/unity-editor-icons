@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_AnimatorStateTransition Icon")
 ```
 ```
+d_AnimatorStateTransition Icon
+```
+```
 3920131678736184407
 ```

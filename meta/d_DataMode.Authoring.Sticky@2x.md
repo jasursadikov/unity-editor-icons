@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_DataMode.Authoring.Sticky@2x")
 ```
 ```
+d_DataMode.Authoring.Sticky@2x
+```
+```
 -6833851508663297981
 ```

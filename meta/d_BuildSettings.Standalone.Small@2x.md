@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.Standalone.Small@2x")
 ```
 ```
+d_BuildSettings.Standalone.Small@2x
+```
+```
 -2129607575182838650
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Bratwurst.small")
 ```
 ```
+BuildSettings.Bratwurst.small
+```
+```
 5988672859772047745
 ```

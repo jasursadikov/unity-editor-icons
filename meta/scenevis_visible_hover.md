@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("scenevis_visible_hover")
 ```
 ```
+scenevis_visible_hover
+```
+```
 -4180820770892488128
 ```

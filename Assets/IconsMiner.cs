@@ -18,7 +18,7 @@ public static class IconsMiner
     {
         var guidMaterial = new Material(Shader.Find("Unlit/Texture"));
         var guidMaterialId = Path.Combine("Assets", "GuidMaterial.mat");
-        var coloumns = 7;
+        var coloumns = 10;
         
         AssetDatabase.CreateAsset(guidMaterial, guidMaterialId);
         EditorUtility.DisplayProgressBar("Generate README.md", "Generating...", 0);
@@ -41,8 +41,14 @@ public static class IconsMiner
             readmeBuilder.AppendLine("3. Save and focus Unity Editor");
             readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
-            readmeBuilder.AppendLine("| 1 | 2 | 3 | 4 | 5 | 6 | 7 |");
-            readmeBuilder.AppendLine("| --- | --- | --- | --- | --- | --- | --- |");
+            for (int index = 0; index < coloumns; index++)
+                readmeBuilder.Append($"| {index + 1} ");
+            readmeBuilder.Append("|");
+            readmeBuilder.AppendLine();
+            for (int index = 0; index < coloumns; index++)
+                readmeBuilder.Append("| --- ");
+            readmeBuilder.Append("|");
+            readmeBuilder.AppendLine();
 
             var assetNames = EnumerateIcons(editorAssetBundle, iconsPath).ToArray();
             var iconsDirectoryPath = Path.Combine("img");
@@ -94,8 +100,7 @@ public static class IconsMiner
                 }
             }
 
-            readmeBuilder.AppendLine();
-            readmeBuilder.AppendLine("Original script author [@halak](https://github.com/halak)");
+            readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
             File.WriteAllText("README.md", readmeBuilder.ToString());
             
             Debug.Log($"'READMD.md' is generated.");
@@ -114,6 +119,9 @@ public static class IconsMiner
         iconDescriptionBuilder.AppendLine();
         iconDescriptionBuilder.AppendLine("``` CSharp");
         iconDescriptionBuilder.AppendLine($"EditorGUIUtility.IconContent(\"{icon.name}\")");
+        iconDescriptionBuilder.AppendLine("```");
+        iconDescriptionBuilder.AppendLine("```");
+        iconDescriptionBuilder.AppendLine(icon.name);
         iconDescriptionBuilder.AppendLine("```");
         iconDescriptionBuilder.AppendLine("```");
         iconDescriptionBuilder.AppendLine(fileId);

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SyncSearch@2x")
 ```
 ```
+d_SyncSearch@2x
+```
+```
 -6199781620543570897
 ```

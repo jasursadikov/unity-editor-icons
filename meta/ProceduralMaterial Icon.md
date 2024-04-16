@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ProceduralMaterial Icon")
 ```
 ```
+ProceduralMaterial Icon
+```
+```
 5262252122280761226
 ```

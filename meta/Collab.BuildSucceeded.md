@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Collab.BuildSucceeded")
 ```
 ```
+Collab.BuildSucceeded
+```
+```
 5057284793689411865
 ```

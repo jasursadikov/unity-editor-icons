@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Image Icon")
 ```
 ```
+Image Icon
+```
+```
 442822075502377251
 ```

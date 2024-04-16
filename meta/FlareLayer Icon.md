@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("FlareLayer Icon")
 ```
 ```
+FlareLayer Icon
+```
+```
 3273132064349067909
 ```

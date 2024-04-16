@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.Switch")
 ```
 ```
+d_BuildSettings.Switch
+```
+```
 -6585269640543235773
 ```

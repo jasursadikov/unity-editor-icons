@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ClothInspector.PaintTool")
 ```
 ```
+ClothInspector.PaintTool
+```
+```
 1624265540036763281
 ```

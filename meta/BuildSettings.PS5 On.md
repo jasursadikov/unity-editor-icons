@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.PS5 On")
 ```
 ```
+BuildSettings.PS5 On
+```
+```
 6012666984125897113
 ```

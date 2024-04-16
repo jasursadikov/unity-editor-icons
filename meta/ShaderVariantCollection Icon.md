@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ShaderVariantCollection Icon")
 ```
 ```
+ShaderVariantCollection Icon
+```
+```
 -6283853016205586828
 ```

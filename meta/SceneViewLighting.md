@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SceneViewLighting")
 ```
 ```
+SceneViewLighting
+```
+```
 779243408823671581
 ```

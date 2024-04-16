@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ErrorTip@2x")
 ```
 ```
+ErrorTip@2x
+```
+```
 2239774571967622715
 ```

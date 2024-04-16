@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Pause")
 ```
 ```
+Pause
+```
+```
 -5377294088817967288
 ```

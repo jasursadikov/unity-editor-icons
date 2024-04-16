@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.Memory@2x")
 ```
 ```
+Profiler.Memory@2x
+```
+```
 7208249292173671622
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.Switch.Small@2x")
 ```
 ```
+d_BuildSettings.Switch.Small@2x
+```
+```
 6822354511494598398
 ```

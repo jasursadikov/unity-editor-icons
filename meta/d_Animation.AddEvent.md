@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Animation.AddEvent")
 ```
 ```
+d_Animation.AddEvent
+```
+```
 5580871185958974552
 ```

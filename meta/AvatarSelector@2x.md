@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AvatarSelector@2x")
 ```
 ```
+AvatarSelector@2x
+```
+```
 1207210223992105847
 ```

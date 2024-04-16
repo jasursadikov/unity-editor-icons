@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SceneViewCamera")
 ```
 ```
+d_SceneViewCamera
+```
+```
 4374603736546719859
 ```

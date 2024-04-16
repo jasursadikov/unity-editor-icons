@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Collab.FolderUpdated")
 ```
 ```
+d_Collab.FolderUpdated
+```
+```
 2222360239620688078
 ```

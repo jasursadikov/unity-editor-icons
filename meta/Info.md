@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Info")
 ```
 ```
+Info
+```
+```
 -2993408683385858028
 ```

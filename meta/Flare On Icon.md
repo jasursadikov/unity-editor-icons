@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Flare On Icon")
 ```
 ```
+Flare On Icon
+```
+```
 -6033664526919130708
 ```

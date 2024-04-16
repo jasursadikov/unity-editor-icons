@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_winbtn_mac_close_a@2x")
 ```
 ```
+d_winbtn_mac_close_a@2x
+```
+```
 -2836579278060744806
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Favorite")
 ```
 ```
+Favorite
+```
+```
 -175816127591506612
 ```

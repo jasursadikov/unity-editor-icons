@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("lightRim")
 ```
 ```
+lightRim
+```
+```
 2228402035362692230
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("FilterByType")
 ```
 ```
+FilterByType
+```
+```
 -7425893098507633474
 ```

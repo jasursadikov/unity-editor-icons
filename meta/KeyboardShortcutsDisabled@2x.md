@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("KeyboardShortcutsDisabled@2x")
 ```
 ```
+KeyboardShortcutsDisabled@2x
+```
+```
 -2604689729285861231
 ```

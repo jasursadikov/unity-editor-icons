@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolSmoothHeight On")
 ```
 ```
+d_TerrainInspector.TerrainToolSmoothHeight On
+```
+```
 6590753734117813735
 ```

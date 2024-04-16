@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_CameraPreview@2x")
 ```
 ```
+d_CameraPreview@2x
+```
+```
 2472485302921922708
 ```

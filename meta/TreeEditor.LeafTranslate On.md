@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TreeEditor.LeafTranslate On")
 ```
 ```
+TreeEditor.LeafTranslate On
+```
+```
 -5358624952115853185
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.VirtualTexturing@2x")
 ```
 ```
+d_Profiler.VirtualTexturing@2x
+```
+```
 -8897157260961263381
 ```

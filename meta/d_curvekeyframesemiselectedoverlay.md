@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_curvekeyframesemiselectedoverlay")
 ```
 ```
+d_curvekeyframesemiselectedoverlay
+```
+```
 -6530874666569833345
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AnalyticsTracker Icon")
 ```
 ```
+AnalyticsTracker Icon
+```
+```
 -2954336186880279871
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Spotlight Icon")
 ```
 ```
+Spotlight Icon
+```
+```
 -6481134315813425601
 ```

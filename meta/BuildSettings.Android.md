@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Android")
 ```
 ```
+BuildSettings.Android
+```
+```
 -3225301215205586114
 ```

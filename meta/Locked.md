@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Locked")
 ```
 ```
+Locked
+```
+```
 1525486278179658202
 ```

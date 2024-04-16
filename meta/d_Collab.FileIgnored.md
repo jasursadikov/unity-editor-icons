@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Collab.FileIgnored")
 ```
 ```
+d_Collab.FileIgnored
+```
+```
 -3716117597818073499
 ```

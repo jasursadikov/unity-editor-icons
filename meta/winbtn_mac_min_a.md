@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("winbtn_mac_min_a")
 ```
 ```
+winbtn_mac_min_a
+```
+```
 3545580860988697579
 ```

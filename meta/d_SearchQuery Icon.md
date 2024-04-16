@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SearchQuery Icon")
 ```
 ```
+d_SearchQuery Icon
+```
+```
 3202154770640139386
 ```

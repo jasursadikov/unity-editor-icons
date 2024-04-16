@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("GreenCheckmark@2x")
 ```
 ```
+GreenCheckmark@2x
+```
+```
 -7647730755192563584
 ```

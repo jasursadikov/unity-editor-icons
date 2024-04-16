@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SpriteCollider Icon")
 ```
 ```
+SpriteCollider Icon
+```
+```
 -9198082872582506341
 ```

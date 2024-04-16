@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("NodeChevronRight@2x")
 ```
 ```
+NodeChevronRight@2x
+```
+```
 3510548680457757884
 ```

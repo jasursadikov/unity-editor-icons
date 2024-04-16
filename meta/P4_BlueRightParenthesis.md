@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("P4_BlueRightParenthesis")
 ```
 ```
+P4_BlueRightParenthesis
+```
+```
 9221719683936078042
 ```

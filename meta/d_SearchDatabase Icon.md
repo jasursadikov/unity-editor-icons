@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SearchDatabase Icon")
 ```
 ```
+d_SearchDatabase Icon
+```
+```
 4052330951446046200
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.Custom")
 ```
 ```
+Profiler.Custom
+```
+```
 -6324519988180847008
 ```

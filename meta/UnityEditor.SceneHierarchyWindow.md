@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.SceneHierarchyWindow")
 ```
 ```
+UnityEditor.SceneHierarchyWindow
+```
+```
 -590624980919486359
 ```

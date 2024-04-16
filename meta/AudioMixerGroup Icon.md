@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AudioMixerGroup Icon")
 ```
 ```
+AudioMixerGroup Icon
+```
+```
 -8434901110682651104
 ```

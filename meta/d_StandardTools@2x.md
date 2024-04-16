@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_StandardTools@2x")
 ```
 ```
+d_StandardTools@2x
+```
+```
 -1093825279684502929
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("console.infoicon@2x")
 ```
 ```
+console.infoicon@2x
+```
+```
 -834399640629991296
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SceneViewFX@2x")
 ```
 ```
+d_SceneViewFX@2x
+```
+```
 -976224214725393938
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("sv_icon_dot8_sml")
 ```
 ```
+sv_icon_dot8_sml
+```
+```
 6077879297295136865
 ```

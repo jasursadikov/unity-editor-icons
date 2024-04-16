@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("StateMachineEditor.StateSelected")
 ```
 ```
+StateMachineEditor.StateSelected
+```
+```
 5504624127996412900
 ```

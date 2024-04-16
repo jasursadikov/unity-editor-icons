@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_TreeEditor.LeafRotate On")
 ```
 ```
+d_TreeEditor.LeafRotate On
+```
+```
 -6419064971963233203
 ```

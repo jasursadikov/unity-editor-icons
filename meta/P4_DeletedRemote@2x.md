@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("P4_DeletedRemote@2x")
 ```
 ```
+P4_DeletedRemote@2x
+```
+```
 5290902167236670372
 ```

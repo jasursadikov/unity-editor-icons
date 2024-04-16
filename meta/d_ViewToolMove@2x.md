@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_ViewToolMove@2x")
 ```
 ```
+d_ViewToolMove@2x
+```
+```
 4173692700232024533
 ```

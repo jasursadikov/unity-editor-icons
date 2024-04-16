@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Animation.FilterBySelection@2x")
 ```
 ```
+d_Animation.FilterBySelection@2x
+```
+```
 4939039871414479757
 ```

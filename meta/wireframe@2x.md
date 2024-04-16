@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("wireframe@2x")
 ```
 ```
+wireframe@2x
+```
+```
 -3645303498653477971
 ```

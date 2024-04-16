@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TerrainInspector.TerrainToolPlants")
 ```
 ```
+TerrainInspector.TerrainToolPlants
+```
+```
 -541423827089468693
 ```

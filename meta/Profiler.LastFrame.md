@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.LastFrame")
 ```
 ```
+Profiler.LastFrame
+```
+```
 -2576007357578586329
 ```

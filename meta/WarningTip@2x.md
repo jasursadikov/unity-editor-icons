@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("WarningTip@2x")
 ```
 ```
+WarningTip@2x
+```
+```
 8483742549170176367
 ```

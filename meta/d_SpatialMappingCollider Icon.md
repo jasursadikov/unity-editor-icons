@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SpatialMappingCollider Icon")
 ```
 ```
+d_SpatialMappingCollider Icon
+```
+```
 -2569138496374245740
 ```

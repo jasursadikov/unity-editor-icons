@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Grid.EraserTool")
 ```
 ```
+Grid.EraserTool
+```
+```
 -2230402226522707323
 ```

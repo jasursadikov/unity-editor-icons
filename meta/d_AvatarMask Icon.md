@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_AvatarMask Icon")
 ```
 ```
+d_AvatarMask Icon
+```
+```
 -1971303579780900023
 ```

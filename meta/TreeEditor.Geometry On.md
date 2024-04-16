@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TreeEditor.Geometry On")
 ```
 ```
+TreeEditor.Geometry On
+```
+```
 -9083777081504910403
 ```

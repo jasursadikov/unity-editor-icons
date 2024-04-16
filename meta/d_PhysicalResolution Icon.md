@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_PhysicalResolution Icon")
 ```
 ```
+d_PhysicalResolution Icon
+```
+```
 -7120965505878067182
 ```

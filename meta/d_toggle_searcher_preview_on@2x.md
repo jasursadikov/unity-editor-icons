@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_toggle_searcher_preview_on@2x")
 ```
 ```
+d_toggle_searcher_preview_on@2x
+```
+```
 -1746573833422774882
 ```

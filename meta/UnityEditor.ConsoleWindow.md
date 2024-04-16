@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.ConsoleWindow")
 ```
 ```
+UnityEditor.ConsoleWindow
+```
+```
 111653112392082826
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("StateMachineEditor.StateSub")
 ```
 ```
+StateMachineEditor.StateSub
+```
+```
 -6846459076406744578
 ```

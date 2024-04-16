@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_curvekeyframeweighted@2x")
 ```
 ```
+d_curvekeyframeweighted@2x
+```
+```
 6140112835163582435
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.Graphs.AnimatorControllerTool")
 ```
 ```
+UnityEditor.Graphs.AnimatorControllerTool
+```
+```
 663490763026382308
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_BuildSettings.iPhone.Small@2x")
 ```
 ```
+d_BuildSettings.iPhone.Small@2x
+```
+```
 4152198871333242844
 ```

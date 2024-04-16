@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("LightingDataAsset Icon")
 ```
 ```
+LightingDataAsset Icon
+```
+```
 -6779083353247404643
 ```

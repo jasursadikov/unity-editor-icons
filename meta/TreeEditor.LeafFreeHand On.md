@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("TreeEditor.LeafFreeHand On")
 ```
 ```
+TreeEditor.LeafFreeHand On
+```
+```
 -7111582242658356474
 ```

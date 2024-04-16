@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SearchQueryAsset Icon")
 ```
 ```
+SearchQueryAsset Icon
+```
+```
 -4429863685609879072
 ```

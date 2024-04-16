@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_AudioResource Icon")
 ```
 ```
+d_AudioResource Icon
+```
+```
 3737368643571609576
 ```

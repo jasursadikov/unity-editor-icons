@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_ToolHandlePivot@2x")
 ```
 ```
+d_ToolHandlePivot@2x
+```
+```
 2969558182079956279
 ```

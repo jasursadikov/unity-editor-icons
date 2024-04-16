@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.UIDetails@2x")
 ```
 ```
+d_Profiler.UIDetails@2x
+```
+```
 9149478254149279762
 ```

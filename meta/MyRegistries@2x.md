@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MyRegistries@2x")
 ```
 ```
+MyRegistries@2x
+```
+```
 -7548035919507005741
 ```

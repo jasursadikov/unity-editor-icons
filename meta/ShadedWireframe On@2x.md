@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ShadedWireframe On@2x")
 ```
 ```
+ShadedWireframe On@2x
+```
+```
 -8197439068365573577
 ```

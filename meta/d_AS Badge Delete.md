@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_AS Badge Delete")
 ```
 ```
+d_AS Badge Delete
+```
+```
 301681052602819724
 ```

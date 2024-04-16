@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_ScaleTool@2x")
 ```
 ```
+d_ScaleTool@2x
+```
+```
 -3818617102614430489
 ```

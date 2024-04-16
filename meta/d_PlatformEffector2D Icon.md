@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_PlatformEffector2D Icon")
 ```
 ```
+d_PlatformEffector2D Icon
+```
+```
 -4280463815080762487
 ```

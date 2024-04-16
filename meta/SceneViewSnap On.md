@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SceneViewSnap On")
 ```
 ```
+SceneViewSnap On
+```
+```
 -3022659396356282041
 ```

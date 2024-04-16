@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Play@2x")
 ```
 ```
+Play@2x
+```
+```
 6100206489309594354
 ```

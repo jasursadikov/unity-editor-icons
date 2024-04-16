@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_FilterByLabel@2x")
 ```
 ```
+d_FilterByLabel@2x
+```
+```
 -1673784058278515987
 ```

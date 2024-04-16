@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ParticleSystem Icon")
 ```
 ```
+ParticleSystem Icon
+```
+```
 3605962843800585900
 ```

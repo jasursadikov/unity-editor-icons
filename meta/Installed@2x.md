@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Installed@2x")
 ```
 ```
+Installed@2x
+```
+```
 6223114327627550440
 ```

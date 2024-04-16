@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("GraphicRaycaster Icon")
 ```
 ```
+GraphicRaycaster Icon
+```
+```
 -5517977232949126016
 ```

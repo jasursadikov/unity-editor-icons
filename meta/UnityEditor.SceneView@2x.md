@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.SceneView@2x")
 ```
 ```
+UnityEditor.SceneView@2x
+```
+```
 -131512000283675692
 ```

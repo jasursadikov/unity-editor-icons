@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Standalone.Small")
 ```
 ```
+BuildSettings.Standalone.Small
+```
+```
 4297135980918140731
 ```

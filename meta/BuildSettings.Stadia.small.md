@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.Stadia.small")
 ```
 ```
+BuildSettings.Stadia.small
+```
+```
 -1982176944817373238
 ```

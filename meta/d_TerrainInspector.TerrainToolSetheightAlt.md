@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolSetheightAlt")
 ```
 ```
+d_TerrainInspector.TerrainToolSetheightAlt
+```
+```
 8467571569567794528
 ```

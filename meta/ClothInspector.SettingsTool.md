@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ClothInspector.SettingsTool")
 ```
 ```
+ClothInspector.SettingsTool
+```
+```
 -5509047954332065865
 ```

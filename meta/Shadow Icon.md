@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Shadow Icon")
 ```
 ```
+Shadow Icon
+```
+```
 -2128909984820757557
 ```

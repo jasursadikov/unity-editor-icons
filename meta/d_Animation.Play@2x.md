@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Animation.Play@2x")
 ```
 ```
+d_Animation.Play@2x
+```
+```
 5504932610587006541
 ```

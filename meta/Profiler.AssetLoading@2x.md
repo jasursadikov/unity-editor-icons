@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.AssetLoading@2x")
 ```
 ```
+Profiler.AssetLoading@2x
+```
+```
 -7820173720064373373
 ```

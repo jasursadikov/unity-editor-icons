@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("EditorSettings Icon")
 ```
 ```
+EditorSettings Icon
+```
+```
 555089729179892492
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("DefaultSorting@2x")
 ```
 ```
+DefaultSorting@2x
+```
+```
 328606683810477776
 ```

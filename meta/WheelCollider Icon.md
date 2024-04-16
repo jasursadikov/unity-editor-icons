@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("WheelCollider Icon")
 ```
 ```
+WheelCollider Icon
+```
+```
 -929739889217992850
 ```

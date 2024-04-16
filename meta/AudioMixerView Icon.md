@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AudioMixerView Icon")
 ```
 ```
+AudioMixerView Icon
+```
+```
 -3835914084241576571
 ```

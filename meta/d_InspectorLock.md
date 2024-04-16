@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_InspectorLock")
 ```
 ```
+d_InspectorLock
+```
+```
 -2287267532218988703
 ```

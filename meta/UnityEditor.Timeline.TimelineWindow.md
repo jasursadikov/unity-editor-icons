@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.Timeline.TimelineWindow")
 ```
 ```
+UnityEditor.Timeline.TimelineWindow
+```
+```
 2263789160270303489
 ```

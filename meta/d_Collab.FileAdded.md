@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Collab.FileAdded")
 ```
 ```
+d_Collab.FileAdded
+```
+```
 -6257073720136177559
 ```

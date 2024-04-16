@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("StyleSheet Icon")
 ```
 ```
+StyleSheet Icon
+```
+```
 5153532147187264368
 ```

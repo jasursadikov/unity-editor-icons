@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Package Manager")
 ```
 ```
+Package Manager
+```
+```
 2532104554704294423
 ```

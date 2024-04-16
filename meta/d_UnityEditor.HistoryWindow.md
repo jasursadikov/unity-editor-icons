@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_UnityEditor.HistoryWindow")
 ```
 ```
+d_UnityEditor.HistoryWindow
+```
+```
 -8654612648804037319
 ```

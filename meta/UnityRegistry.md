@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityRegistry")
 ```
 ```
+UnityRegistry
+```
+```
 8981374611699157215
 ```

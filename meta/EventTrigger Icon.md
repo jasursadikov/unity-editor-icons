@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("EventTrigger Icon")
 ```
 ```
+EventTrigger Icon
+```
+```
 -4695386353926679422
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.PS4.Small")
 ```
 ```
+BuildSettings.PS4.Small
+```
+```
 2298978507677022530
 ```

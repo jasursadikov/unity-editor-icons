@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Sprite Icon")
 ```
 ```
+Sprite Icon
+```
+```
 4998403706015125745
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.GameView@2x")
 ```
 ```
+UnityEditor.GameView@2x
+```
+```
 257045534191678443
 ```

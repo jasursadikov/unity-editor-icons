@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Animation.AddKeyframe")
 ```
 ```
+d_Animation.AddKeyframe
+```
+```
 -5868239735812553188
 ```

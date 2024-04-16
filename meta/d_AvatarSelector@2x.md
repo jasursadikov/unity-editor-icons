@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_AvatarSelector@2x")
 ```
 ```
+d_AvatarSelector@2x
+```
+```
 4374373771682133825
 ```

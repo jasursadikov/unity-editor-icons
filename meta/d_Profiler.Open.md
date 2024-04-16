@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Profiler.Open")
 ```
 ```
+d_Profiler.Open
+```
+```
 8520121654172952750
 ```

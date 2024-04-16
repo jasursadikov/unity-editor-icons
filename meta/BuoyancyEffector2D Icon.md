@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuoyancyEffector2D Icon")
 ```
 ```
+BuoyancyEffector2D Icon
+```
+```
 -6898902690099029743
 ```

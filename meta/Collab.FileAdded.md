@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Collab.FileAdded")
 ```
 ```
+Collab.FileAdded
+```
+```
 6445321136183198910
 ```

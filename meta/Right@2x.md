@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Right@2x")
 ```
 ```
+Right@2x
+```
+```
 -5660866377719532904
 ```

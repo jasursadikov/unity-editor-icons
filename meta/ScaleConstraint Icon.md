@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ScaleConstraint Icon")
 ```
 ```
+ScaleConstraint Icon
+```
+```
 1503343693133474942
 ```

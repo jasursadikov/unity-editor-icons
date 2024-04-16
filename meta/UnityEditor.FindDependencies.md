@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.FindDependencies")
 ```
 ```
+UnityEditor.FindDependencies
+```
+```
 -982621810526125377
 ```

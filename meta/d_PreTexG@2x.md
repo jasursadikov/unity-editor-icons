@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_PreTexG@2x")
 ```
 ```
+d_PreTexG@2x
+```
+```
 2204046562616517693
 ```

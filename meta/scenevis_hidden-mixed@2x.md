@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("scenevis_hidden-mixed@2x")
 ```
 ```
+scenevis_hidden-mixed@2x
+```
+```
 -7114856475659649666
 ```

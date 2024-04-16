@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AnimationWindowEvent Icon")
 ```
 ```
+AnimationWindowEvent Icon
+```
+```
 5147616647799805467
 ```

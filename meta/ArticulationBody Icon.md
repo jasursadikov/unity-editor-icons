@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ArticulationBody Icon")
 ```
 ```
+ArticulationBody Icon
+```
+```
 -6379934706875125041
 ```

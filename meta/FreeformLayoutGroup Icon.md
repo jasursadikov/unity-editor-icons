@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("FreeformLayoutGroup Icon")
 ```
 ```
+FreeformLayoutGroup Icon
+```
+```
 -1465194095038887121
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_SceneViewAudio@2x")
 ```
 ```
+d_SceneViewAudio@2x
+```
+```
 -5997701993775962491
 ```

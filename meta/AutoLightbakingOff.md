@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AutoLightbakingOff")
 ```
 ```
+AutoLightbakingOff
+```
+```
 3199249832511293691
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Wireframe On@2x")
 ```
 ```
+Wireframe On@2x
+```
+```
 2781011344283784308
 ```

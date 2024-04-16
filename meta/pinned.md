@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("pinned")
 ```
 ```
+pinned
+```
+```
 526548446981368317
 ```

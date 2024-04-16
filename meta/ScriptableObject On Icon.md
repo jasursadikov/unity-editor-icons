@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ScriptableObject On Icon")
 ```
 ```
+ScriptableObject On Icon
+```
+```
 -335226744064694903
 ```

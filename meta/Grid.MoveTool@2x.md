@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Grid.MoveTool@2x")
 ```
 ```
+Grid.MoveTool@2x
+```
+```
 -8482776701497344590
 ```

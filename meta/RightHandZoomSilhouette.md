@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("RightHandZoomSilhouette")
 ```
 ```
+RightHandZoomSilhouette
+```
+```
 4529296075431145259
 ```

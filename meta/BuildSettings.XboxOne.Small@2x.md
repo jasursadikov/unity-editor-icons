@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.XboxOne.Small@2x")
 ```
 ```
+BuildSettings.XboxOne.Small@2x
+```
+```
 389319431642934349
 ```

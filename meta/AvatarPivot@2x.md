@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AvatarPivot@2x")
 ```
 ```
+AvatarPivot@2x
+```
+```
 -4221608646632983637
 ```

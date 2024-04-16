@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Settings@2x")
 ```
 ```
+d_Settings@2x
+```
+```
 866346219090771560
 ```

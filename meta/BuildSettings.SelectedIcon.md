@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("BuildSettings.SelectedIcon")
 ```
 ```
+BuildSettings.SelectedIcon
+```
+```
 -3237302683924646227
 ```

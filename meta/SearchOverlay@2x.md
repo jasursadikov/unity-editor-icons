@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SearchOverlay@2x")
 ```
 ```
+SearchOverlay@2x
+```
+```
 982733137689226552
 ```

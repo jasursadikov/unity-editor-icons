@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_LightProbeProxyVolume Icon")
 ```
 ```
+d_LightProbeProxyVolume Icon
+```
+```
 2525626458380159087
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.Audio@2x")
 ```
 ```
+Profiler.Audio@2x
+```
+```
 6304663895152359167
 ```

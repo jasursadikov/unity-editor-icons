@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CapsuleCollider Icon")
 ```
 ```
+CapsuleCollider Icon
+```
+```
 4594085694400661279
 ```

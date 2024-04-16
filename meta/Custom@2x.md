@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Custom@2x")
 ```
 ```
+Custom@2x
+```
+```
 8279358381794498049
 ```

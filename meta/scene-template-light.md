@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("scene-template-light")
 ```
 ```
+scene-template-light
+```
+```
 2683368874343056341
 ```

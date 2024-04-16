@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ToolHandleGlobal@2x")
 ```
 ```
+ToolHandleGlobal@2x
+```
+```
 3151905959017096996
 ```

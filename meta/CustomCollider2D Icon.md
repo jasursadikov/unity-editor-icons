@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("CustomCollider2D Icon")
 ```
 ```
+CustomCollider2D Icon
+```
+```
 839877395022437811
 ```

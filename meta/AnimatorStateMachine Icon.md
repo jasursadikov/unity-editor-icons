@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("AnimatorStateMachine Icon")
 ```
 ```
+AnimatorStateMachine Icon
+```
+```
 -7997457369567893724
 ```

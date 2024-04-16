@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("PointLight Gizmo")
 ```
 ```
+PointLight Gizmo
+```
+```
 5814078034323187814
 ```

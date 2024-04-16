@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.VersionControl@2x")
 ```
 ```
+UnityEditor.VersionControl@2x
+```
+```
 505782130778258106
 ```

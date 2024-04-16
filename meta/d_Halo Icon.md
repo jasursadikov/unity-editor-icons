@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Halo Icon")
 ```
 ```
+d_Halo Icon
+```
+```
 -8865706849611605747
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("FrameCapture On")
 ```
 ```
+FrameCapture On
+```
+```
 7685827182630506593
 ```

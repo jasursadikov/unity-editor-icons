@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Profiler.GPU@2x")
 ```
 ```
+Profiler.GPU@2x
+```
+```
 -3014814277244489008
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("scene-template-dark")
 ```
 ```
+scene-template-dark
+```
+```
 534737069514820371
 ```

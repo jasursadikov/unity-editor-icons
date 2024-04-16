@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Favorite On Icon")
 ```
 ```
+Favorite On Icon
+```
+```
 7344518296451947588
 ```

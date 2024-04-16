@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Light Icon")
 ```
 ```
+Light Icon
+```
+```
 -6398683131212242302
 ```

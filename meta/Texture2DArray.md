@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("Texture2DArray")
 ```
 ```
+Texture2DArray
+```
+```
 -1165942873951882197
 ```

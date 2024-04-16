@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("NavMeshAgent Icon")
 ```
 ```
+NavMeshAgent Icon
+```
+```
 -129792923033476268
 ```

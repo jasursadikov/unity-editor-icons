@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("d_Grid.PaintTool")
 ```
 ```
+d_Grid.PaintTool
+```
+```
 7266813162977989727
 ```

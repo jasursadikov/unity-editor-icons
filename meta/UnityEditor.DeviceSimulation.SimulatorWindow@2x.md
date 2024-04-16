@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("UnityEditor.DeviceSimulation.SimulatorWindow@2x")
 ```
 ```
+UnityEditor.DeviceSimulation.SimulatorWindow@2x
+```
+```
 2705349480177846937
 ```

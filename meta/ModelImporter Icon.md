@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("ModelImporter Icon")
 ```
 ```
+ModelImporter Icon
+```
+```
 -7355328654173945635
 ```

@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("MiniMap")
 ```
 ```
+MiniMap
+```
+```
 3159934943626921594
 ```

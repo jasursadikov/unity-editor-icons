@@ -5,5 +5,8 @@
 EditorGUIUtility.IconContent("SurfaceEffector2D Icon")
 ```
 ```
+SurfaceEffector2D Icon
+```
+```
 -8924908731338389093
 ```
