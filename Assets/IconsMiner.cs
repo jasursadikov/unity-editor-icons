@@ -1,4 +1,4 @@
-// Author of the original script: https://github.com/halak
+// readAuthor of the original script: https://github.com/halak
 
 using System;
 using System.Collections.Generic;
@@ -19,6 +19,7 @@ public static class IconsMiner
         var guidMaterial = new Material(Shader.Find("Unlit/Texture"));
         var guidMaterialId = Path.Combine("Assets", "GuidMaterial.mat");
         var coloumns = 10;
+        var readme = "README.md";
         
         AssetDatabase.CreateAsset(guidMaterial, guidMaterialId);
         EditorUtility.DisplayProgressBar("Generate README.md", "Generating...", 0);
@@ -69,7 +70,7 @@ public static class IconsMiner
                     if (!icon && icon.isReadable)
                         continue;
 
-                    EditorUtility.DisplayProgressBar("Generate README.md", $"Generating... ({i + 1}/{assetNames.Length})", (float)i / assetNames.Length);
+                    EditorUtility.DisplayProgressBar($"Generate {readme}", $"Generating... ({i + 1}/{assetNames.Length})", (float)i / assetNames.Length);
 
                     var readableTexture = new Texture2D(icon.width, icon.height, icon.format, icon.mipmapCount > 1);
                     Graphics.CopyTexture(icon, readableTexture);
@@ -101,9 +102,9 @@ public static class IconsMiner
             }
 
             readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
-            File.WriteAllText("README.md", readmeBuilder.ToString());
+            File.WriteAllText(readme, readmeBuilder.ToString());
             
-            Debug.Log($"'READMD.md' is generated.");
+            Debug.Log($"'{readme}' is generated.");
         }
         finally
         {

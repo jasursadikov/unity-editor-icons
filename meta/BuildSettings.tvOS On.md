@@ -1,5 +1,5 @@
-# BuildSettings.tvOS On `32x32`
-<img src="/img/BuildSettings.tvOS%20On.png" width=32 height=32>
+# BuildSettings.tvOS On `33x33`
+<img src="/img/BuildSettings.tvOS%20On.png" width=33 height=33>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.tvOS On")
