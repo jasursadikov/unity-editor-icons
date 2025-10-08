@@ -1,4 +1,4 @@
-// readAuthor of the original script: https://github.com/halak
+// Author of the original script: https://github.com/halak
 
 using System;
 using System.Collections.Generic;

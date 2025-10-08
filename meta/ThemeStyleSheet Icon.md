@@ -1,5 +1,5 @@
-# ThemeStyleSheet Icon `64x64`
-<img src="/img/ThemeStyleSheet%20Icon.png" width=64 height=64>
+# ThemeStyleSheet Icon `256x256`
+<img src="/img/ThemeStyleSheet%20Icon.png" width=256 height=256>
 
 ``` CSharp
 EditorGUIUtility.IconContent("ThemeStyleSheet Icon")
