@@ -12,7 +12,7 @@ using UnityEditor;
 public static class IconsMiner
 {
     private static StringBuilder iconDescriptionBuilder = new StringBuilder();
-    
+
     [MenuItem("Unity Editor Icons/Generate README.md %g", priority = -1000)]
     private static void GenerateREADME()
     {
@@ -20,7 +20,7 @@ public static class IconsMiner
         var guidMaterialId = Path.Combine("Assets", "GuidMaterial.mat");
         var coloumns = 10;
         var readme = "README.md";
-        
+
         AssetDatabase.CreateAsset(guidMaterial, guidMaterialId);
         EditorUtility.DisplayProgressBar("Generate README.md", "Generating...", 0);
 
@@ -42,19 +42,13 @@ public static class IconsMiner
             readmeBuilder.AppendLine("3. Save and focus Unity Editor");
             readmeBuilder.AppendLine();
             readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
-            for (int index = 0; index < coloumns; index++)
-                readmeBuilder.Append($"| {index + 1} ");
-            readmeBuilder.Append("|");
-            readmeBuilder.AppendLine();
-            for (int index = 0; index < coloumns; index++)
-                readmeBuilder.Append("| --- ");
-            readmeBuilder.Append("|");
-            readmeBuilder.AppendLine();
+            readmeBuilder.AppendLine("| Icon | Name | ID |");
+            readmeBuilder.AppendLine("| --- | --- | --- |");
 
             var assetNames = EnumerateIcons(editorAssetBundle, iconsPath).ToArray();
             var iconsDirectoryPath = Path.Combine("img");
             var descriptionsDirectoryPath = Path.Combine("meta");
-            
+
             if (!Directory.Exists(iconsDirectoryPath))
                 Directory.CreateDirectory(iconsDirectoryPath);
             if (!Directory.Exists(descriptionsDirectoryPath))
@@ -66,7 +60,7 @@ public static class IconsMiner
                 {
                     var assetName = assetNames[i];
                     var icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
-                
+
                     if (!icon && icon.isReadable)
                         continue;
 
@@ -84,16 +78,7 @@ public static class IconsMiner
                     var fileId = GetFileId(guidMaterialId);
                     iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
                     var descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon, fileId);
-                    readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) ");
-
-                    if (n >= coloumns - 1)
-                    {
-                        readmeBuilder.Append("|");
-                        readmeBuilder.AppendLine();
-                        n = 0;
-                    }
-                    else
-                        n++;
+                    readmeBuilder.AppendLine($"| <img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) | {icon.name} | {fileId} |");
                 }
                 catch (Exception exception)
                 {
@@ -103,7 +88,7 @@ public static class IconsMiner
 
             readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
             File.WriteAllText(readme, readmeBuilder.ToString());
-            
+
             Debug.Log($"'{readme}' is generated.");
         }
         finally
@@ -127,9 +112,9 @@ public static class IconsMiner
         iconDescriptionBuilder.AppendLine("```");
         iconDescriptionBuilder.AppendLine(fileId);
         iconDescriptionBuilder.AppendLine("```");
-        
+
         File.WriteAllText(path, iconDescriptionBuilder.ToString());
-        
+
         iconDescriptionBuilder.Clear();
 
         return path.Replace(" ", "%20").Replace('\\', '/');
@@ -148,7 +133,7 @@ public static class IconsMiner
     {
         var serializedAsset = File.ReadAllText(proxyAssetPath);
         var index = serializedAsset.IndexOf("_MainTex:", StringComparison.Ordinal);
-        
+
         if (index == -1)
             return string.Empty;
 
@@ -158,8 +143,8 @@ public static class IconsMiner
         return serializedAsset.Substring(startIndex, endIndex - startIndex).Trim();
     }
 
-    private static AssetBundle GetEditorAssetBundle() => (AssetBundle) typeof(EditorGUIUtility).GetMethod("GetEditorAssetBundle", BindingFlags.NonPublic | BindingFlags.Static)
-                                                                                               .Invoke(null, new object[] { });
+    private static AssetBundle GetEditorAssetBundle() => (AssetBundle)typeof(EditorGUIUtility).GetMethod("GetEditorAssetBundle", BindingFlags.NonPublic | BindingFlags.Static)
+                                                                                              .Invoke(null, new object[] { });
 
     private static string GetIconsPath()
     {
