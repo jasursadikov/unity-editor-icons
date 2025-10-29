@@ -78,7 +78,7 @@ public static class IconsMiner
                     var fileId = GetFileId(guidMaterialId);
                     iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
                     var descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon, fileId);
-                    readmeBuilder.AppendLine($"| <img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) | {icon.name} | {fileId} |");
+                    readmeBuilder.AppendLine($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) | {icon.name} | {fileId} |");
                 }
                 catch (Exception exception)
                 {
