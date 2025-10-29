@@ -1,5 +1,5 @@
-# GameManager Icon `64x64`
-<img src="/img/GameManager%20Icon.png" width=64 height=64>
+# GameManager Icon `128x128`
+<img src="/img/GameManager%20Icon.png" width=128 height=128>
 
 ``` CSharp
 EditorGUIUtility.IconContent("GameManager Icon")

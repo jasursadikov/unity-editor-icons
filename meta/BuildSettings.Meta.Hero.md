@@ -1,5 +1,5 @@
-# BuildSettings.Meta.Hero `76x76`
-<img src="/img/BuildSettings.Meta.Hero.png" width=76 height=76>
+# BuildSettings.Meta.Hero `600x140`
+<img src="/img/BuildSettings.Meta.Hero.png" width=512 height=140>
 
 ``` CSharp
 EditorGUIUtility.IconContent("BuildSettings.Meta.Hero")

@@ -1,5 +1,5 @@
-# d_EditCollider `14x12`
-<img src="/img/d_EditCollider.png" width=14 height=12>
+# d_EditCollider `16x16`
+<img src="/img/d_EditCollider.png" width=16 height=16>
 
 ``` CSharp
 EditorGUIUtility.IconContent("d_EditCollider")
