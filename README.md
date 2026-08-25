@@ -10,6 +10,9 @@ You can change script icon by file id
 3. Save and focus Unity Editor
 
 All icons are clickable, you will be forwarded to description file.
+
+> Prefer a single-column list with names and sizes? See **[LIST.md](LIST.md)**.
+
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img src="img/_Help.png" width=16 height=16 title="_Help">](meta/_Help.md) | [<img src="img/_Help@2x.png" width=32 height=32 title="_Help@2x">](meta/_Help@2x.md) | [<img src="img/_Menu.png" width=16 height=16 title="_Menu">](meta/_Menu.md) | [<img src="img/_Menu@2x.png" width=32 height=32 title="_Menu@2x">](meta/_Menu@2x.md) | [<img src="img/_Popup.png" width=16 height=16 title="_Popup">](meta/_Popup.md) | [<img src="img/_Popup@2x.png" width=32 height=32 title="_Popup@2x">](meta/_Popup@2x.md) | [<img src="img/AISparkle.png" width=16 height=16 title="AISparkle">](meta/AISparkle.md) | [<img src="img/AISparkle@2x.png" width=32 height=32 title="AISparkle@2x">](meta/AISparkle@2x.md) | [<img src="img/AlphabeticalSorting.png" width=16 height=16 title="AlphabeticalSorting">](meta/AlphabeticalSorting.md) | [<img src="img/AlphabeticalSorting@2x.png" width=32 height=32 title="AlphabeticalSorting@2x">](meta/AlphabeticalSorting@2x.md) |
