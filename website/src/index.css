@@ -110,6 +110,25 @@ body {
   color: #fff;
 }
 
+.select {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--text);
+  padding: 8px 28px 8px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%239a9a9a' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+}
+
+.select:hover {
+  border-color: var(--accent);
+}
+
 /* List / Grid ------------------------------------------------------------- */
 .result-count {
   color: var(--muted);
@@ -263,35 +282,57 @@ body {
   color: #cbd5ff;
 }
 
-.actions {
+/* Merged File ID input + icon copy button */
+.id-field {
   display: inline-flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 6px;
+  align-items: stretch;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--panel);
+  max-width: 100%;
 }
 
-.copy {
+.id-label {
+  display: flex;
+  align-items: center;
+  padding: 0 6px 0 8px;
   font-size: 11px;
-  border: 1px solid var(--border);
-  background: var(--panel);
   color: var(--muted);
-  border-radius: 6px;
+  background: var(--panel-2);
+  border-right: 1px solid var(--border);
+}
+
+.id-input {
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  font-size: 11px;
   padding: 4px 8px;
+  min-width: 60px;
+  max-width: 220px;
+  outline: none;
+}
+
+.id-copy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-left: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--muted);
+  padding: 0 8px;
   cursor: pointer;
 }
 
-.card .copy {
-  background: var(--panel-2);
-}
-
-.copy:hover {
+.id-copy:hover {
   color: var(--text);
-  border-color: var(--accent);
 }
 
-.copy.copied {
+.id-copy.copied {
   color: #7ee787;
-  border-color: #2ea043;
 }
 
 /* Misc -------------------------------------------------------------------- */
