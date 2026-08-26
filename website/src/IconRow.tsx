@@ -85,8 +85,8 @@ function Thumb({ icon, base }: { icon: Icon; base: string }) {
         alt={icon.name}
         loading="lazy"
         decoding="async"
-        width={Math.min(icon.width || 32, 48)}
-        height={Math.min(icon.height || 32, 48)}
+        width={icon.width || undefined}
+        height={icon.height || undefined}
       />
     </div>
   );
