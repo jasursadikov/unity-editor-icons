@@ -66,26 +66,31 @@ export function App() {
       <header className="topbar">
         <div className="titles">
           <h1>Unity Editor Built-in Icons</h1>
-          <p className="subtitle">
-            {data ? (
-              <>
-                Unity <strong>{data.version}</strong>
-              </>
-            ) : (
-              "Loading…"
-            )}
-          </p>
+          <span className="ver">{data ? `Unity ${data.version}` : "Loading…"}</span>
         </div>
 
         <div className="controls">
-          <input
-            className="search"
-            type="search"
-            placeholder="Search"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            autoFocus
-          />
+          <div className="search-bar">
+            <input
+              className="search"
+              type="search"
+              placeholder="Search"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              autoFocus
+            />
+            <button className="search-btn" aria-label="Search" title="Search">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <circle cx="11" cy="11" r="7" stroke="currentColor" strokeWidth="2" />
+                <path
+                  d="M21 21l-4.3-4.3"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                />
+              </svg>
+            </button>
+          </div>
           <div className="toggle-group" role="group" aria-label="View">
             {(["list", "grid"] as View[]).map((v) => (
               <button

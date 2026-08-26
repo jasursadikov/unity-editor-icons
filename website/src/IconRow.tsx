@@ -36,18 +36,38 @@ function CheckIcon() {
   );
 }
 
+function CopyButton({
+  text,
+  title,
+  className,
+}: {
+  text: string;
+  title: string;
+  className: string;
+}) {
+  const [done, setDone] = useState(false);
+  return (
+    <button
+      className={done ? `${className} copied` : className}
+      onClick={async () => {
+        try {
+          await navigator.clipboard.writeText(text);
+          setDone(true);
+          setTimeout(() => setDone(false), 1000);
+        } catch {
+          /* clipboard unavailable */
+        }
+      }}
+      title={title}
+      aria-label={title}
+    >
+      {done ? <CheckIcon /> : <ClipboardIcon />}
+    </button>
+  );
+}
+
 /** Read-only File ID input merged with an icon copy button. */
 function IdField({ id }: { id: string }) {
-  const [done, setDone] = useState(false);
-  const copy = async () => {
-    try {
-      await navigator.clipboard.writeText(id);
-      setDone(true);
-      setTimeout(() => setDone(false), 1000);
-    } catch {
-      /* clipboard unavailable */
-    }
-  };
   return (
     <div className="id-field" title="File ID">
       <span className="id-label">ID</span>
@@ -58,14 +78,7 @@ function IdField({ id }: { id: string }) {
         size={id.length}
         onFocus={(e) => e.currentTarget.select()}
       />
-      <button
-        className={done ? "id-copy copied" : "id-copy"}
-        onClick={copy}
-        title="Copy File ID"
-        aria-label="Copy File ID"
-      >
-        {done ? <CheckIcon /> : <ClipboardIcon />}
-      </button>
+      <CopyButton text={id} title="Copy File ID" className="merge-copy" />
     </div>
   );
 }
@@ -85,42 +98,47 @@ function Thumb({ icon, base }: { icon: Icon; base: string }) {
   );
 }
 
-function Bottom({ icon }: { icon: Icon }) {
+function NameCell({ icon, repo, branch }: Omit<Props, "base">) {
+  const metaUrl = `https://github.com/${repo}/blob/${branch}/${icon.meta}`;
   return (
-    <div className="bottom">
-      {icon.size && <span className="tag">{icon.size}</span>}
-      {icon.dark && <span className="tag dark-tag">dark</span>}
-      {icon.fileId && <IdField id={icon.fileId} />}
+    <div className="name-wrap">
+      <a
+        className="name"
+        href={metaUrl}
+        target="_blank"
+        rel="noreferrer"
+        title={icon.name}
+      >
+        {icon.name}
+      </a>
+      <CopyButton text={icon.name} title="Copy name" className="name-copy" />
     </div>
   );
 }
 
-/** List row: thumbnail on the left, name on top, values + ID field below. */
+/** List row — single line: name (+copy), resolution, and ID on the right. */
 export function IconRow({ icon, base, repo, branch }: Props) {
-  const metaUrl = `https://github.com/${repo}/blob/${branch}/${icon.meta}`;
   return (
     <li className="row" style={{ contentVisibility: "auto" } as React.CSSProperties}>
       <Thumb icon={icon} base={base} />
-      <div className="meta">
-        <a className="name" href={metaUrl} target="_blank" rel="noreferrer">
-          {icon.name}
-        </a>
-        <Bottom icon={icon} />
-      </div>
+      <NameCell icon={icon} repo={repo} branch={branch} />
+      {icon.size && <span className="tag res">{icon.size}</span>}
+      <div className="right">{icon.fileId && <IdField id={icon.fileId} />}</div>
     </li>
   );
 }
 
-/** Grid card: centered thumbnail, name below, values + ID field at bottom. */
+/** Grid card: centered thumbnail, name (+copy), then resolution + ID. */
 export function IconCard({ icon, base, repo, branch }: Props) {
-  const metaUrl = `https://github.com/${repo}/blob/${branch}/${icon.meta}`;
   return (
     <li className="card" style={{ contentVisibility: "auto" } as React.CSSProperties}>
       <Thumb icon={icon} base={base} />
-      <a className="name" href={metaUrl} target="_blank" rel="noreferrer" title={icon.name}>
-        {icon.name}
-      </a>
-      <Bottom icon={icon} />
+      <NameCell icon={icon} repo={repo} branch={branch} />
+      <div className="bottom">
+        {icon.size && <span className="tag res">{icon.size}</span>}
+        {icon.dark && <span className="tag dark-tag">dark</span>}
+        {icon.fileId && <IdField id={icon.fileId} />}
+      </div>
     </li>
   );
 }
