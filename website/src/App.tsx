@@ -69,7 +69,7 @@ export function App() {
           <p className="subtitle">
             {data ? (
               <>
-                Unity <strong>{data.version}</strong> · {data.icons.length} icons
+                Unity <strong>{data.version}</strong>
               </>
             ) : (
               "Loading…"
@@ -81,7 +81,7 @@ export function App() {
           <input
             className="search"
             type="search"
-            placeholder="Search icons by name…  (e.g. Play, d_Console, BuildSettings)"
+            placeholder="Search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             autoFocus
@@ -98,29 +98,26 @@ export function App() {
               </button>
             ))}
           </div>
-          <div className="toggle-group" role="group" aria-label="Variant">
-            {(["all", "light", "dark"] as Variant[]).map((v) => (
-              <button
-                key={v}
-                className={variant === v ? "toggle active" : "toggle"}
-                onClick={() => setVariant(v)}
-              >
-                {v === "all" ? "All" : v === "light" ? "Light" : "Dark (d_)"}
-              </button>
-            ))}
-          </div>
-          <div className="toggle-group" role="group" aria-label="Preview background">
-            {(["dark", "light", "checker"] as Preview[]).map((p) => (
-              <button
-                key={p}
-                className={preview === p ? "toggle active" : "toggle"}
-                onClick={() => setPreview(p)}
-                title={`Preview on ${p} background`}
-              >
-                {p[0].toUpperCase() + p.slice(1)}
-              </button>
-            ))}
-          </div>
+          <select
+            className="select"
+            aria-label="Variant"
+            value={variant}
+            onChange={(e) => setVariant(e.target.value as Variant)}
+          >
+            <option value="all">All</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark (d_)</option>
+          </select>
+          <select
+            className="select"
+            aria-label="Preview background"
+            value={preview}
+            onChange={(e) => setPreview(e.target.value as Preview)}
+          >
+            <option value="dark">Dark bg</option>
+            <option value="light">Light bg</option>
+            <option value="checker">Checker bg</option>
+          </select>
         </div>
       </header>
 
