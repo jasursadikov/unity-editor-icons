@@ -66,20 +66,14 @@ function CopyButton({
   );
 }
 
-/** Read-only File ID input merged with an icon copy button. */
+/** File ID shown as plain mono text with an icon copy button. */
 function IdField({ id }: { id: string }) {
   return (
-    <div className="id-field" title="File ID">
+    <span className="id-field" title="File ID">
       <span className="id-label">ID</span>
-      <input
-        className="id-input"
-        value={id}
-        readOnly
-        size={id.length}
-        onFocus={(e) => e.currentTarget.select()}
-      />
-      <CopyButton text={id} title="Copy File ID" className="merge-copy" />
-    </div>
+      <span className="id-value">{id}</span>
+      <CopyButton text={id} title="Copy File ID" className="icon-copy" />
+    </span>
   );
 }
 
@@ -111,7 +105,7 @@ function NameCell({ icon, repo, branch }: Omit<Props, "base">) {
       >
         {icon.name}
       </a>
-      <CopyButton text={icon.name} title="Copy name" className="name-copy" />
+      <CopyButton text={icon.name} title="Copy name" className="icon-copy" />
     </div>
   );
 }
@@ -122,7 +116,7 @@ export function IconRow({ icon, base, repo, branch }: Props) {
     <li className="row" style={{ contentVisibility: "auto" } as React.CSSProperties}>
       <Thumb icon={icon} base={base} />
       <NameCell icon={icon} repo={repo} branch={branch} />
-      {icon.size && <span className="tag res">{icon.size}</span>}
+      {icon.size && <span className="res">{icon.size}</span>}
       <div className="right">{icon.fileId && <IdField id={icon.fileId} />}</div>
     </li>
   );
@@ -135,7 +129,7 @@ export function IconCard({ icon, base, repo, branch }: Props) {
       <Thumb icon={icon} base={base} />
       <NameCell icon={icon} repo={repo} branch={branch} />
       <div className="bottom">
-        {icon.size && <span className="tag res">{icon.size}</span>}
+        {icon.size && <span className="res">{icon.size}</span>}
         {icon.dark && <span className="tag dark-tag">dark</span>}
         {icon.fileId && <IdField id={icon.fileId} />}
       </div>

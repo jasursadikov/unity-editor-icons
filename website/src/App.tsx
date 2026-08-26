@@ -66,7 +66,7 @@ export function App() {
       <header className="topbar">
         <div className="titles">
           <h1>Unity Editor Built-in Icons</h1>
-          <span className="ver">{data ? `Unity ${data.version}` : "Loading…"}</span>
+          <span className="ver">{data ? data.version : "Loading…"}</span>
         </div>
 
         <div className="controls">
@@ -113,16 +113,20 @@ export function App() {
             <option value="light">Light</option>
             <option value="dark">Dark (d_)</option>
           </select>
-          <select
-            className="select"
-            aria-label="Preview background"
-            value={preview}
-            onChange={(e) => setPreview(e.target.value as Preview)}
-          >
-            <option value="dark">Dark bg</option>
-            <option value="light">Light bg</option>
-            <option value="checker">Checker bg</option>
-          </select>
+          <div className="swatches" role="group" aria-label="Preview background">
+            {(["dark", "light", "checker"] as Preview[]).map((p) => (
+              <button
+                key={p}
+                className={
+                  preview === p ? `swatch swatch-${p} active` : `swatch swatch-${p}`
+                }
+                onClick={() => setPreview(p)}
+                title={`${p[0].toUpperCase() + p.slice(1)} background`}
+                aria-label={`${p} background`}
+                aria-pressed={preview === p}
+              />
+            ))}
+          </div>
         </div>
       </header>
 
