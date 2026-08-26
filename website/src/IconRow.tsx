@@ -70,7 +70,6 @@ function CopyButton({
 function IdField({ id }: { id: string }) {
   return (
     <span className="id-field" title="File ID">
-      <span className="id-label">ID</span>
       <span className="id-value">{id}</span>
       <CopyButton text={id} title="Copy File ID" className="icon-copy" />
     </span>

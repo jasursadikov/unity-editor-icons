@@ -6,7 +6,6 @@ const REPO = "jasursadikov/unity-editor-icons";
 const BRANCH = "master";
 const PAGE = 200; // rows appended per scroll batch
 
-type Preview = "dark" | "light" | "checker";
 type View = "list" | "grid";
 
 const base = import.meta.env.BASE_URL;
@@ -42,7 +41,6 @@ export function App() {
   const [data, setData] = useState<IconsData | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [query, setQuery] = useState("");
-  const [preview, setPreview] = useState<Preview>("dark");
   const [view, setView] = useState<View>("list");
   const [limit, setLimit] = useState(PAGE);
   const sentinel = useRef<HTMLDivElement | null>(null);
@@ -133,23 +131,6 @@ export function App() {
                 <GridIcon />
               </button>
             </div>
-
-            <span className="divider" aria-hidden="true" />
-
-            <div className="swatches" role="group" aria-label="Preview background">
-              {(["dark", "light", "checker"] as Preview[]).map((p) => (
-                <button
-                  key={p}
-                  className={
-                    preview === p ? `swatch swatch-${p} active` : `swatch swatch-${p}`
-                  }
-                  onClick={() => setPreview(p)}
-                  title={`${p[0].toUpperCase() + p.slice(1)} background`}
-                  aria-label={`${p} background`}
-                  aria-pressed={preview === p}
-                />
-              ))}
-            </div>
           </div>
         </div>
       </header>
@@ -164,7 +145,7 @@ export function App() {
           {data ? `${filtered.length} result${filtered.length === 1 ? "" : "s"}` : ""}
         </div>
 
-        <ul className={`list preview-${preview} view-${view}`}>
+        <ul className={`list view-${view}`}>
           {visible.map((icon: Icon) =>
             view === "grid" ? (
               <IconCard
