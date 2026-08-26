@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Icon, IconsData } from "./types";
-import { IconRow } from "./IconRow";
+import { IconRow, IconCard } from "./IconRow";
 
 const REPO = "jasursadikov/unity-editor-icons";
 const BRANCH = "master";
@@ -8,6 +8,7 @@ const PAGE = 200; // rows appended per scroll batch
 
 type Preview = "dark" | "light" | "checker";
 type Variant = "all" | "light" | "dark";
+type View = "list" | "grid";
 
 const base = import.meta.env.BASE_URL;
 
@@ -17,6 +18,7 @@ export function App() {
   const [query, setQuery] = useState("");
   const [preview, setPreview] = useState<Preview>("dark");
   const [variant, setVariant] = useState<Variant>("all");
+  const [view, setView] = useState<View>("list");
   const [limit, setLimit] = useState(PAGE);
   const sentinel = useRef<HTMLDivElement | null>(null);
 
@@ -84,6 +86,18 @@ export function App() {
             onChange={(e) => setQuery(e.target.value)}
             autoFocus
           />
+          <div className="toggle-group" role="group" aria-label="View">
+            {(["list", "grid"] as View[]).map((v) => (
+              <button
+                key={v}
+                className={view === v ? "toggle active" : "toggle"}
+                onClick={() => setView(v)}
+                title={`${v[0].toUpperCase() + v.slice(1)} view`}
+              >
+                {v === "list" ? "List" : "Grid"}
+              </button>
+            ))}
+          </div>
           <div className="toggle-group" role="group" aria-label="Variant">
             {(["all", "light", "dark"] as Variant[]).map((v) => (
               <button
@@ -120,16 +134,26 @@ export function App() {
           {data ? `${filtered.length} result${filtered.length === 1 ? "" : "s"}` : ""}
         </div>
 
-        <ul className={`list preview-${preview}`}>
-          {visible.map((icon: Icon) => (
-            <IconRow
-              key={icon.meta}
-              icon={icon}
-              base={base}
-              repo={REPO}
-              branch={BRANCH}
-            />
-          ))}
+        <ul className={`list preview-${preview} view-${view}`}>
+          {visible.map((icon: Icon) =>
+            view === "grid" ? (
+              <IconCard
+                key={icon.meta}
+                icon={icon}
+                base={base}
+                repo={REPO}
+                branch={BRANCH}
+              />
+            ) : (
+              <IconRow
+                key={icon.meta}
+                icon={icon}
+                base={base}
+                repo={REPO}
+                branch={BRANCH}
+              />
+            )
+          )}
         </ul>
         <div ref={sentinel} className="sentinel" />
         {limit < filtered.length && (
