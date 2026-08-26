@@ -7,17 +7,42 @@ const BRANCH = "master";
 const PAGE = 200; // rows appended per scroll batch
 
 type Preview = "dark" | "light" | "checker";
-type Variant = "all" | "light" | "dark";
 type View = "list" | "grid";
 
 const base = import.meta.env.BASE_URL;
+
+function ListIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle cx="4" cy="6" r="1.5" fill="currentColor" />
+      <circle cx="4" cy="12" r="1.5" fill="currentColor" />
+      <circle cx="4" cy="18" r="1.5" fill="currentColor" />
+      <path
+        d="M9 6h11M9 12h11M9 18h11"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+}
+
+function GridIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <rect x="3" y="3" width="7" height="7" rx="1.5" fill="currentColor" />
+      <rect x="14" y="3" width="7" height="7" rx="1.5" fill="currentColor" />
+      <rect x="3" y="14" width="7" height="7" rx="1.5" fill="currentColor" />
+      <rect x="14" y="14" width="7" height="7" rx="1.5" fill="currentColor" />
+    </svg>
+  );
+}
 
 export function App() {
   const [data, setData] = useState<IconsData | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [query, setQuery] = useState("");
   const [preview, setPreview] = useState<Preview>("dark");
-  const [variant, setVariant] = useState<Variant>("all");
   const [view, setView] = useState<View>("list");
   const [limit, setLimit] = useState(PAGE);
   const sentinel = useRef<HTMLDivElement | null>(null);
@@ -35,16 +60,12 @@ export function App() {
   const filtered = useMemo(() => {
     const icons = data?.icons ?? [];
     const q = query.trim().toLowerCase();
-    return icons.filter((icon) => {
-      if (variant === "dark" && !icon.dark) return false;
-      if (variant === "light" && icon.dark) return false;
-      if (q && !icon.name.toLowerCase().includes(q)) return false;
-      return true;
-    });
-  }, [data, query, variant]);
+    if (!q) return icons;
+    return icons.filter((icon) => icon.name.toLowerCase().includes(q));
+  }, [data, query]);
 
   // Reset the incremental window whenever the result set changes.
-  useEffect(() => setLimit(PAGE), [query, variant]);
+  useEffect(() => setLimit(PAGE), [query]);
 
   // Infinite scroll: grow the window as the sentinel comes into view.
   useEffect(() => {
@@ -91,41 +112,44 @@ export function App() {
               </svg>
             </button>
           </div>
-          <div className="toggle-group" role="group" aria-label="View">
-            {(["list", "grid"] as View[]).map((v) => (
+          <div className="tools">
+            <div className="toggle-group view" role="group" aria-label="View">
               <button
-                key={v}
-                className={view === v ? "toggle active" : "toggle"}
-                onClick={() => setView(v)}
-                title={`${v[0].toUpperCase() + v.slice(1)} view`}
+                className={view === "list" ? "toggle active" : "toggle"}
+                onClick={() => setView("list")}
+                title="List view"
+                aria-label="List view"
+                aria-pressed={view === "list"}
               >
-                {v === "list" ? "List" : "Grid"}
+                <ListIcon />
               </button>
-            ))}
-          </div>
-          <select
-            className="select"
-            aria-label="Variant"
-            value={variant}
-            onChange={(e) => setVariant(e.target.value as Variant)}
-          >
-            <option value="all">All</option>
-            <option value="light">Light</option>
-            <option value="dark">Dark (d_)</option>
-          </select>
-          <div className="swatches" role="group" aria-label="Preview background">
-            {(["dark", "light", "checker"] as Preview[]).map((p) => (
               <button
-                key={p}
-                className={
-                  preview === p ? `swatch swatch-${p} active` : `swatch swatch-${p}`
-                }
-                onClick={() => setPreview(p)}
-                title={`${p[0].toUpperCase() + p.slice(1)} background`}
-                aria-label={`${p} background`}
-                aria-pressed={preview === p}
-              />
-            ))}
+                className={view === "grid" ? "toggle active" : "toggle"}
+                onClick={() => setView("grid")}
+                title="Grid view"
+                aria-label="Grid view"
+                aria-pressed={view === "grid"}
+              >
+                <GridIcon />
+              </button>
+            </div>
+
+            <span className="divider" aria-hidden="true" />
+
+            <div className="swatches" role="group" aria-label="Preview background">
+              {(["dark", "light", "checker"] as Preview[]).map((p) => (
+                <button
+                  key={p}
+                  className={
+                    preview === p ? `swatch swatch-${p} active` : `swatch swatch-${p}`
+                  }
+                  onClick={() => setPreview(p)}
+                  title={`${p[0].toUpperCase() + p.slice(1)} background`}
+                  aria-label={`${p} background`}
+                  aria-pressed={preview === p}
+                />
+              ))}
+            </div>
           </div>
         </div>
       </header>
