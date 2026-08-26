@@ -8,7 +8,7 @@ interface Props {
   branch: string;
 }
 
-function Copy({ text, label }: { text: string; label: string }) {
+export function Copy({ text, label }: { text: string; label: string }) {
   const [done, setDone] = useState(false);
   return (
     <button
@@ -29,41 +29,69 @@ function Copy({ text, label }: { text: string; label: string }) {
   );
 }
 
-export function IconRow({ icon, base, repo, branch }: Props) {
-  const src = `${base}${icon.img}`;
-  const metaUrl = `https://github.com/${repo}/blob/${branch}/${icon.meta}`;
+function Actions({ icon }: { icon: Icon }) {
+  return (
+    <div className="actions">
+      <Copy text={icon.name} label="Name" />
+      <Copy text={`EditorGUIUtility.IconContent("${icon.name}")`} label="C#" />
+      {icon.fileId && (
+        <>
+          <span className="tag id">id {icon.fileId}</span>
+          <Copy text={icon.fileId} label="ID" />
+        </>
+      )}
+    </div>
+  );
+}
 
+function Thumb({ icon, base }: { icon: Icon; base: string }) {
+  return (
+    <div className="thumb">
+      <img
+        src={`${base}${icon.img}`}
+        alt={icon.name}
+        loading="lazy"
+        decoding="async"
+        width={Math.min(icon.width || 32, 48)}
+        height={Math.min(icon.height || 32, 48)}
+      />
+    </div>
+  );
+}
+
+/** List row: thumbnail on the left, name on top, values + copy buttons below. */
+export function IconRow({ icon, base, repo, branch }: Props) {
+  const metaUrl = `https://github.com/${repo}/blob/${branch}/${icon.meta}`;
   return (
     <li className="row" style={{ contentVisibility: "auto" } as React.CSSProperties}>
-      <div className="thumb">
-        <img
-          src={src}
-          alt={icon.name}
-          loading="lazy"
-          decoding="async"
-          width={Math.min(icon.width || 32, 48)}
-          height={Math.min(icon.height || 32, 48)}
-        />
-      </div>
-
+      <Thumb icon={icon} base={base} />
       <div className="meta">
         <a className="name" href={metaUrl} target="_blank" rel="noreferrer">
           {icon.name}
         </a>
-        <div className="tags">
+        <div className="bottom">
           {icon.size && <span className="tag">{icon.size}</span>}
           {icon.dark && <span className="tag dark-tag">dark</span>}
-          {icon.fileId && <span className="tag id">id {icon.fileId}</span>}
+          <Actions icon={icon} />
         </div>
       </div>
+    </li>
+  );
+}
 
-      <div className="actions">
-        <Copy text={icon.name} label="Name" />
-        <Copy
-          text={`EditorGUIUtility.IconContent("${icon.name}")`}
-          label="C#"
-        />
-        {icon.fileId && <Copy text={icon.fileId} label="File ID" />}
+/** Grid card: centered thumbnail, name below, values + copy buttons at bottom. */
+export function IconCard({ icon, base, repo, branch }: Props) {
+  const metaUrl = `https://github.com/${repo}/blob/${branch}/${icon.meta}`;
+  return (
+    <li className="card" style={{ contentVisibility: "auto" } as React.CSSProperties}>
+      <Thumb icon={icon} base={base} />
+      <a className="name" href={metaUrl} target="_blank" rel="noreferrer" title={icon.name}>
+        {icon.name}
+      </a>
+      <div className="bottom">
+        {icon.size && <span className="tag">{icon.size}</span>}
+        {icon.dark && <span className="tag dark-tag">dark</span>}
+        <Actions icon={icon} />
       </div>
     </li>
   );

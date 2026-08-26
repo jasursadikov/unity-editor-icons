@@ -110,7 +110,7 @@ body {
   color: #fff;
 }
 
-/* List -------------------------------------------------------------------- */
+/* List / Grid ------------------------------------------------------------- */
 .result-count {
   color: var(--muted);
   font-size: 12px;
@@ -121,11 +121,21 @@ body {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.list.view-list {
   border: 1px solid var(--border);
   border-radius: 10px;
   overflow: hidden;
 }
 
+.list.view-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 10px;
+}
+
+/* List row */
 .row {
   display: flex;
   align-items: center;
@@ -143,13 +153,39 @@ body {
   background: var(--panel);
 }
 
+/* Grid card */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--panel);
+  text-align: center;
+  contain-intrinsic-size: auto 150px;
+}
+
+.card:hover {
+  border-color: var(--accent-2);
+}
+
+/* Thumbnail (shared) */
 .thumb {
   flex: 0 0 56px;
+  width: 56px;
   height: 56px;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 6px;
+}
+
+.card .thumb {
+  flex: none;
+  width: 72px;
+  height: 72px;
 }
 
 .preview-dark .thumb {
@@ -174,6 +210,7 @@ body {
   image-rendering: pixelated;
 }
 
+/* Meta / name */
 .meta {
   flex: 1 1 auto;
   min-width: 0;
@@ -191,11 +228,22 @@ body {
   text-decoration: underline;
 }
 
-.tags {
+.card .name {
+  max-width: 100%;
+  font-size: 12px;
+}
+
+/* Bottom line: values + copy buttons together */
+.bottom {
   margin-top: 4px;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 6px;
+}
+
+.card .bottom {
+  justify-content: center;
 }
 
 .tag {
@@ -216,8 +264,9 @@ body {
 }
 
 .actions {
-  flex: 0 0 auto;
-  display: flex;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
   gap: 6px;
 }
 
@@ -227,8 +276,12 @@ body {
   background: var(--panel);
   color: var(--muted);
   border-radius: 6px;
-  padding: 5px 8px;
+  padding: 4px 8px;
   cursor: pointer;
+}
+
+.card .copy {
+  background: var(--panel-2);
 }
 
 .copy:hover {
@@ -278,7 +331,7 @@ body {
 }
 
 @media (max-width: 620px) {
-  .actions .copy:not(:first-child) {
-    display: none;
+  .search {
+    flex-basis: 100%;
   }
 }
