@@ -270,6 +270,7 @@ body {
 
 /* Grid card */
 .card {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -284,6 +285,15 @@ body {
 
 .card:hover {
   border-color: var(--accent-2);
+}
+
+.card-size {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  font-size: 10px;
+  color: var(--muted);
 }
 
 /* Thumbnail (shared) */
