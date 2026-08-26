@@ -1,5 +1,5 @@
-# CanvasRenderer Icon `16x16`
-<img src="/img/CanvasRenderer%20Icon.png" width=16 height=16>
+# CanvasRenderer Icon `32x32`
+<img src="/img/CanvasRenderer%20Icon.png" width=32 height=32>
 
 ``` CSharp
 EditorGUIUtility.IconContent("CanvasRenderer Icon")
