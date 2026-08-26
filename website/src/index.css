@@ -43,7 +43,13 @@ body {
   z-index: 10;
   background: var(--bg);
   padding: 16px 0 12px;
-  border-bottom: 1px solid var(--border);
+}
+
+.titles {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 6px 10px;
 }
 
 .titles h1 {
@@ -52,9 +58,9 @@ body {
   font-weight: 600;
 }
 
-.subtitle {
-  margin: 4px 0 0;
+.ver {
   color: var(--muted);
+  font-size: 13px;
 }
 
 .controls {
@@ -65,19 +71,45 @@ body {
   align-items: center;
 }
 
-.search {
+.search-bar {
   flex: 1 1 320px;
-  min-width: 240px;
-  padding: 9px 12px;
-  border-radius: 8px;
+  min-width: 220px;
+  display: flex;
+  align-items: stretch;
   border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
   background: var(--panel);
+}
+
+.search-bar:focus-within {
+  border-color: var(--accent);
+}
+
+.search {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 9px 12px;
+  border: 0;
+  background: transparent;
   color: var(--text);
   outline: none;
 }
 
-.search:focus {
-  border-color: var(--accent);
+.search-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-left: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--muted);
+  padding: 0 12px;
+  cursor: pointer;
+}
+
+.search-btn:hover {
+  color: var(--text);
 }
 
 .toggle-group {
@@ -229,17 +261,23 @@ body {
   image-rendering: pixelated;
 }
 
-/* Meta / name */
-.meta {
-  flex: 1 1 auto;
+/* Name + copy */
+.name-wrap {
+  display: flex;
+  align-items: center;
+  gap: 4px;
   min-width: 0;
+  flex: 0 1 auto;
 }
 
 .name {
   font-family: "SFMono-Regular", ui-monospace, Menlo, Consolas, monospace;
   color: var(--text);
   text-decoration: none;
-  word-break: break-all;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
 }
 
 .name:hover {
@@ -247,22 +285,53 @@ body {
   text-decoration: underline;
 }
 
-.card .name {
+.card .name-wrap {
   max-width: 100%;
+  justify-content: center;
+}
+
+.card .name {
   font-size: 12px;
 }
 
-/* Bottom line: values + copy buttons together */
+.name-copy {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 2px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.name-copy:hover {
+  color: var(--text);
+  background: var(--panel-2);
+}
+
+.name-copy.copied {
+  color: #7ee787;
+}
+
+/* Resolution + right-aligned ID (list) */
+.right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  flex: none;
+}
+
+/* Bottom line for grid cards */
 .bottom {
-  margin-top: 4px;
+  margin-top: 2px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 6px;
-}
-
-.card .bottom {
   justify-content: center;
+  gap: 6px;
 }
 
 .tag {
@@ -315,7 +384,7 @@ body {
   outline: none;
 }
 
-.id-copy {
+.merge-copy {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -327,11 +396,11 @@ body {
   cursor: pointer;
 }
 
-.id-copy:hover {
+.merge-copy:hover {
   color: var(--text);
 }
 
-.id-copy.copied {
+.merge-copy.copied {
   color: #7ee787;
 }
 
