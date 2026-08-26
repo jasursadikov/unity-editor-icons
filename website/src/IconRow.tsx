@@ -122,15 +122,14 @@ export function IconRow({ icon, base, repo, branch }: Props) {
   );
 }
 
-/** Grid card: centered thumbnail, name (+copy), then resolution + ID. */
+/** Grid card: size in the top-right corner, centered thumbnail, name + ID. */
 export function IconCard({ icon, base, repo, branch }: Props) {
   return (
     <li className="card" style={{ contentVisibility: "auto" } as React.CSSProperties}>
+      {icon.size && <span className="card-size">{icon.size}</span>}
       <Thumb icon={icon} base={base} />
       <NameCell icon={icon} repo={repo} branch={branch} />
       <div className="bottom">
-        {icon.size && <span className="res">{icon.size}</span>}
-        {icon.dark && <span className="tag dark-tag">dark</span>}
         {icon.fileId && <IdField id={icon.fileId} />}
       </div>
     </li>
