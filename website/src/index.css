@@ -112,6 +112,19 @@ body {
   color: var(--text);
 }
 
+.tools {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.divider {
+  width: 1px;
+  height: 22px;
+  background: var(--border);
+  flex: none;
+}
+
 .toggle-group {
   display: inline-flex;
   border: 1px solid var(--border);
@@ -120,12 +133,19 @@ body {
 }
 
 .toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border: 0;
   background: var(--panel);
   color: var(--muted);
-  padding: 8px 10px;
+  padding: 7px 10px;
   cursor: pointer;
   font-size: 12px;
+}
+
+.toggle svg {
+  display: block;
 }
 
 .toggle:not(:last-child) {
