@@ -16,7 +16,7 @@ def build_header(version: str) -> str:
         "# Unity Editor Built-in Icons\n"
         f"Unity version **{version}**\n"
         "\n"
-        "**[Use Web Version](https://jasursadikov.github.io/unity-editor-icons/)**\n"
+        "**⭐️ [Use Web Version](https://jasursadikov.github.io/unity-editor-icons/)**\n"
         "\n"
         "Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`\n"
         "\n"
@@ -29,7 +29,6 @@ def build_header(version: str) -> str:
         "\n"
         "All icons are clickable, you will be forwarded to description file.\n"
         "\n"
-        "> Prefer a single-column list with names and sizes? "
         "\n"
     )
 
