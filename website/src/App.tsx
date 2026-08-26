@@ -171,15 +171,6 @@ export function App() {
           <div className="notice">Scroll for more… ({limit}/{filtered.length})</div>
         )}
       </main>
-
-      <footer className="footer">
-        <a href={`https://github.com/${REPO}`}>Repository</a>
-        <span>·</span>
-        <span>
-          Icons mined with <code>IconsMiner.cs</code>. Original script by{" "}
-          <a href="https://github.com/halak">@halak</a>.
-        </span>
-      </footer>
     </div>
   );
 }
